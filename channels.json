@@ -1,46 +1,5 @@
 [
-  {
-    "name": "GMA 7",
-    "logo": "/images/gma-7.png",
-    "category": "Entertainment",
-    "url": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8"
-  },
-    {
-    "name": "A2Z",
-    "logo": "/images/a2z.png",
-    "category": "Entertainment",      
-    "url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_a2z/default/index.mpd",
-    "drm": {
-      "3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d": "4019f9269b9054a2b9e257b114ebbaf2"
-    }
-  },
-    {
-    "name": "One Sports",
-    "logo": "/images/one-sports.png",
-    "category": "Sports",     
-    "url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
-    "drm": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-    }
-  },
-    {
-    "name": "UAAP Varsity Channel",
-    "logo": "/images/varsity-channel.png",
-    "category": "Sports",     
-    "url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
-    "drm": {
-      "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
-    }
-  },
-  {
-    "name": "tVN Movies Pinoy",
-    "logo": "/images/tvn-movies-pinoy.png",
-    "category": "Movies",     
-    "url": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd",
-    "drm": {
-      "2e53f8d8a5e94bca8f9a1e16ce67df33": "3471b2464b5c7b033a03bb8307d9fa35"
-    }
-  },
+
   {
     "name": "AniPlus HD",
     "logo": "/images/aniplus-hd.png",
@@ -52,18 +11,6 @@
     "logo": "/images/anime-x-hidive.webp",
     "category": "Anime",
     "url": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/4300.m3u8"
-  },
-  {
-    "name": "Bilyonaryo Channel",
-    "logo": "/images/bilyonaryo.png",
-    "category": "News",
-    "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8"
-  },
-  {
-    "name": "BBC News",
-    "logo": "/images/bbc-news.png",
-    "category": "News",
-    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
   },
   {
     "name": "Moonbug",
@@ -78,40 +25,10 @@
     "url": "https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8"
   },
   {
-    "name": "Arirang",
-    "logo": "/images/arirang.png",
-    "category": "International",
-    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-  },
-  {
     "name": "New K-Pop",
     "logo": "/images/new-k-pop.webp",
     "category": "Music",
     "url": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
-  },
-  {
-    "name": "Vevo Pop",
-    "logo": "/images/vevo-pop.png",
-    "category": "Music",
-    "url": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
-  },
-  {
-    "name": "AMC+",
-    "logo": "/images/amc-plus.png",
-    "category": "Movies",
-    "url": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8"
-  },
-  {
-    "name": "AMC Presents",
-    "logo": "/images/amc-presents.png",
-    "category": "Movies",
-    "url": "https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8"
-  },
-  {
-    "name": "MovieSphere",
-    "logo": "/images/movie-sphere.png",
-    "category": "Movies",
-    "url": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8"
   },
   {
     "name": "Pop",
@@ -124,24 +41,6 @@
     "logo": "/images/cbeebies.png",
     "category": "Kids",
     "url": "https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8"
-  },
-  {
-    "name": "Outdoor",
-    "logo": "/images/outdoor.png",
-    "category": "Lifestyle",
-    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
-  },
-  {
-    "name": "Abante Radyo",
-    "logo": "/images/abante-radyo.png",
-    "category": "News",
-    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
-  },
-  {
-    "name": "Mindanow Network TV",
-    "logo": "/images/mindanow-network-tv.png",
-    "category": "Government",
-    "url": "https://streams.comclark.com/overlay/mindanow/playlist.m3u8"
   },
   {
     "name": "Wild Earth",
