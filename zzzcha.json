@@ -308,6 +308,16 @@
   },
 
   {
+    "name": "One News",
+    "logoLocal": "ch_one_news",
+    "category": "News",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd",
+    "drm": {
+      "2e6a9d7c1f4b4c8a8d33c7b1f0a5e924": "4c71e178d090332fbfe72e023b59f6d2"
+    }
+  },
+
+  {
     "name": "CNA",
     "logoLocal": "ch_cna",
     "category": "News",
