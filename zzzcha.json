@@ -98,7 +98,7 @@
 
   {
     "name": "MN+",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mnplus.webp",
+    "logoLocal": "ch_mnplus",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:01:00",
     "streamUrl": "https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd",
@@ -109,7 +109,7 @@
 
   {
     "name": "MNX HD",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mnx_hd.webp",
+    "logoLocal": "ch_mnx_hd",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:02:00",
     "streamUrl": "https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd",
@@ -120,7 +120,7 @@
 
   {
     "name": "Romedy Now",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_romedy_now.webp",
+    "logoLocal": "ch_romedy_now",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:03:00",
     "streamUrl": "https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd",
@@ -131,7 +131,7 @@
 
   {
     "name": "Blast Movies",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_blast_movies.webp",
+    "logoLocal": "ch_blast_movies",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:10:00",
     "streamUrl": "https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8"
@@ -139,7 +139,7 @@
 
   {
     "name": "Zee Sine",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_sine.webp",
+    "logoLocal": "ch_zee_sine",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:11:00",
     "streamUrl": "https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8"
@@ -1405,7 +1405,7 @@
 
   {
     "name": "France 24",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_france_24.webp",
+    "logoLocal": "ch_france_24",
     "category": "News",
     "dateAdded": "2026-03-24T21:13:00",
     "streamUrl": "https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8"
@@ -1534,7 +1534,7 @@
 
    {
     "name": "Pop",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_pop.webp",
+    "logoLocal": "ch_pop",
     "category": "Kids",
     "dateAdded": "2026-03-24T21:12:00",
     "streamUrl": "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
@@ -1610,7 +1610,7 @@
 
   {
     "name": "Sony Movies",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_sony_movies.webp",
+    "logoLocal": "ch_sony_movies",
     "category": "Movies",
     "dateAdded": "2026-03-24T21:00:00",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8"
