@@ -459,8 +459,8 @@
   },
 
   {
-    "name": "Animal Planet",
-    "logoLocal": "ch_animal_planet",
+    "name": "Animal Planet HD",
+    "logoLocal": "ch_animal_planet_hd",
     "category": "Documentary",
     "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
     "drm": {
