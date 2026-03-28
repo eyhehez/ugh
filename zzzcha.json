@@ -1,5 +1,7 @@
-[
+{
+  "top5": ["HBO", "GMA 7", "ALLTV2", "Movies Now", "AniPlus"],
   
+  "channels": [
   {
     "name": "Kapamilya Channel",
     "logoLocal": "ch_kapamilya_channel",
