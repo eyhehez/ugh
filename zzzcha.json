@@ -1988,21 +1988,12 @@
   },
 
   {
-    "name": "World Poker Tour",
-    "logoLocal": "ch_world_poker_tour",
-    "category": "Sports",
-    "dateAdded": "2026-03-23",
-    "type": "hls",
-    "streamUrl": "https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WorldPokerTour&ads.csid=xumo__WorldPokerTour_ssai&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_providerId=252&ads.xumo_providerName=WorldPokerTour&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991317&ads.xumo_platform=&ads.site_id=&ads.appName=xumo&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url="
-  },
-
-  {
     "name": "Motorvision TV",
     "logoLocal": "ch_motorvision_tv",
     "category": "Sports",
     "dateAdded": "2026-03-23",
     "type": "hls",
-    "streamUrl": "https://epg.provider.plex.tv/library/parts/697140a85d851f5e69414688-603fb593a99efc002dbf90e4/?X-Plex-Token=zigvMHRjmSaqGbePnLXZ"
+    "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?includeAssetTags=true&ads.xumo_channelId=99991325&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Motorvision&ads.csid=xumo__Motorvision_ssai&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991325&ads.xumo_platform=&ads.site_id=&ads.appName=xumo&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url="
   },
 
   {
@@ -2014,12 +2005,21 @@
   },
 
   {
+    "name": "World Poker Tour",
+    "logoLocal": "ch_world_poker_tour",
+    "category": "Sports",
+    "dateAdded": "2026-03-23",
+    "type": "hls",
+    "streamUrl": "https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317&ads._fw_ifa_type=&ads._fw_did=&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WorldPokerTour&ads.csid=xumo__WorldPokerTour_ssai&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_providerId=252&ads.xumo_providerName=WorldPokerTour&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991317&ads.xumo_platform=&ads.site_id=&ads.appName=xumo&ads.appVersion=&ads._fw_app_bundle=&ads._fw_app_store_url="
+  },
+
+  {
     "name": "Poker Night in America",
     "logoLocal": "ch_poker_night_in_america",
     "category": "Sports",
     "dateAdded": "2026-03-23",
     "type": "hls",
-    "streamUrl": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f/?X-Plex-Token=uRdx9rhmefAHAawHGvKb"
+    "streamUrl": "https://s1host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config2/dist/localnow/1068/hls/master/playlist.m3u8?ads.cdnhost=s1host5.localnow.api.cms.amdvids.com&ads.playbackid=780DDE63-269A-4B71-A59D-CD0B3F56FD4A&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=780DDE63-269A-4B71-A59D-CD0B3F56FD4A&ads.n4=content_name&ads.v4=Poker%20Night%20in%20America&ads.n21=channel_language&ads.v21=en&ads.n22=channel_brand_id&ads.v22=AMDB013678&ads.n23=h&ads.v23=1080&ads.n24=network_name&ads.v24=poker-night-in-america&ads.n25=channel_title&ads.v25=Poker%20Night%20in%20America&ads.n26=ifa_type&ads.v26=&ads.n27=channel_id&ads.v27=780DDE63-269A-4B71-A59D-CD0B3F56FD4A&ads.n28=channel_corp&ads.v28=acTVe%20Action%20Sports%20LLC&ads.n29=us_privacy&ads.v29=1YNY&ads.n30=device_make&ads.v30=&ads.n31=content_provider&ads.v31=poker-night-in-america&ads.n32=w&ads.v32=1920&ads.n33=gpp&ads.v33=&ads.n34=ua&ads.v34=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n35=cust_devicename&ads.v35=desktop_web&ads.n36=channel_genre&ads.v36=Gaming&ads.n37=pos&ads.v37=midroll&ads.n38=content_custom_2_param&ads.v38=AMDB013678&ads.n39=content_livestream&ads.v39=1&ads.n40=channel_rating&ads.v40=TV-PG&ads.n41=ip&ads.v41=86.48.9.131&ads.n42=content_custom_3_param&ads.v42=channel&ads.n43=channel_name&ads.v43=Poker%20Night%20in%20America&ads.n44=app_store_url&ads.v44=&ads.n45=app_version&ads.v45=0.0.0&ads.n46=content_type&ads.v46=channel&ads.n47=content_producer_name&ads.v47=acTVe%20Action%20Sports%20LLC&ads.n48=channel_company_id&ads.v48=AMDP500526&ads.n49=device_type&ads.v49=&ads.n50=dnt&ads.v50=&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=app_bundle&ads.v52=&ads.n53=device_model&ads.v53=&ads.n54=content_custom_1_param&ads.v54=780DDE63-269A-4B71-A59D-CD0B3F56FD4A&ads.n55=app_name&ads.v55=&ads.n56=channel_ext_id&ads.v56=6120385a19bf6e60884b43c2&ads.n57=gpp_sid&ads.v57=&ads.n58=did&ads.v58="
   },
 
   {
@@ -2028,7 +2028,7 @@
     "category": "Sports",
     "dateAdded": "2026-03-23",
     "type": "hls",
-    "streamUrl": "https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-61a945156547ba4d6d238dc9/?X-Plex-Token=uRdx9rhmefAHAawHGvKb"
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-61a945156547ba4d6d238dc9/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1"
   },
 
   {
