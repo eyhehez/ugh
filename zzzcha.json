@@ -35,7 +35,7 @@
     "category": "Entertainment",
     "streamUrl": "http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
-  
+
   {
     "name": "Kapatid Channel",
     "logoLocal": "ch_kapatid_channel",
@@ -47,6 +47,329 @@
   },
 
   {
+    "name": "GMA Pinoy TV",
+    "logoLocal": "ch_gma_pinoy_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
+    "drm": {
+      "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
+  },
+
+  {
+    "name": "GMA Life TV",
+    "logoLocal": "ch_gma_life_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
+    "drm": {
+      "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
+  },
+
+  {
+    "name": "GMA News TV",
+    "logoLocal": "ch_gma_news_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
+    "drm": {
+      "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
+  },
+
+  {
+    "name": "A2Z",
+    "logoLocal": "ch_a2z",
+    "category": "Entertainment",
+    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "AXN",
+    "logoLocal": "ch_axn",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd",
+    "drm": {
+      "c24a7811d9ab46b48b746a0e7e269210": "c321afe1689b07d5b7e55bd025c483ce"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "BuKO",
+    "logoLocal": "ch_buko",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd",
+    "drm": {
+      "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615"
+    }
+  },
+
+  {
+    "name": "Crime & Investigation",
+    "logoLocal": "ch_crime_investigation",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd",
+    "drm": {
+      "22fc5baf47ae3b6322bc244206bbb210": "db1ee2b8994b91aac65049ef3e493787"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "HITS",
+    "logoLocal": "ch_hits",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd",
+    "drm": {
+      "1fe92685a75844dc54c9dac124802510": "36cb2063bf5338d18d31657371b15817"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "HITS Now",
+    "logoLocal": "ch_hits_now",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd",
+    "drm": {
+      "4307def6a29bec082f8c93f1f98e5910": "a4d49bda8cd29ba2888c732b4e7d9d63"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "RPTV",
+    "logoLocal": "ch_rptv",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
+    "drm": {
+      "1917f4caf2364e6d9b1507326a85ead6": "a1340a251a5aa63a9b0ea5d9d7f67595"
+    }
+  },
+
+  {
+    "name": "Sari-Sari",
+    "logoLocal": "ch_sari_sari",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd",
+    "drm": {
+      "0a7ab3612f434335aa6e895016d8cd2d": "b21654621230ae21714a5cab52daeb9d"
+    }
+  },
+
+  {
+    "name": "True TV",
+    "logoLocal": "ch_true_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd",
+    "drm": {
+      "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
+    }
+  },
+
+  {
+    "name": "Warner TV",
+    "logoLocal": "ch_warner_tv",
+    "category": "Entertainment",
+    "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Wil TV",
+    "logoLocal": "ch_wil_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
+    "drm": {
+      "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a"
+    }
+  },
+
+  {
+    "name": "Jeepney TV",
+    "logoLocal": "ch_jeepney_tv",
+    "category": "Entertainment",
+    "streamUrl": "https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd",
+    "drm": {
+      "dc9fec234a5841bb8d06e92042c741ec": "225676f32612dc803cb4d0f950d063d0"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
+  },
+
+  {
+    "name": "TFC",
+    "logoLocal": "ch_tfc",
+    "category": "Entertainment",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd",
+    "drm": {
+      "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
+  },
+
+  {
+    "name": "Game Show Network",
+    "logoLocal": "ch_game_show_network",
+    "category": "Entertainment",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
+  },
+
+  {
+    "name": "Aliw Channel 23",
+    "logoLocal": "ch_aliw_channel_23",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "RJTV 29",
+    "logoLocal": "ch_rjtv_29",
+    "category": "Entertainment",
+    "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "AMC",
+    "logoLocal": "ch_amc",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd",
+    "drm": {
+      "3290efe4c5cf67165e846a0742c22cd9": "ddb94463c46af6037432fc026339c09d"
+    }
+  },
+
+  {
+    "name": "ROCK X Stream",
+    "logoLocal": "ch_rock_x_stream",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "ROCK X Stream",
+    "logoLocal": "ch_rock_x_stream",
+    "category": "Entertainment",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "yI_o80udyOEKAOh2pv9BNg",
+          "kid": "MlNw1yJWWrXtCaVIujYOEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Rock Entertainment",
+    "logoLocal": "ch_rock_entertainment",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
+    "drm": {
+      "e4ee0cf8ca9746f99af402ca6eed8dc7": "be2a096403346bc1d0bb0f812822bb62"
+    }
+  },
+
+  {
+    "name": "Comedy Central",
+    "logoLocal": "ch_comedy_central",
+    "category": "Entertainment",
+    "streamUrl": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
+  },
+
+  {
+    "name": "SYFY",
+    "logoLocal": "ch_syfy",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
+  },
+
+  {
+    "name": "Paramount Network",
+    "logoLocal": "ch_paramount_network",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
+  },
+
+  {
+    "name": "Hallmark",
+    "logoLocal": "ch_hallmark",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
+  },
+
+  {
+    "name": "E!",
+    "logoLocal": "ch_e",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://23.237.104.106:8080/USA_E/index.m3u8"
+  },
+
+  {
+    "name": "ION",
+    "logoLocal": "ch_ion",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8"
+  },
+
+  {
+    "name": "Fox",
+    "logoLocal": "ch_fox",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120750.m3u8"
+  },
+
+  {
+    "name": "ABC",
+    "logoLocal": "ch_abc",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/121139.m3u8"
+  },
+
+  {
+    "name": "CBS",
+    "logoLocal": "ch_cbs",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8"
+  },
+
+  {
     "name": "Cinema One",
     "logoLocal": "ch_cinema_one",
     "category": "Movies",
@@ -55,7 +378,7 @@
       "55eddd1e157e4c3b830866e4679e7032": "525030e984567ba8df0af80660952368"
     }
   },
- 
+
   {
     "name": "Cinema One Global",
     "logoLocal": "ch_cinema_one",
@@ -73,7 +396,6 @@
     "streamUrl": "http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
- 
   {
     "name": "Cinemo Global",
     "logoLocal": "ch_cinemo",
@@ -177,7 +499,7 @@
     }
   },
 
-   {
+  {
     "name": "HBO Signature",
     "logoLocal": "ch_hbo_signature",
     "category": "Movies",
@@ -200,6 +522,13 @@
     "category": "Movies",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd",
     "drm": {
+        "keys": [
+            {
+    "name": "HITS Movies",
+    "logoLocal": "ch_hits_movies",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd",
+    "drm": {
       "keys": [
         {
           "kty": "oct",
@@ -217,7 +546,7 @@
   {
     "name": "Star Movies",
     "logoLocal": "ch_star_movies",
-    "category": "Movies",    
+    "category": "Movies",
     "streamUrl": "http://103.175.242.10:8080/starmovies/index.m3u8"
   },
 
@@ -229,12 +558,826 @@
   },
 
   {
-    "name": "GMA Pinoy TV",
-    "logoLocal": "ch_gma_pinoy_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
+    "name": "Celestial Movies Pinoy",
+    "logoLocal": "ch_celestial_movies_pinoy",
+    "category": "Movies",
+    "streamUrl": "http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Celestial Movies",
+    "logoLocal": "ch_celestial_movies",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
     "drm": {
-      "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
+        "keys": [
+            {
+    "name": "Celestial Movies",
+    "logoLocal": "ch_celestial_movies",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "NhGXgF0BScKYAZRs8t3mfA",
+          "kid": "xcG6JpByka/sEamnjVE0EA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Celestial Classic Movies",
+    "logoLocal": "ch_ccm",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
+    "drm": {
+      "a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "PBO",
+    "logoLocal": "ch_pbo",
+    "category": "Movies",
+    "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Tap Movies",
+    "logoLocal": "ch_tap_movies",
+    "category": "Movies",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd",
+    "drm": {
+      "71cbdf02b595468bb77398222e1ade09": "c3f2aa420b8908ab8761571c01899460"
+    }
+  },
+
+  {
+    "name": "Tap Action Flix",
+    "logoLocal": "ch_tap_action_flix",
+    "category": "Movies",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "THRILL",
+    "logoLocal": "ch_thrill",
+    "category": "Movies",
+    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Tagalized Movie Channel",
+    "logoLocal": "ch_tmc",
+    "category": "Movies",
+    "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "tvN Movies Pinoy",
+    "logoLocal": "ch_tvn_movies_pinoy",
+    "category": "Movies",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd",
+    "drm": {
+      "2e53f8d8a5e94bca8f9a1e16ce67df33": "3471b2464b5c7b033a03bb8307d9fa35"
+    }
+  },
+
+  {
+    "name": "Viva Cinema",
+    "logoLocal": "ch_viva_cinema",
+    "category": "Movies",
+    "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "SolarFlix",
+    "logoLocal": "ch_solarflix",
+    "category": "Movies",
+    "streamUrl": "http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "TVN Movies",
+    "logoLocal": "ch_tvn_movies",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd",
+    "drm": {
+      "8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Stories by AMC",
+    "logoLocal": "ch_amc_presents",
+    "category": "Movies",
+    "streamUrl": "https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "MovieSphere",
+    "logoLocal": "ch_moviesphere",
+    "category": "Movies",
+    "streamUrl": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "ROCK Action",
+    "logoLocal": "ch_rock_action",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "ROCK Action",
+    "logoLocal": "ch_rock_action",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "ooFuWncl1q35-_LATMug-w",
+          "kid": "VPL7-vUpXINEgJ0k3KkbEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Astro Showcase",
+    "logoLocal": "ch_astro_showcase",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd",
+    "drm": {
+      "b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Astro Showtime",
+    "logoLocal": "ch_astro_showtime",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Astro Showtime",
+    "logoLocal": "ch_astro_showtime",
+    "category": "Movies",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "7RJVdgSDgSHZlvDXg3nKow",
+          "kid": "aZ-4LHCn7Cl_M6pEI7q1EA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "FX Movie Channel",
+    "logoLocal": "ch_fx_movie_channel",
+    "category": "Movies",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8"
+  },
+
+  {
+    "name": "Sony Movies",
+    "logoLocal": "ch_sony_movies",
+    "category": "Movies",
+    "dateAdded": "2026-03-24T21:00:00",
+    "streamUrl": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8"
+  },
+
+  {
+    "name": "Animax",
+    "logoLocal": "ch_animax",
+    "category": "Anime",
+    "streamUrl": "https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8"
+  },
+
+  {
+    "name": "AniPlus",
+    "logoLocal": "ch_aniplus",
+    "category": "Anime",
+    "streamUrl": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
+  },
+
+  {
+    "name": "Anime X HiDive",
+    "logoLocal": "ch_anime_x_hidive",
+    "category": "Anime",
+    "streamUrl": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8"
+  },
+
+  {
+    "name": "Ani-blast",
+    "logoLocal": "ch_ani_blast",
+    "category": "Anime",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
+  },
+
+  {
+    "name": "Cartoon Network",
+    "logoLocal": "ch_cartoon_network",
+    "category": "Kids",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd",
+    "drm": {
+      "1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Cartoon Network Philippines",
+    "logoLocal": "ch_cartoon_network",
+    "category": "Kids",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd",
+    "drm": {
+      "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
+    }
+  },
+
+  {
+    "name": "DreamWorks",
+    "logoLocal": "ch_dreamworks",
+    "category": "Kids",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
+    "drm": {
+      "7b1e9c4d5a2f4d8c9f106d3a8b2c1e77": "8b2904224c6cee13d2d4e06c0a3b2887"
+    }
+  },
+
+  {
+    "name": "DreamWorks (Tagalized)",
+    "logoLocal": "ch_dreamworks",
+    "category": "Kids",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd",
+    "drm": {
+      "564b3b1c781043c19242c66e348699c5": "d3ad27d7fe1f14fb1a2cd5688549fbab"
+    }
+  },
+
+  {
+    "name": "Moonbug",
+    "logoLocal": "ch_moonbug",
+    "category": "Kids",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd",
+    "drm": {
+      "e3cb7499710786eb105fab7b52459910": "8ab093adabdc343b8734b7ecf0aea11a"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Nick Jr",
+    "logoLocal": "ch_nick_jr",
+    "category": "Kids",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Nickelodeon",
+    "logoLocal": "ch_nickelodeon",
+    "category": "Kids",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd",
+    "drm": {
+      "d8520e96a1283ab6e5be538474bfa810": "bda5f7bbc1e44096f779a0619fe9881f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Nicktoons",
+    "logoLocal": "ch_nicktoons",
+    "category": "Kids",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://212.102.60.231/NICKTOONS/index.m3u8"
+  },
+
+  {
+    "name": "Cartoonito",
+    "logoLocal": "ch_cartoonito",
+    "category": "Kids",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Disney Channel",
+    "logoLocal": "ch_disney_channel",
+    "category": "Kids",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd",
+    "drm": {
+      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
+    }
+  },
+
+  {
+    "name": "Disney Channel US",
+    "logoLocal": "ch_disney_channel",
+    "category": "Kids",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://89.105.221.127/Disney/index.m3u8?token=test"
+  },
+
+  {
+    "name": "Disney Jr.",
+    "logoLocal": "ch_disney_jr",
+    "category": "Kids",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd",
+    "drm": {
+      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
+    }
+  },
+
+  {
+    "name": "Disney XD",
+    "logoLocal": "ch_disney_xd",
+    "category": "Kids",
+    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+  },
+
+  {
+    "name": "CBeebies",
+    "logoLocal": "ch_cbeebies",
+    "category": "Kids",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd",
+    "drm": {
+      "50c699c444e5f80dacafc4c99667d810": "de6c5feaae5f6963b4b392ddc8b6a778"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "YTV",
+    "logoLocal": "ch_ytv",
+    "category": "Kids",
+    "streamUrl": "https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd",
+    "drm": {
+      "6f0aeae5779f1dcaef23f0bfbc828220": "7bcef3cf93de00e3daeb190d15b1ec05"
+    }
+  },
+
+  {
+    "name": "[adult swim]",
+    "logoLocal": "ch_adult_swim",
+    "category": "Kids",
+    "streamUrl": "https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd",
+    "drm": {
+      "cc26110bb0d29d0e4452d42602846080": "4a2e5782e26a3e2d7dd0431205c14518"
+    }
+  },
+
+  {
+    "name": "ZooMoo",
+    "logoLocal": "ch_zoomoo",
+    "category": "Kids",
+    "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "Kartoon Channel!",
+    "logoLocal": "ch_kartoon_channel",
+    "category": "Kids",
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
+  },
+
+  {
+    "name": "BOOMERANG",
+    "logoLocal": "ch_boomerang",
+    "category": "Kids",
+    "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
+  },
+
+  {
+    "name": "Pop",
+    "logoLocal": "ch_pop",
+    "category": "Kids",
+    "dateAdded": "2026-03-24T21:12:00",
+    "streamUrl": "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "National Geographic",
+    "logoLocal": "ch_nat_geo",
+    "category": "Documentary",
+    "streamUrl": "http://supersonictv.live:8080/611366/682256/22124"
+  },
+
+  {
+    "name": "National Geographic Wild",
+    "logoLocal": "ch_nat_geo_wild",
+    "category": "Documentary",
+    "streamUrl": "http://supersonictv.live:8080/611366/682256/22125"
+  },
+
+  {
+    "name": "Animal Planet",
+    "logoLocal": "ch_animal_planet",
+    "category": "Documentary",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001825&contentid=ch00000000000000001825&videoid=ch00000090990000001335&recommendtype=0&userid=1196740911215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=87D9GXACFV2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Animal Planet HD",
+    "logoLocal": "ch_animal_planet_hd",
+    "category": "Documentary",
+    "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
+    "drm": {
+      "df81f15150f74c799fdde64ef49dfb75": "05794a012ae74d77953f2b9fae6804c7"
+    }
+  },
+
+  {
+    "name": "BBC Earth",
+    "logoLocal": "ch_bbc_earth",
+    "category": "Documentary",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd",
+    "drm": {
+      "34ce95b60c424e169619816c5181aded": "0e2a2117d705613542618f58bf26fc8e"
+    }
+  },
+
+  {
+    "name": "Discovery Channel",
+    "logoLocal": "ch_discovery",
+    "category": "Documentary",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Discovery Channel",
+    "logoLocal": "ch_discovery",
+    "category": "Documentary",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "A++I3xpHZp5UWeEF47U1sQ",
+          "kid": "J2dnpXiq4urLKEJHzNnrEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Discovery Science",
+    "logoLocal": "ch_discovery_science",
+    "category": "Documentary",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9822"
+  },
+
+  {
+    "name": "History",
+    "logoLocal": "ch_history",
+    "category": "Documentary",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd",
+    "drm": {
+      "3feecc36930732cbb69306dc687c6f10": "3458265f7530bf1fef204ca8cb4689db"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Love Nature",
+    "logoLocal": "ch_love_nature",
+    "category": "Documentary",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Love Nature",
+    "logoLocal": "ch_love_nature",
+    "category": "Documentary",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "d1plTAYQgRrQIjKaaIhN4Q",
+          "kid": "FovYFUaGOf5FKLS/AUHzEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Wild Earth",
+    "logoLocal": "ch_wild_earth",
+    "category": "Documentary",
+    "streamUrl": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
+  },
+
+  {
+    "name": "Smithsonian Channel",
+    "logoLocal": "ch_smithsonian_channel",
+    "category": "Documentary",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8"
+  },
+
+  {
+    "name": "DepEd TV",
+    "logoLocal": "ch_deped_tv",
+    "category": "Educational",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
+    "drm": {
+      "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df"
+    }
+  },
+
+  {
+    "name": "Knowledge Channel",
+    "logoLocal": "ch_knowledge_channel",
+    "category": "Educational",
+    "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "IBC 13",
+    "logoLocal": "ch_ibc",
+    "category": "Government",
+    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "PTV4",
+    "logoLocal": "ch_ptv",
+    "category": "Government",
+    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Mindanow Network",
+    "logoLocal": "ch_mindanow_network",
+    "category": "Government",
+    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Asian Food Network",
+    "logoLocal": "ch_afn",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Asian Food Network",
+    "logoLocal": "ch_afn",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "zwz/tje4FZiie9aw2Q1lqA",
+          "kid": "NGufQeKTN0jIhh+Cky4BEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Discovery Asia",
+    "logoLocal": "ch_discovery_asia",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Discovery Asia",
+    "logoLocal": "ch_discovery_asia",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "w6WOyGfMJYKeH76JOEQlUw",
+          "kid": "P/AvzYDC4yMMUq5w/pA0EA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "HGTV",
+    "logoLocal": "ch_hgtv",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "HGTV",
+    "logoLocal": "ch_hgtv",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "KmlbBG589YEaY00TSEQRlQ",
+          "kid": "jBuzCZVe7jKII5Cr6+GYEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "BBC Lifestyle",
+    "logoLocal": "ch_bbc_lifestyle",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
+    "drm": {
+      "f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Fashion TV",
+    "logoLocal": "ch_fashion_tv",
+    "category": "Lifestyle",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd",
+    "drm": {
+      "9d7c1f2a6b4e4a8d8f33c1e5b7d2a960": "3a18c535c52db7c79823f59036a9d195"
+    }
+  },
+
+  {
+    "name": "Food Network",
+    "logoLocal": "ch_food_network",
+    "category": "Lifestyle",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
+    "drm": {
+      "4a9d2f7c1e6b4c8d8a55d7b1e3f0c926": "2e62531bdb450480a18197b14f4ebc77"
+    }
+  },
+
+  {
+    "name": "Lifetime",
+    "logoLocal": "ch_lifetime",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd",
+    "drm": {
+        "keys": [
+            {
+    "name": "Lifetime",
+    "logoLocal": "ch_lifetime",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "GDs+r6TILmj3TEJE1UkGsA",
+          "kid": "jeEeAF21vQ24IogUhjzTEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Travel Channel",
+    "logoLocal": "ch_travel_channel",
+    "category": "Lifestyle",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd",
+    "drm": {
+      "f3047fc13d454dacb6db4207ee79d3d3": "bdbd38748f51fc26932e96c9a2020839"
+    }
+  },
+
+  {
+    "name": "Travel Channel US",
+    "logoLocal": "ch_travel_channel",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162595"
+  },
+
+  {
+    "name": "TLC",
+    "logoLocal": "ch_tlc",
+    "category": "Lifestyle",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
+    "drm": {
+      "942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Living Asia Channel",
+    "logoLocal": "ch_living_asia_channel",
+    "category": "Lifestyle",
+    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Metro Channel",
+    "logoLocal": "ch_metro_channel",
+    "category": "Lifestyle",
+    "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Outdoor",
+    "logoLocal": "ch_outdoor",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+  },
+
+  {
+    "name": "Tastemade",
+    "logoLocal": "ch_tastemade",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8"
+  },
+
+  {
+    "name": "MYX",
+    "logoLocal": "ch_myx",
+    "category": "Music",
+    "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "MYX Global",
+    "logoLocal": "ch_myx",
+    "category": "Music",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/28b644c3-4a05-4733-a518-50ae75ff8193/index.mpd",
+    "drm": {
+      "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4"
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
@@ -242,51 +1385,35 @@
   },
 
   {
-    "name": "GMA Life TV",
-    "logoLocal": "ch_gma_life_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd",
-    "drm": {
-      "5d308ef487f54107b7da758e195ecbd3": "9d4004d4c065dd4b85ad5bd12c35386f"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
+    "name": "New K-Pop",
+    "logoLocal": "ch_new_k_pop",
+    "category": "Music",
+    "streamUrl": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
   },
 
   {
-    "name": "GMA News TV",
-    "logoLocal": "ch_gma_news_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
-    "drm": {
-      "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
+    "name": "Vevo Pop",
+    "logoLocal": "ch_vevo_pop",
+    "category": "Music",
+    "streamUrl": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
   },
 
   {
-    "name": "One Sports",
-    "logoLocal": "ch_one_sports",
-    "category": "Sports",
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
-    "drm": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-    }
+    "name": "Trace Urban",
+    "logoLocal": "ch_trace_urban",
+    "category": "Music",
+    "streamUrl": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
   },
 
   {
-    "name": "One Sports+",
-    "logoLocal": "ch_one_sports_plus",
-    "category": "Sports",
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
-    "drm": {
-      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
-    }
+    "name": "K-Pop by CJ ENM",
+    "logoLocal": "ch_k_pop_by_cj_enm",
+    "category": "Music",
+    "dateAdded": "2026-03-23",
+    "type": "hls",
+    "streamUrl": "https://jmp2.uk/stvp-US39000038W"
   },
- 
+
   {
     "name": "ANC",
     "logoLocal": "ch_anc",
@@ -329,205 +1456,12 @@
   },
 
   {
-    "name": "National Geographic",
-    "logoLocal": "ch_nat_geo",
-    "category": "Documentary",
-    "streamUrl": "http://supersonictv.live:8080/611366/682256/22124"
-  },
-
-  {
-    "name": "National Geographic Wild",
-    "logoLocal": "ch_nat_geo_wild",
-    "category": "Documentary",
-    "streamUrl": "http://supersonictv.live:8080/611366/682256/22125"
-  },
-
-  {
-    "name": "Asian Food Network",
-    "logoLocal": "ch_afn",
-    "category": "Lifestyle",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "zwz/tje4FZiie9aw2Q1lqA",
-          "kid": "NGufQeKTN0jIhh+Cky4BEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Discovery Asia",
-    "logoLocal": "ch_discovery_asia",
-    "category": "Lifestyle",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "w6WOyGfMJYKeH76JOEQlUw",
-          "kid": "P/AvzYDC4yMMUq5w/pA0EA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "HGTV",
-    "logoLocal": "ch_hgtv",
-    "category": "Lifestyle",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "KmlbBG589YEaY00TSEQRlQ",
-          "kid": "jBuzCZVe7jKII5Cr6+GYEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "K+",
-    "logoLocal": "ch_k_plus",
-    "category": "International",
-    "streamUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd",
-    "drm": {
-      "aa48b28bd723f91214887df6ed9fad10": "b5a3a800848120c843ae0fa68c09c261"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "tvN",
-    "logoLocal": "ch_tvn",
-    "category": "International",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd",
-    "drm": {
-      "e1bde543e8a140b38d3f84ace746553e": "b712c4ec307300043333a6899a402c10"
-    }
-  },
-
-  {
-    "name": "Animax",
-    "logoLocal": "ch_animax",
-    "category": "Anime",
-    "streamUrl": "https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8"
-  },
-
-  {
-    "name": "AniPlus",
-    "logoLocal": "ch_aniplus",
-    "category": "Anime",
-    "streamUrl": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
-  },
-
-  {
-    "name": "Anime X HiDive",
-    "logoLocal": "ch_anime_x_hidive",
-    "category": "Anime",
-    "streamUrl": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8"
-  },
-
-   {
-    "name": "Ani-blast",
-    "logoLocal": "ch_ani_blast",
-    "category": "Anime",
-    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
-  },
-
-  {
-    "name": "A2Z",
-    "logoLocal": "ch_a2z",
-    "category": "Entertainment",
-    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
     "name": "Al Jazeera",
     "logoLocal": "ch_al_jazeera",
     "category": "News",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd",
     "drm": {
       "b1fbd0874e7923f5b05929a042aa0610": "6c3c498113abffdf454dc935319a794d"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Animal Planet",
-    "logoLocal": "ch_animal_planet",
-    "category": "Documentary",
-    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMs3LsiO6wq83YHtJwM7wV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001825&contentid=ch00000000000000001825&videoid=ch00000090990000001335&recommendtype=0&userid=1196740911215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=87D9GXACFV2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Animal Planet HD",
-    "logoLocal": "ch_animal_planet_hd",
-    "category": "Documentary",
-    "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
-    "drm": {
-      "df81f15150f74c799fdde64ef49dfb75": "05794a012ae74d77953f2b9fae6804c7"
-    }
-  },
-
-  {
-    "name": "Arirang",
-    "logoLocal": "ch_arirang",
-    "category": "International",
-    "streamUrl": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
-  },
-
-  {
-    "name": "AXN",
-    "logoLocal": "ch_axn",
-    "category": "Entertainment",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd",
-    "drm": {
-      "c24a7811d9ab46b48b746a0e7e269210": "c321afe1689b07d5b7e55bd025c483ce"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "BBC Earth",
-    "logoLocal": "ch_bbc_earth",
-    "category": "Documentary",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd",
-    "drm": {
-      "34ce95b60c424e169619816c5181aded": "0e2a2117d705613542618f58bf26fc8e"
-    }
-  },
-
-  {
-    "name": "BBC Lifestyle",
-    "logoLocal": "ch_bbc_lifestyle",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
-    "drm": {
-      "f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
@@ -561,79 +1495,6 @@
   },
 
   {
-    "name": "BuKO",
-    "logoLocal": "ch_buko",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd",
-    "drm": {
-      "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615"
-    }
-  },
-
-  {
-    "name": "Cartoon Network",
-    "logoLocal": "ch_cartoon_network",
-    "category": "Kids",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd",
-    "drm": {
-      "1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Cartoon Network Philippines",
-    "logoLocal": "ch_cartoon_network",
-    "category": "Kids",  
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd",
-    "drm": {
-      "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
-    }
-  },
-
-  {
-    "name": "Celestial Movies Pinoy",
-    "logoLocal": "ch_celestial_movies_pinoy",
-    "category": "Movies",
-    "streamUrl": "http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Celestial Movies",
-    "logoLocal": "ch_celestial_movies",
-    "category": "Movies",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "NhGXgF0BScKYAZRs8t3mfA",
-          "kid": "xcG6JpByka/sEamnjVE0EA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-   {
-    "name": "Celestial Classic Movies",
-    "logoLocal": "ch_ccm",
-    "category": "Movies", 
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
-    "drm": {
-      "a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
- 
-  {
     "name": "CNN International",
     "logoLocal": "ch_cnn",
     "category": "News",
@@ -641,39 +1502,30 @@
   },
 
   {
-    "name": "Crime & Investigation",
-    "logoLocal": "ch_crime_investigation",
-    "category": "Entertainment",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd",
-    "drm": {
-      "22fc5baf47ae3b6322bc244206bbb210": "db1ee2b8994b91aac65049ef3e493787"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
+    "name": "DZRH TV",
+    "logoLocal": "ch_dzrh_tv",
+    "category": "News",
+    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
   {
-    "name": "DepEd TV",
-    "logoLocal": "ch_deped_tv",
-    "category": "Educational",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
+    "name": "CNBC",
+    "logoLocal": "ch_cnbc",
+    "category": "News",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd",
     "drm": {
-      "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df"
-    }
-  },
-
-  {
-    "name": "Discovery Channel",
-    "logoLocal": "ch_discovery",
-    "category": "Documentary",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd",
+        "keys": [
+            {
+    "name": "CNBC",
+    "logoLocal": "ch_cnbc",
+    "category": "News",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd",
     "drm": {
       "keys": [
         {
           "kty": "oct",
-          "k": "A++I3xpHZp5UWeEF47U1sQ",
-          "kid": "J2dnpXiq4urLKEJHzNnrEA"
+          "k": "YCgnqHDUmGLRoj8pEpV7TA",
+          "kid": "w6OPE0BTF1mhype8XYDIEA"
         }
       ],
       "type": "temporary"
@@ -684,60 +1536,35 @@
   },
 
   {
-    "name": "Discovery Science",
-    "logoLocal": "ch_discovery_science",
-    "category": "Documentary",
+    "name": "France 24",
+    "logoLocal": "ch_france_24",
+    "category": "News",
+    "dateAdded": "2026-03-24T21:13:00",
+    "streamUrl": "https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8"
+  },
+
+  {
+    "name": "Abante Radyo",
+    "logoLocal": "ch_abante_radyo",
+    "category": "News",
+    "streamUrl": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
+  },
+
+  {
+    "name": "Fox News",
+    "logoLocal": "ch_fox_news",
+    "category": "News",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9822"
+    "streamUrl": "https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts"
   },
 
   {
-    "name": "DreamWorks",
-    "logoLocal": "ch_dreamworks",
-    "category": "Kids",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
+    "name": "K+",
+    "logoLocal": "ch_k_plus",
+    "category": "International",
+    "streamUrl": "http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd",
     "drm": {
-      "7b1e9c4d5a2f4d8c9f106d3a8b2c1e77": "8b2904224c6cee13d2d4e06c0a3b2887"
-    }
-  },
-
-  {
-    "name": "DreamWorks (Tagalized)",
-    "logoLocal": "ch_dreamworks",
-    "category": "Kids",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd",
-    "drm": {
-      "564b3b1c781043c19242c66e348699c5": "d3ad27d7fe1f14fb1a2cd5688549fbab"
-    }
-  },
-
-  {
-    "name": "Fashion TV",
-    "logoLocal": "ch_fashion_tv",
-    "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd",
-    "drm": {
-      "9d7c1f2a6b4e4a8d8f33c1e5b7d2a960": "3a18c535c52db7c79823f59036a9d195"
-    }
-  },
-
-  {
-    "name": "Food Network",
-    "logoLocal": "ch_food_network",
-    "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
-    "drm": {
-      "4a9d2f7c1e6b4c8d8a55d7b1e3f0c926": "2e62531bdb450480a18197b14f4ebc77"
-    }
-  },
-
-  {
-    "name": "History",
-    "logoLocal": "ch_history",
-    "category": "Documentary",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd",
-    "drm": {
-      "3feecc36930732cbb69306dc687c6f10": "3458265f7530bf1fef204ca8cb4689db"
+      "aa48b28bd723f91214887df6ed9fad10": "b5a3a800848120c843ae0fa68c09c261"
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
@@ -745,36 +1572,20 @@
   },
 
   {
-    "name": "HITS",
-    "logoLocal": "ch_hits",
-    "category": "Entertainment",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd",
+    "name": "tvN",
+    "logoLocal": "ch_tvn",
+    "category": "International",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd",
     "drm": {
-      "1fe92685a75844dc54c9dac124802510": "36cb2063bf5338d18d31657371b15817"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+      "e1bde543e8a140b38d3f84ace746553e": "b712c4ec307300043333a6899a402c10"
     }
   },
 
   {
-    "name": "HITS Now",
-    "logoLocal": "ch_hits_now",
-    "category": "Entertainment",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd",
-    "drm": {
-      "4307def6a29bec082f8c93f1f98e5910": "a4d49bda8cd29ba2888c732b4e7d9d63"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "IBC 13",
-    "logoLocal": "ch_ibc",
-    "category": "Government",
-    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "Arirang",
+    "logoLocal": "ch_arirang",
+    "category": "International",
+    "streamUrl": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
   },
 
   {
@@ -801,318 +1612,10 @@
   },
 
   {
-    "name": "Knowledge Channel",
-    "logoLocal": "ch_knowledge_channel",
-    "category": "Educational",
-    "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Lifetime",
-    "logoLocal": "ch_lifetime",
-    "category": "Lifestyle",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "GDs+r6TILmj3TEJE1UkGsA",
-          "kid": "jeEeAF21vQ24IogUhjzTEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Moonbug",
-    "logoLocal": "ch_moonbug",
-    "category": "Kids",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd",
-    "drm": {
-      "e3cb7499710786eb105fab7b52459910": "8ab093adabdc343b8734b7ecf0aea11a"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "NBA TV Philippines",
-    "logoLocal": "ch_nba_tv_philippines",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
-    "drm": {
-      "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
-    }
-  },
-
-  {
     "name": "NHK World Japan",
     "logoLocal": "ch_nhk_world_japan",
     "category": "International",
     "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqZTKpeZkGzV2we2%2BZ6q6g3ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1553915080287&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G0CGMZFORK5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Nick Jr",
-    "logoLocal": "ch_nick_jr",
-    "category": "Kids",
-    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Nickelodeon",
-    "logoLocal": "ch_nickelodeon",
-    "category": "Kids",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd",
-    "drm": {
-      "d8520e96a1283ab6e5be538474bfa810": "bda5f7bbc1e44096f779a0619fe9881f"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Nicktoons",
-    "logoLocal": "ch_nicktoons",
-    "category": "Kids",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://212.102.60.231/NICKTOONS/index.m3u8"
-  },
-
-    {
-    "name": "Cartoonito",
-    "logoLocal": "ch_cartoonito",
-    "category": "Kids",
-    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Disney Channel",
-    "logoLocal": "ch_disney_channel",
-    "category": "Kids",
-    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd",
-    "drm": {
-      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
-    }
-  },
-
-  {
-    "name": "Disney Channel US",
-    "logoLocal": "ch_disney_channel",
-    "category": "Kids",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://89.105.221.127/Disney/index.m3u8?token=test"
-  },
-
-  {
-    "name": "Disney Jr.",
-    "logoLocal": "ch_disney_jr",
-    "category": "Kids",
-    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd",
-    "drm": {
-      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
-    }
-  },
-
-   {
-    "name": "Disney XD",
-    "logoLocal": "ch_disney_xd",
-    "category": "Kids",
-    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
-  },
-
-  {
-    "name": "PBA RUSH",
-    "logoLocal": "ch_pba_rush",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd",
-    "drm": {
-      "d7f1a9c36b2e4f8d9a441c5e7b2d8f60": "fb83c86f600ab945e7e9afed8376eb1e"
-    }
-  },
-
-  {
-    "name": "PBO",
-    "logoLocal": "ch_pbo",
-    "category": "Movies",
-    "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Premier Sports",
-    "logoLocal": "ch_premier_sports",
-    "category": "Sports",
-    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Premier Sports 2",
-    "logoLocal": "ch_premier_sports_2",
-    "category": "Sports",
-    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "PTV4",
-    "logoLocal": "ch_ptv",
-    "category": "Government",
-    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "RPTV",
-    "logoLocal": "ch_rptv",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
-    "drm": {
-      "1917f4caf2364e6d9b1507326a85ead6": "a1340a251a5aa63a9b0ea5d9d7f67595"
-    }
-  },
-
-  {
-    "name": "Sari-Sari",
-    "logoLocal": "ch_sari_sari",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd",
-    "drm": {
-      "0a7ab3612f434335aa6e895016d8cd2d": "b21654621230ae21714a5cab52daeb9d"
-    }
-  },
-
-  {
-    "name": "SPOTV",
-    "logoLocal": "ch_spotv",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
-    "drm": {
-      "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
-    }
-  },
-
-  {
-    "name": "SPOTV2",
-    "logoLocal": "ch_spotv2",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-    "drm": {
-      "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
-    }
-  },
-
-  {
-    "name": "Tap Movies",
-    "logoLocal": "ch_tap_movies",
-    "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd",
-    "drm": {
-      "71cbdf02b595468bb77398222e1ade09": "c3f2aa420b8908ab8761571c01899460"
-    }
-  },
-
-  {
-    "name": "Tap Action Flix",
-    "logoLocal": "ch_tap_action_flix",
-    "category": "Movies",
-    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Tap Sports",
-    "logoLocal": "ch_tap_sports",
-    "category": "Sports",
-    "streamUrl": "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8"
-  },
-
-  {
-    "name": "THRILL",
-    "logoLocal": "ch_thrill",
-    "category": "Movies",
-    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Tagalized Movie Channel",
-    "logoLocal": "ch_tmc",
-    "category": "Movies",
-    "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Travel Channel",
-    "logoLocal": "ch_travel_channel",
-    "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd",
-    "drm": {
-      "f3047fc13d454dacb6db4207ee79d3d3": "bdbd38748f51fc26932e96c9a2020839"
-    }
-  },
-
-   {
-    "name": "Travel Channel US",
-    "logoLocal": "ch_travel_channel",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/162595"
-  },
-
-  {
-    "name": "True TV",
-    "logoLocal": "ch_true_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd",
-    "drm": {
-      "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
-    }
-  },
-
-  {
-    "name": "tvN Movies Pinoy",
-    "logoLocal": "ch_tvn_movies_pinoy",
-    "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd",
-    "drm": {
-      "2e53f8d8a5e94bca8f9a1e16ce67df33": "3471b2464b5c7b033a03bb8307d9fa35"
-    }
-  },
-
-  {
-    "name": "UAAP Varsity Channel",
-    "logoLocal": "ch_varsity_channel",
-    "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
-    "drm": {
-      "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
-    }
-  },
-
-  {
-    "name": "Viva Cinema",
-    "logoLocal": "ch_viva_cinema",
-    "category": "Movies",
-    "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Warner TV",
-    "logoLocal": "ch_warner_tv",
-    "category": "Entertainment",
-    "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Wil TV",
-    "logoLocal": "ch_wil_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
-    "drm": {
-      "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a"
-    }
   },
 
   {
@@ -1127,13 +1630,14 @@
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
+
   {
-    "name": "CBeebies",
-    "logoLocal": "ch_cbeebies",
-    "category": "Kids",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd",
+    "name": "ONE",
+    "logoLocal": "ch_one",
+    "category": "International",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd",
     "drm": {
-      "50c699c444e5f80dacafc4c99667d810": "de6c5feaae5f6963b4b392ddc8b6a778"
+      "d8fe398c79065173fa9788f226056510": "45e77e6a8ba767b63cacfdb01ef2ac29"
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
@@ -1141,119 +1645,43 @@
   },
 
   {
-    "name": "YTV",
-    "logoLocal": "ch_ytv",
-    "category": "Kids",
-    "streamUrl": "https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd",
-    "drm": {
-      "6f0aeae5779f1dcaef23f0bfbc828220": "7bcef3cf93de00e3daeb190d15b1ec05"
-    }
-  },
-
-  {
-    "name": "[adult swim]",
-    "logoLocal": "ch_adult_swim",
-    "category": "Kids",
-    "streamUrl": "https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd",
-    "drm": {
-      "cc26110bb0d29d0e4452d42602846080": "4a2e5782e26a3e2d7dd0431205c14518"
-    }
-  },
-
-  {
-    "name": "Love Nature",
-    "logoLocal": "ch_love_nature",
-    "category": "Documentary",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "d1plTAYQgRrQIjKaaIhN4Q",
-          "kid": "FovYFUaGOf5FKLS/AUHzEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "MYX",
-    "logoLocal": "ch_myx",
-    "category": "Music",
-    "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
- 
-  {
-    "name": "MYX Global",
-    "logoLocal": "ch_myx",
-    "category": "Music",
-    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/28b644c3-4a05-4733-a518-50ae75ff8193/index.mpd",
-    "drm": {
-      "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
-  },
-
-  {
-    "name": "Jeepney TV",
-    "logoLocal": "ch_jeepney_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd",
-    "drm": {
-      "dc9fec234a5841bb8d06e92042c741ec": "225676f32612dc803cb4d0f950d063d0"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
-  },
-
-  {
-    "name": "TFC",
-    "logoLocal": "ch_tfc",
-    "category": "Entertainment",
-    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd",
-    "drm": {
-      "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
-  },
-
-    {
-    "name": "TLC",
-    "logoLocal": "ch_tlc",
-    "category": "Lifestyle",   
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
-    "drm": {
-      "942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-    {
-    "name": "Game Show Network",
-    "logoLocal": "ch_game_show_network",
-    "category": "Entertainment",
-    "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
-  },
-
-  {
-    "name": "Aliw Channel 23",
-    "logoLocal": "ch_aliw_channel_23",
-    "category": "Entertainment",
+    "name": "Mnet",
+    "logoLocal": "ch_mnet",
+    "category": "International",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "streamUrl": "http://mnet.x10.mx/mnet.m3u8"
   },
-  
+
+  {
+    "name": "MBC",
+    "logoLocal": "ch_mbc",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=TQDUYRMX4P&u=Y"
+  },
+
+  {
+    "name": "KBS2",
+    "logoLocal": "ch_kbs2",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K02&q=HD&apikey=TQDUYRMX4P&u=Y"
+  },
+
+  {
+    "name": "NHK World Premium",
+    "logoLocal": "ch_nhk_world_premium",
+    "category": "International",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd",
+    "drm": {
+      "98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
   {
     "name": "NET25",
     "logoLocal": "ch_net25",
@@ -1304,38 +1732,94 @@
   },
 
   {
-    "name": "Mindanow Network",
-    "logoLocal": "ch_mindanow_network",
-    "category": "Government",
-    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "One Sports",
+    "logoLocal": "ch_one_sports",
+    "category": "Sports",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
+    "drm": {
+      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
+    }
   },
 
   {
-    "name": "Living Asia Channel",
-    "logoLocal": "ch_living_asia_channel",
-    "category": "Lifestyle",
-    "streamUrl": "http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "One Sports+",
+    "logoLocal": "ch_one_sports_plus",
+    "category": "Sports",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
+    "drm": {
+      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
+    }
   },
 
   {
-    "name": "RJTV 29",
-    "logoLocal": "ch_rjtv_29",
-    "category": "Entertainment",
-    "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "NBA TV Philippines",
+    "logoLocal": "ch_nba_tv_philippines",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+    "drm": {
+      "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
+    }
   },
 
   {
-    "name": "DZRH TV",
-    "logoLocal": "ch_dzrh_tv",
-    "category": "News",
-    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "PBA RUSH",
+    "logoLocal": "ch_pba_rush",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd",
+    "drm": {
+      "d7f1a9c36b2e4f8d9a441c5e7b2d8f60": "fb83c86f600ab945e7e9afed8376eb1e"
+    }
   },
 
   {
-    "name": "SolarFlix",
-    "logoLocal": "ch_solarflix",
-    "category": "Movies",
-    "streamUrl": "http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    "name": "Premier Sports",
+    "logoLocal": "ch_premier_sports",
+    "category": "Sports",
+    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Premier Sports 2",
+    "logoLocal": "ch_premier_sports_2",
+    "category": "Sports",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "SPOTV",
+    "logoLocal": "ch_spotv",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
+    "drm": {
+      "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+    }
+  },
+
+  {
+    "name": "SPOTV2",
+    "logoLocal": "ch_spotv2",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+    "drm": {
+      "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
+    }
+  },
+
+  {
+    "name": "Tap Sports",
+    "logoLocal": "ch_tap_sports",
+    "category": "Sports",
+    "streamUrl": "https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8"
+  },
+
+  {
+    "name": "UAAP Varsity Channel",
+    "logoLocal": "ch_varsity_channel",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
+    "drm": {
+      "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
+    }
   },
 
   {
@@ -1346,413 +1830,12 @@
   },
 
   {
-    "name": "Metro Channel",
-    "logoLocal": "ch_metro_channel",
-    "category": "Lifestyle",
-    "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-    {
-    "name": "TVN Movies",
-    "logoLocal": "ch_tvn_movies",
-    "category": "Movies",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd",
-    "drm": {
-      "8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "AMC",
-    "logoLocal": "ch_amc",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd",
-    "drm": {
-      "3290efe4c5cf67165e846a0742c22cd9": "ddb94463c46af6037432fc026339c09d"
-    }
-  },
-
-  {
-    "name": "Stories by AMC",
-    "logoLocal": "ch_amc_presents",
-    "category": "Movies",
-    "streamUrl": "https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8"
-  },
-
-  {
-    "name": "MovieSphere",
-    "logoLocal": "ch_moviesphere",
-    "category": "Movies",
-    "streamUrl": "https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8"
-  },
-
-  {
-    "name": "CNBC",
-    "logoLocal": "ch_cnbc",
-    "category": "News",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "YCgnqHDUmGLRoj8pEpV7TA",
-          "kid": "w6OPE0BTF1mhype8XYDIEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "France 24",
-    "logoLocal": "ch_france_24",
-    "category": "News",
-    "dateAdded": "2026-03-24T21:13:00",
-    "streamUrl": "https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8"
-  },
-
-
-  {
-    "name": "Abante Radyo",
-    "logoLocal": "ch_abante_radyo",
-    "category": "News",
-    "streamUrl": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8"
-  },
-
-  {
-    "name": "Wild Earth",
-    "logoLocal": "ch_wild_earth",
-    "category": "Documentary",
-    "streamUrl": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
-  },
-
-  {
-    "name": "New K-Pop",
-    "logoLocal": "ch_new_k_pop",
-    "category": "Music",
-    "streamUrl": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
-  },
-
-  {
-    "name": "Vevo Pop",
-    "logoLocal": "ch_vevo_pop",
-    "category": "Music",
-    "streamUrl": "https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8"
-  },
-
-  {
-    "name": "Trace Urban",
-    "logoLocal": "ch_trace_urban",
-    "category": "Music",
-    "streamUrl": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
-  },
- 
-  {
-    "name": "ROCK Action",
-    "logoLocal": "ch_rock_action",
-    "category": "Movies",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5143/default_primary.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "ooFuWncl1q35-_LATMug-w",
-          "kid": "VPL7-vUpXINEgJ0k3KkbEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "ROCK X Stream",
-    "logoLocal": "ch_rock_x_stream",
-    "category": "Entertainment",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "yI_o80udyOEKAOh2pv9BNg",
-          "kid": "MlNw1yJWWrXtCaVIujYOEA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Rock Entertainment",
-    "logoLocal": "ch_rock_entertainment",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
-    "drm": {
-      "e4ee0cf8ca9746f99af402ca6eed8dc7": "be2a096403346bc1d0bb0f812822bb62"
-    }
-  },
-
-  {
-    "name": "ONE",
-    "logoLocal": "ch_one",
-    "category": "International",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd",
-    "drm": {
-      "d8fe398c79065173fa9788f226056510": "45e77e6a8ba767b63cacfdb01ef2ac29"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-   {
-    "name": "ZooMoo",
-    "logoLocal": "ch_zoomoo",
-    "category": "Kids",
-    "streamUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-  },
- 
-   {
-    "name": "Kartoon Channel!",
-    "logoLocal": "ch_kartoon_channel",
-    "category": "Kids",
-    "streamUrl": "https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8"
-  },
-
-   {
-    "name": "BOOMERANG",
-    "logoLocal": "ch_boomerang",
-    "category": "Kids",
-    "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
-  },
-
-   {
-    "name": "Pop",
-    "logoLocal": "ch_pop",
-    "category": "Kids",
-    "dateAdded": "2026-03-24T21:12:00",
-    "streamUrl": "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
-  },
-
-   {
-    "name": "Comedy Central",
-    "logoLocal": "ch_comedy_central",
-    "category": "Entertainment",
-    "streamUrl": "http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8"
-  },
-
-   {
-    "name": "Astro Showcase",
-    "logoLocal": "ch_astro_showcase",
-    "category": "Movies",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd",
-    "drm": {
-      "b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "Astro Showtime",
-    "logoLocal": "ch_astro_showtime",
-    "category": "Movies",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd",
-    "drm": {
-      "keys": [
-        {
-          "kty": "oct",
-          "k": "7RJVdgSDgSHZlvDXg3nKow",
-          "kid": "aZ-4LHCn7Cl_M6pEI7q1EA"
-        }
-      ],
-      "type": "temporary"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
     "name": "Astro Grandstand",
     "logoLocal": "ch_astro_grandstand",
     "category": "Sports",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd",
     "drm": {
       "5be66a6f88efee3d6e30f72a9c58e310": "168f3fadfc730ba3dfc932f7c430e27d"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
-    "name": "FX Movie Channel",
-    "logoLocal": "ch_fx_movie_channel",
-    "category": "Movies",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8"
-  },
-
-  {
-    "name": "Sony Movies",
-    "logoLocal": "ch_sony_movies",
-    "category": "Movies",
-    "dateAdded": "2026-03-24T21:00:00",
-    "streamUrl": "https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8"
-  },
-
-  {
-    "name": "SYFY",
-    "logoLocal": "ch_syfy",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
-  },
-
-  {
-    "name": "Paramount Network",
-    "logoLocal": "ch_paramount_network",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
-  },
-
-  {
-    "name": "Hallmark",
-    "logoLocal": "ch_hallmark",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_HALLMARK/index.m3u8"
-  },
-
-  {
-    "name": "E!",
-    "logoLocal": "ch_e",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_E/index.m3u8"
-  },
-
-  {
-    "name": "Outdoor",
-    "logoLocal": "ch_outdoor",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
-  },
-
-  {
-    "name": "ION",
-    "logoLocal": "ch_ion",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8"
-  },
-
-  {
-    "name": "Tastemade",
-    "logoLocal": "ch_tastemade",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadefreetv16-tablo/playlist.m3u8"
-  },
-
-  {
-    "name": "Smithsonian Channel",
-    "logoLocal": "ch_smithsonian_channel",
-    "category": "Documentary",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8"
-  },
-
-  {
-    "name": "Fox",
-    "logoLocal": "ch_fox",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120750.m3u8"
-  },
-
-  {
-    "name": "Fox News",
-    "logoLocal": "ch_fox_news",
-    "category": "News",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://starshare.st/live/P4B9TB9xR8/humongous2tonight/51.ts"
-  },
-
-  {
-    "name": "ABC",
-    "logoLocal": "ch_abc",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/121139.m3u8"
-  },
-
-  {
-    "name": "CBS",
-    "logoLocal": "ch_cbs",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/120749.m3u8"
-  },
-
-  {
-    "name": "K-Pop by CJ ENM",
-    "logoLocal": "ch_k_pop_by_cj_enm",
-    "category": "Music",
-    "dateAdded": "2026-03-23",
-    "type": "hls",
-    "streamUrl": "https://jmp2.uk/stvp-US39000038W"
-  },
-
- {
-    "name": "Mnet",
-    "logoLocal": "ch_mnet",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://mnet.x10.mx/mnet.m3u8"
-  },
-
-  {
-    "name": "MBC",
-    "logoLocal": "ch_mbc",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=TQDUYRMX4P&u=Y"
-  },
-
-  {
-    "name": "KBS2",
-    "logoLocal": "ch_kbs2",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K02&q=HD&apikey=TQDUYRMX4P&u=Y"
-  },
-
-  {
-    "name": "NHK World Premium",
-    "logoLocal": "ch_nhk_world_premium",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5018/default_primary.mpd",
-    "drm": {
-      "98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
@@ -1775,7 +1858,7 @@
     "streamUrl": "https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8"
   },
 
-   {
+  {
     "name": "ESPN",
     "logoLocal": "ch_espn",
     "category": "Sports",
@@ -1790,7 +1873,7 @@
     "streamUrl": "https://restream-live.realiptv.to/2879115/5077048/2581"
   },
 
-   {
+  {
     "name": "F1 TV (1)",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
@@ -1800,7 +1883,7 @@
     }
   },
 
-   {
+  {
     "name": "F1 TV (2)",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
@@ -1810,21 +1893,21 @@
     }
   },
 
-   {
+  {
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
     "category": "Sports",
     "streamUrl": "https://a1xs.vip/2000005"
   },
 
-   {
+  {
     "name": "BeIN Sports 1",
     "logoLocal": "ch_bein_sports_1",
     "category": "Sports",
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-1/index.m3u8"
   },
 
-   {
+  {
     "name": "BeIN Sports 2",
     "logoLocal": "ch_bein_sports_2",
     "category": "Sports",
@@ -1838,7 +1921,7 @@
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-3/index.m3u8"
   },
 
-   {
+  {
     "name": "NBA TV",
     "logoLocal": "ch_nba_tv",
     "category": "Sports",
@@ -1930,7 +2013,7 @@
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
   },
 
-   {
+  {
     "name": "Fight+",
     "logoLocal": "ch_fight_plus",
     "category": "Sports",
@@ -1961,7 +2044,7 @@
       "59F50679C9E60963BD0CB6640992AAAA": "8685817c4d31f322e08940feeae2855a"
     }
   },
- 
+
   {
     "name": "Tennis+",
     "logoLocal": "ch_tennis_plus",
@@ -1969,7 +2052,7 @@
     "streamUrl": "https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8"
   },
 
-   {
+  {
     "name": "Pickle TV",
     "logoLocal": "ch_pickle_tv",
     "category": "Sports",
