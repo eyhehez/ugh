@@ -426,6 +426,13 @@
   },
 
   {
+    "name": "Animax",
+    "logoLocal": "ch_animax",
+    "category": "Anime",
+    "streamUrl": "https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8"
+  },
+
+  {
     "name": "AniPlus",
     "logoLocal": "ch_aniplus",
     "category": "Anime",
@@ -437,6 +444,13 @@
     "logoLocal": "ch_anime_x_hidive",
     "category": "Anime",
     "streamUrl": "https://amc-anime-x-hidive-1-us.tablo.wurl.tv/3000.m3u8"
+  },
+
+   {
+    "name": "Ani-blast",
+    "logoLocal": "ch_ani_blast",
+    "category": "Anime",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
   },
 
   {
@@ -473,16 +487,6 @@
     "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
     "drm": {
       "df81f15150f74c799fdde64ef49dfb75": "05794a012ae74d77953f2b9fae6804c7"
-    }
-  },
-
-  {
-    "name": "Animax",
-    "logoLocal": "ch_animax",
-    "category": "Anime",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd",
-    "drm": {
-      "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11"
     }
   },
 
@@ -1541,13 +1545,6 @@
     "category": "Kids",
     "dateAdded": "2026-03-24T21:12:00",
     "streamUrl": "https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8"
-  },
-
-   {
-    "name": "Ani-blast",
-    "logoLocal": "ch_ani_blast",
-    "category": "Anime",
-    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
   },
 
    {
