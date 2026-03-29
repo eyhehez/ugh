@@ -1,9 +1,44 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",Chicago Bulls vs Memphis Grizzlies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", LA Clippers vs Milwaukee Bucks
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Miami Heat vs Indiana Pacers
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Sacramento Kings vs Brooklyn Nets
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Boston Celtics vs Charlotte Hornets
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Orlando Magic vs Toronto Raptors
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.shdigital.site/nba5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA",Utah Jazz vs Phoenix Suns
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Washington Wizards vs Portland Trail Blazers
 #EXTVLCOPT:http-referrer=https://roxiestreams.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://daffodil.shdigital.site/nba6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Houston Rockets vs New Orleans Pelicans
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", New York Knicks vs Oklahoma City Thunder
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NBA", Golden State Warriors vs Denver Nuggets
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.shdigital.site/nba9.m3u8
