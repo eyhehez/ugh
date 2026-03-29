@@ -480,9 +480,9 @@
     "name": "Animax",
     "logoLocal": "ch_animax",
     "category": "Anime",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd",
     "drm": {
-      "1e7b9d2c6a4f4d8c9f33b5c1a8d7e260": "67336c0c5b24fb4b8caac248dad3c55d"
+      "92032b0e41a543fb9830751273b8debd": "03f8b65e2af785b10d6634735dbe6c11"
     }
   },
 
@@ -560,7 +560,7 @@
     "name": "BuKO",
     "logoLocal": "ch_buko",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd",
     "drm": {
       "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615"
     }
@@ -653,7 +653,7 @@
     "name": "DepEd TV",
     "logoLocal": "ch_deped_tv",
     "category": "Educational",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
     "drm": {
       "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df"
     }
@@ -965,7 +965,7 @@
     "name": "RPTV",
     "logoLocal": "ch_rptv",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
     "drm": {
       "1917f4caf2364e6d9b1507326a85ead6": "a1340a251a5aa63a9b0ea5d9d7f67595"
     }
@@ -1105,7 +1105,7 @@
     "name": "Wil TV",
     "logoLocal": "ch_wil_tv",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
     "drm": {
       "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a"
     }
@@ -1495,9 +1495,9 @@
     "logoLocal": "ch_rock_entertainment",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
     "drm": {
-      "a8b2d6f14c9e4d7a8f552c1e9b7d6a30": "b61a33a4281e7c8e68b24b9af466f7b4"
+      "e4ee0cf8ca9746f99af402ca6eed8dc7": "be2a096403346bc1d0bb0f812822bb62"
     }
   },
 
