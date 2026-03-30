@@ -235,6 +235,13 @@
   },
 
   {
+    "name": "Game Show Central",
+    "logoLocal": "ch_game_show_central",
+    "category": "Entertainment",
+    "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750"
+  },
+
+  {
     "name": "Aliw Channel 23",
     "logoLocal": "ch_aliw_channel_23",
     "category": "Entertainment",
@@ -258,6 +265,13 @@
     "drm": {
       "3290efe4c5cf67165e846a0742c22cd9": "ddb94463c46af6037432fc026339c09d"
     }
+  },
+
+  {
+    "name": "AMC+",
+    "logoLocal": "ch_amc_plus",
+    "category": "Entertainment",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8"
   },
 
   {
@@ -1338,6 +1352,13 @@
   },
 
   {
+    "name": "Stingray Karaoke",
+    "logoLocal": "ch_stingray_karaoke",
+    "category": "Entertainment",
+    "streamUrl": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/c92ba6bd-21aa-39b1-8f4a-8d02bef17886/3291200/manifest.m3u8"
+  },
+
+  {
     "name": "ANC",
     "logoLocal": "ch_anc",
     "category": "News",
@@ -2015,7 +2036,7 @@
     "logoLocal": "ch_racing_america",
     "category": "Sports",
     "dateAdded": "2026-03-23",
-    "type": "hls",
+    "type": "mpd",
     "streamUrl": "https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-61a945156547ba4d6d238dc9/?X-Plex-Token=Vsrd8WrLFvty3DEiKGV1"
   },
 
