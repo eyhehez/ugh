@@ -2,13 +2,6 @@
   "top5": ["HBO", "Movies Now", "Zee Sine", "MNX HD", "Animax"],
   "channels": [
   {
-    "name": "Kapamilya Channel",
-    "logoLocal": "ch_kapamilya_channel",
-    "category": "Entertainment",
-    "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
     "category": "Entertainment",
@@ -1666,26 +1659,6 @@
     "logoLocal": "ch_tv_maria",
     "category": "Religious",
     "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "One Sports",
-    "logoLocal": "ch_one_sports",
-    "category": "Sports",
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
-    "drm": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
-    }
-  },
-
-  {
-    "name": "One Sports+",
-    "logoLocal": "ch_one_sports_plus",
-    "category": "Sports",
-    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
-    "drm": {
-      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
-    }
   },
 
   {
