@@ -1340,8 +1340,8 @@
     "logoLocal": "ch_k_pop_by_cj_enm",
     "category": "Music",
     "dateAdded": "2026-03-23",
-    "type": "hls",
-    "streamUrl": "https://jmp2.uk/stvp-GB3900001TM"
+    "type": "mpd",
+    "streamUrl": "https://jmp2.uk/stvp-CA3900002PM"
   },
 
   {
