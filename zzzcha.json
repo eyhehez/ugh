@@ -540,15 +540,21 @@
     "name": "Star Movies",
     "logoLocal": "ch_star_movies",
     "category": "Movies",
-    "streamUrl": "http://103.175.242.10:8080/starmovies/index.m3u8"
-  },
+    "streamUrl": "http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8"
+    "headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+  }
+},
 
-  {
-    "name": "Star Movies Select",
-    "logoLocal": "ch_star_movies_select",
-    "category": "Movies",
-    "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf"
-  },
+{
+  "name": "Star Movies Select",
+  "logoLocal": "ch_star_movies_select",
+  "category": "Movies",
+  "streamUrl": "http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8",
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+  }
+},
 
   {
     "name": "Celestial Movies Pinoy",
