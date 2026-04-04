@@ -550,7 +550,7 @@
 
   {
     "name": "HBO US",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo.webp",
+    "logoLocal": "ch_hbo",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13434.m3u8",
@@ -571,7 +571,7 @@
 
   {
     "name": "HBO Hits US",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_hits.webp",
+    "logoLocal": "ch_hbo_hits",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13435.m3u8",
