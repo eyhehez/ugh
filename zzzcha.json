@@ -310,7 +310,7 @@
     "logoLocal": "ch_syfy",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_SYFY/index.m3u8"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10445.m3u8"
   },
 
   {
@@ -318,7 +318,7 @@
     "logoLocal": "ch_paramount_network",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10439.m3u8"
   },
 
   {
@@ -516,7 +516,7 @@
     "name": "Starz",
     "logoLocal": "ch_starz",
     "category": "Movies",
-    "streamUrl": "http://212.102.60.231/STARZ/index.m3u8"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/14915.m3u8"
   },
 
   {
@@ -754,7 +754,7 @@
     "logoLocal": "ch_fx_movie_channel",
     "category": "Movies",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/10260.m3u8"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10401.m3u8"
   },
 
   {
@@ -1111,7 +1111,7 @@
     "logoLocal": "ch_smithsonian_channel",
     "category": "Documentary",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://mytvstream.net:8080/live/30550113/30550113/31150.m3u8"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10442.m3u8"
   },
 
   {
