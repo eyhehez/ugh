@@ -1910,7 +1910,7 @@
   },
 
   {
-    "name": "ESPN",
+    "name": "",
     "logoLocal": "ch_espn",
     "category": "Sports",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
@@ -1921,11 +1921,11 @@
     "logoLocal": "ch_espn2",
     "category": "Sports",
     "dateAdded": "2026-03-23",
-    "streamUrl": "https://restream-live.realiptv.to/2879115/5077048/2581"
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/38227.m3u8"
   },
 
   {
-    "name": "F1 TV | 1",
+    "name": "F1 TV - 1",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
@@ -1935,7 +1935,7 @@
   },
 
   {
-    "name": "F1 TV | 2",
+    "name": "F1 TV - 2",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
