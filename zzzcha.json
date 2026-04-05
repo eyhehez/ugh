@@ -428,6 +428,14 @@
   },
 
   {
+    "name": "Fox",
+    "logoLocal": "ch_fox",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-23",
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10395.m3u8"
+  },
+
+  {
     "name": "Cinema One",
     "logoLocal": "ch_cinema_one",
     "category": "Movies",
