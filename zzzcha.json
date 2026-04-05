@@ -1459,7 +1459,7 @@
     "name": "MYX Global",
     "logoLocal": "ch_myx",
     "category": "Music",
-    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/28b644c3-4a05-4733-a518-50ae75ff8193/index.mpd",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd",
     "drm": {
       "f40a52a3ac9b4702bdd5b735d910fd2f": "35e4893c6e76546085941be3010932d4"
     },
