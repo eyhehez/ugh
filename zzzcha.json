@@ -1918,7 +1918,7 @@
   },
 
   {
-    "name": "",
+    "name": "ESPN",
     "logoLocal": "ch_espn",
     "category": "Sports",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
@@ -1933,7 +1933,7 @@
   },
 
   {
-    "name": "F1 TV - 1",
+    "name": "F1 TV • 1",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
@@ -1943,7 +1943,7 @@
   },
 
   {
-    "name": "F1 TV - 2",
+    "name": "F1 TV • 2",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
