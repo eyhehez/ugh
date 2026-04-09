@@ -2385,8 +2385,11 @@
     "logoLocal": "",
     "category": "Entertainment",
     "type": "youtube",
-    "streamUrl": "EkIfxAHlgJA"
-    }
+    "streamUrl": "EkIfxAHlgJA",
+    "headers": {
+    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+  }
+  }
 
 ]
 }
