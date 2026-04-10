@@ -2381,7 +2381,7 @@
   },
 
    {
-    "name": ".",
+    "name": "g",
     "logoLocal": "",
     "category": "Entertainment",
     "type": "youtube-channel",
@@ -2389,11 +2389,19 @@
   },
 
    {
-    "name": "..",
+    "name": "b",
     "logoLocal": "",
     "category": "Entertainment",
     "type": "youtube",
     "streamUrl": "EkIfxAHlgJA"
+  },
+
+   {
+    "name": "c",
+    "logoLocal": "",
+    "category": "Entertainment",
+    "type": "youtube-channel",
+    "streamUrl": "@Coachella"
   }
 
 ]
