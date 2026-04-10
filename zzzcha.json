@@ -1,6 +1,15 @@
 {
   "top5": ["GMA 7", "HBO", "ALLTV2", "Star Movies", "Movies Now"],
   "channels": [
+   {
+    "name": "BINI @ Coachella",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bini.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-10",
+    "type": "youtube",
+    "streamUrl": "HJVG2Ck3uuk"
+  },
+    
   {
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
@@ -8,11 +17,29 @@
     "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   },
 
+   {
+    "name": "Kapamilya Online Live",
+    "logoLocal": "ch_kapamilya_online_live",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-10",
+    "type": "youtube-channel",
+    "streamUrl": "@abscbnentertainment"
+  },
+
   {
     "name": "GMA 7",
     "logoLocal": "ch_gma7",
     "category": "Entertainment",
     "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+   {
+    "name": "Kapuso Stream",
+    "logoLocal": "ch_kapuso_stream",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-10",
+    "type": "youtube-channel",
+    "streamUrl": "@gmanetwork"
   },
 
   {
@@ -307,7 +334,7 @@
 
   {
     "name": "Zee One",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_one.webp",
+    "logoLocal": "ch_zee_one.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
@@ -334,7 +361,7 @@
 
   {
     "name": "Discovery Family",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_discovery_family.webp",
+    "logoLocal": "ch_discovery_family.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10387.m3u8",
@@ -345,7 +372,7 @@
 
   {
     "name": "MTV",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mtv.webp",
+    "logoLocal": "ch_mtv.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10426.m3u8",
@@ -356,7 +383,7 @@
 
   {
     "name": "USA Network",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_usa_network.webp",
+    "logoLocal": "ch_usa_network.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10456.m3u8",
@@ -367,7 +394,7 @@
 
   {
     "name": "truTV",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_trutv.webp",
+    "logoLocal": "ch_trutv.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10453.m3u8",
@@ -378,7 +405,7 @@
 
   {
     "name": "Horror by ALTER",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_horror_by_alter.webp",
+    "logoLocal": "ch_horror_by_alter.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199299.m3u8",
@@ -389,7 +416,7 @@
 
   {
     "name": "FilmRise Horror",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_filmrise.webp",
+    "logoLocal": "ch_filmrise.webp",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199007.m3u8",
@@ -551,7 +578,7 @@
 
   {
     "name": "Miramax Movie Channel",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_miramax_movie_channel.webp",
+    "logoLocal": "ch_miramax_movie_channel.webp",
     "category": "Movies",
     "dateAdded": "2026-04-05",
     "streamUrl": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
@@ -621,7 +648,7 @@
 
   {
     "name": "HBO Comedy US",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_comedy.webp",
+    "logoLocal": "ch_hbo_comedy.webp",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13438.m3u8",
@@ -632,7 +659,7 @@
 
   {
     "name": "HBO Drama US",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_drama.webp",
+    "logoLocal": "ch_hbo_drama.webp",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13436.m3u8",
@@ -940,7 +967,7 @@
 
   {
     "name": "FilmRise Anime",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_filmrise_anime.webp",
+    "logoLocal": "ch_filmrise_anime.webp",
     "category": "Anime",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
@@ -951,7 +978,7 @@
 
   {
     "name": "Retro Crush",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_retro_crush.webp",
+    "logoLocal": "ch_retro_crush.webp",
     "category": "Anime",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
@@ -1267,7 +1294,7 @@
 
   {
     "name": "Curiosity Now",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_curiosity_now.webp",
+    "logoLocal": "ch_curiosity_now.webp",
     "category": "Documentary",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
@@ -1491,7 +1518,7 @@
 
   {
     "name": "Cooking Channel",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cooking_channel.webp",
+    "logoLocal": "ch_cooking_channel.webp",
     "category": "Lifestyle",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10381.m3u8",
@@ -1522,7 +1549,7 @@
 
   {
     "name": "MTV Live",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mtv_live.webp",
+    "logoLocal": "ch_mtv_live.webp",
     "category": "Music",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/31498.m3u8",
@@ -1695,7 +1722,7 @@
 
   {
     "name": "Euronews",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_euronews.webp",
+    "logoLocal": "ch_euronews.webp",
     "category": "News",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd",
@@ -1989,7 +2016,7 @@
 
   {
     "name": "ESPNU",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_espnu.webp",
+    "logoLocal": "ch_espnu.webp",
     "category": "Sports",
     "dateAdded": "2026-04-07",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/38228.m3u8",
