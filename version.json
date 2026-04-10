@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "2.0",
-  "apk_url": "https://gethayahay.vercel.app/Hayahay_v2.apk",
-  "release_notes": "Bug fixes.",
+  "version_code": 3,
+  "version_name": "3.0",
+  "apk_url": "https://gethayahay.vercel.app/Hayahay_v3.apk",
+  "release_notes": "Be ready for BINI's Coachella performance.\n\nOptimized channel handling for faster playback.\nDefault English subtitles enabled for supported channels.",
   "website_url": "https://gethayahay.vercel.app"
 }
