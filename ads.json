@@ -1,1 +1,7 @@
-
+{
+  "ads": [
+    { "name": "Shopee", "url": "https://s.shopee.ph/808OMYAHe4" },
+    { "name": "TikTok", "url": "https://vt.tiktok.com/ZS98wUp5PbrR2-43NSp/" },
+    { "name": "Lazada", "url": "https://s.lazada.com.ph/s.ZZQAKF?cc" }
+  ]
+}
