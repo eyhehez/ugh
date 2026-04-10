@@ -2384,8 +2384,16 @@
     "name": ".",
     "logoLocal": "",
     "category": "Entertainment",
+    "type": "youtube-channel",
+    "streamUrl": "@gmanetwork"
+  },
+
+   {
+    "name": "..",
+    "logoLocal": "",
+    "category": "Entertainment",
     "type": "youtube",
-    "streamUrl": "BIQ6oumfrTA"
+    "streamUrl": "EkIfxAHlgJA"
   }
 
 ]
