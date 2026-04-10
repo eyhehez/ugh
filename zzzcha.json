@@ -334,7 +334,7 @@
 
   {
     "name": "Zee One",
-    "logoLocal": "ch_zee_one.webp",
+    "logoLocal": "ch_zee_one",
     "category": "Entertainment",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
@@ -361,7 +361,7 @@
 
   {
     "name": "Discovery Family",
-    "logoLocal": "ch_discovery_family.webp",
+    "logoLocal": "ch_discovery_family",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10387.m3u8",
@@ -372,7 +372,7 @@
 
   {
     "name": "MTV",
-    "logoLocal": "ch_mtv.webp",
+    "logoLocal": "ch_mtv",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10426.m3u8",
@@ -383,7 +383,7 @@
 
   {
     "name": "USA Network",
-    "logoLocal": "ch_usa_network.webp",
+    "logoLocal": "ch_usa_network",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10456.m3u8",
@@ -394,7 +394,7 @@
 
   {
     "name": "truTV",
-    "logoLocal": "ch_trutv.webp",
+    "logoLocal": "ch_trutv",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10453.m3u8",
@@ -405,7 +405,7 @@
 
   {
     "name": "Horror by ALTER",
-    "logoLocal": "ch_horror_by_alter.webp",
+    "logoLocal": "ch_horror_by_alter",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199299.m3u8",
@@ -416,7 +416,7 @@
 
   {
     "name": "FilmRise Horror",
-    "logoLocal": "ch_filmrise.webp",
+    "logoLocal": "ch_filmrise",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199007.m3u8",
@@ -578,7 +578,7 @@
 
   {
     "name": "Miramax Movie Channel",
-    "logoLocal": "ch_miramax_movie_channel.webp",
+    "logoLocal": "ch_miramax_movie_channel",
     "category": "Movies",
     "dateAdded": "2026-04-05",
     "streamUrl": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
@@ -648,7 +648,7 @@
 
   {
     "name": "HBO Comedy US",
-    "logoLocal": "ch_hbo_comedy.webp",
+    "logoLocal": "ch_hbo_comedy",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13438.m3u8",
@@ -659,7 +659,7 @@
 
   {
     "name": "HBO Drama US",
-    "logoLocal": "ch_hbo_drama.webp",
+    "logoLocal": "ch_hbo_drama",
     "category": "Movies",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13436.m3u8",
@@ -967,7 +967,7 @@
 
   {
     "name": "FilmRise Anime",
-    "logoLocal": "ch_filmrise_anime.webp",
+    "logoLocal": "ch_filmrise_anime",
     "category": "Anime",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
@@ -978,7 +978,7 @@
 
   {
     "name": "Retro Crush",
-    "logoLocal": "ch_retro_crush.webp",
+    "logoLocal": "ch_retro_crush",
     "category": "Anime",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8",
@@ -1294,7 +1294,7 @@
 
   {
     "name": "Curiosity Now",
-    "logoLocal": "ch_curiosity_now.webp",
+    "logoLocal": "ch_curiosity_now",
     "category": "Documentary",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8",
@@ -1518,7 +1518,7 @@
 
   {
     "name": "Cooking Channel",
-    "logoLocal": "ch_cooking_channel.webp",
+    "logoLocal": "ch_cooking_channel",
     "category": "Lifestyle",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10381.m3u8",
@@ -1549,7 +1549,7 @@
 
   {
     "name": "MTV Live",
-    "logoLocal": "ch_mtv_live.webp",
+    "logoLocal": "ch_mtv_live",
     "category": "Music",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/31498.m3u8",
@@ -1722,7 +1722,7 @@
 
   {
     "name": "Euronews",
-    "logoLocal": "ch_euronews.webp",
+    "logoLocal": "ch_euronews",
     "category": "News",
     "dateAdded": "2026-04-07",
     "streamUrl": "https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd",
@@ -2016,7 +2016,7 @@
 
   {
     "name": "ESPNU",
-    "logoLocal": "ch_espnu.webp",
+    "logoLocal": "ch_espnu",
     "category": "Sports",
     "dateAdded": "2026-04-07",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/38228.m3u8",
