@@ -1,15 +1,6 @@
 {
   "top5": ["GMA 7", "HBO", "ALLTV2", "Star Movies", "Movies Now"],
   "channels": [
-   {
-    "name": "BINI @ Coachella",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bini.webp",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-10",
-    "type": "youtube",
-    "streamUrl": "HJVG2Ck3uuk"
-  },
-    
   {
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
