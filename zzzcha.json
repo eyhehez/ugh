@@ -1,6 +1,15 @@
 {
   "top5": ["GMA 7", "HBO", "ALLTV2", "Star Movies", "Movies Now"],
   "channels": [
+   {
+    "name": "Coachella Main Stage",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_coachella.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-12",
+    "type": "youtube",
+    "streamUrl": "2NA7XUw51oo"
+  },
+
   {
     "name": "ALLTV2",
     "logoLocal": "ch_alltv2",
