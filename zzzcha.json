@@ -512,7 +512,6 @@
 
   {
     "name": "Movies Now",
-    "epgId": "Movies Now",
     "logoLocal": "ch_movies_now",
     "category": "Movies",
     "streamUrl": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
