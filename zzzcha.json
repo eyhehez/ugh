@@ -343,41 +343,11 @@
   },
 
   {
-    "name": "Paramount Network",
-    "logoLocal": "ch_paramount_network",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10439.m3u8"
-  },
-
-  {
     "name": "Discovery Family",
     "logoLocal": "ch_discovery_family",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10387.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
-  },
-
-  {
-    "name": "MTV",
-    "logoLocal": "ch_mtv",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10426.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
-  },
-
-  {
-    "name": "USA Network",
-    "logoLocal": "ch_usa_network",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10456.m3u8",
     "headers": {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
   }
@@ -399,10 +369,7 @@
     "logoLocal": "ch_horror_by_alter",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199299.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/c12f35bf-6465-4e44-b5f7-04ec645689c7/playlist.m3u8"
   },
 
   {
@@ -410,10 +377,7 @@
     "logoLocal": "ch_filmrise",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/199007.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "streamUrl": "https://live-manifest.production-public.tubi.io/live/4c82889c-7b9c-4f06-bc61-8f18fd23a49a/playlist.m3u8"
   },
 
   {
@@ -438,30 +402,6 @@
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8"
-  },
-
-  {
-    "name": "ABC",
-    "logoLocal": "ch_abc",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10358.m3u8"
-  },
-
-  {
-    "name": "CBS",
-    "logoLocal": "ch_cbs",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10374.m3u8"
-  },
-
-  {
-    "name": "Fox",
-    "logoLocal": "ch_fox",
-    "category": "Entertainment",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10395.m3u8"
   },
 
   {
@@ -1273,14 +1213,6 @@
     "logoLocal": "ch_wild_earth",
     "category": "Documentary",
     "streamUrl": "https://wildearth-plex.amagi.tv/masterR1080p.m3u8"
-  },
-
-  {
-    "name": "Smithsonian Channel",
-    "logoLocal": "ch_smithsonian_channel",
-    "category": "Documentary",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10442.m3u8"
   },
 
   {
