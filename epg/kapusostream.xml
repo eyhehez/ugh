@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="hayahay-epg-generator">
+
+  <channel id="KapusoStream">
+    <display-name>Kapuso Stream</display-name>
+  </channel>
+
+  <programme start="20260415053000 +0800" stop="20260415080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260416053000 +0800" stop="20260416080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260417053000 +0800" stop="20260417080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260420053000 +0800" stop="20260420080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260420080000 +0800" stop="20260420090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260420090000 +0800" stop="20260420094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260420094000 +0800" stop="20260420101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260420101000 +0800" stop="20260420110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260420110000 +0800" stop="20260420120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260420120000 +0800" stop="20260420143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260420143000 +0800" stop="20260420152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260420152000 +0800" stop="20260420160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260420160500 +0800" stop="20260420164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260420164500 +0800" stop="20260420171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260420171000 +0800" stop="20260420174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260420174000 +0800" stop="20260420183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260420183000 +0800" stop="20260420200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260420200000 +0800" stop="20260420205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260420205000 +0800" stop="20260420213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260420213500 +0800" stop="20260420222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260420222000 +0800" stop="20260420230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260420230500 +0800" stop="20260420240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260421053000 +0800" stop="20260421080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260422053000 +0800" stop="20260422080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260423053000 +0800" stop="20260423080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260424053000 +0800" stop="20260424080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260427053000 +0800" stop="20260427080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260427080000 +0800" stop="20260427090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260427090000 +0800" stop="20260427094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260427094000 +0800" stop="20260427101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260427101000 +0800" stop="20260427110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260427110000 +0800" stop="20260427120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260427120000 +0800" stop="20260427143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260427143000 +0800" stop="20260427152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260427152000 +0800" stop="20260427160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260427160500 +0800" stop="20260427164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260427164500 +0800" stop="20260427171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260427171000 +0800" stop="20260427174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260427174000 +0800" stop="20260427183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260427183000 +0800" stop="20260427200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260427200000 +0800" stop="20260427205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260427205000 +0800" stop="20260427213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260427213500 +0800" stop="20260427222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260427222000 +0800" stop="20260427230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260427230500 +0800" stop="20260427240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260428053000 +0800" stop="20260428080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260429053000 +0800" stop="20260429080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260430053000 +0800" stop="20260430080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260501053000 +0800" stop="20260501080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260504053000 +0800" stop="20260504080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260504080000 +0800" stop="20260504090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260504090000 +0800" stop="20260504094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260504094000 +0800" stop="20260504101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260504101000 +0800" stop="20260504110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260504110000 +0800" stop="20260504120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260504120000 +0800" stop="20260504143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260504143000 +0800" stop="20260504152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260504152000 +0800" stop="20260504160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260504160500 +0800" stop="20260504164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260504164500 +0800" stop="20260504171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260504171000 +0800" stop="20260504174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260504174000 +0800" stop="20260504183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260504183000 +0800" stop="20260504200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260504200000 +0800" stop="20260504205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260504205000 +0800" stop="20260504213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260504213500 +0800" stop="20260504222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260504222000 +0800" stop="20260504230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260504230500 +0800" stop="20260504240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260505053000 +0800" stop="20260505080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260506053000 +0800" stop="20260506080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260507053000 +0800" stop="20260507080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260508053000 +0800" stop="20260508080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260511053000 +0800" stop="20260511080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260511080000 +0800" stop="20260511090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260511090000 +0800" stop="20260511094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260511094000 +0800" stop="20260511101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260511101000 +0800" stop="20260511110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260511110000 +0800" stop="20260511120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260511120000 +0800" stop="20260511143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260511143000 +0800" stop="20260511152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260511152000 +0800" stop="20260511160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260511160500 +0800" stop="20260511164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260511164500 +0800" stop="20260511171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260511171000 +0800" stop="20260511174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260511174000 +0800" stop="20260511183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260511183000 +0800" stop="20260511200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260511200000 +0800" stop="20260511205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260511205000 +0800" stop="20260511213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260511213500 +0800" stop="20260511222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260511222000 +0800" stop="20260511230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260511230500 +0800" stop="20260511240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260512053000 +0800" stop="20260512080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260513053000 +0800" stop="20260513080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260514053000 +0800" stop="20260514080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260515053000 +0800" stop="20260515080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260518053000 +0800" stop="20260518080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260518080000 +0800" stop="20260518090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260518090000 +0800" stop="20260518094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260518094000 +0800" stop="20260518101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260518101000 +0800" stop="20260518110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260518110000 +0800" stop="20260518120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260518120000 +0800" stop="20260518143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260518143000 +0800" stop="20260518152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260518152000 +0800" stop="20260518160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260518160500 +0800" stop="20260518164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260518164500 +0800" stop="20260518171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260518171000 +0800" stop="20260518174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260518174000 +0800" stop="20260518183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260518183000 +0800" stop="20260518200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260518200000 +0800" stop="20260518205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260518205000 +0800" stop="20260518213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260518213500 +0800" stop="20260518222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260518222000 +0800" stop="20260518230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260518230500 +0800" stop="20260518240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260519053000 +0800" stop="20260519080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260520053000 +0800" stop="20260520080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260521053000 +0800" stop="20260521080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260522053000 +0800" stop="20260522080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260525053000 +0800" stop="20260525080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260525080000 +0800" stop="20260525090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260525090000 +0800" stop="20260525094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260525094000 +0800" stop="20260525101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260525101000 +0800" stop="20260525110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260525110000 +0800" stop="20260525120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260525120000 +0800" stop="20260525143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260525143000 +0800" stop="20260525152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260525152000 +0800" stop="20260525160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260525160500 +0800" stop="20260525164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260525164500 +0800" stop="20260525171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260525171000 +0800" stop="20260525174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260525174000 +0800" stop="20260525183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260525183000 +0800" stop="20260525200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260525200000 +0800" stop="20260525205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260525205000 +0800" stop="20260525213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260525213500 +0800" stop="20260525222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260525222000 +0800" stop="20260525230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260525230500 +0800" stop="20260525240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260526053000 +0800" stop="20260526080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260527053000 +0800" stop="20260527080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260528053000 +0800" stop="20260528080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260529053000 +0800" stop="20260529080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260601053000 +0800" stop="20260601080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260601080000 +0800" stop="20260601090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260601090000 +0800" stop="20260601094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260601094000 +0800" stop="20260601101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260601101000 +0800" stop="20260601110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260601110000 +0800" stop="20260601120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260601120000 +0800" stop="20260601143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260601143000 +0800" stop="20260601152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260601152000 +0800" stop="20260601160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260601160500 +0800" stop="20260601164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260601164500 +0800" stop="20260601171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260601171000 +0800" stop="20260601174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260601174000 +0800" stop="20260601183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260601183000 +0800" stop="20260601200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260601200000 +0800" stop="20260601205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260601205000 +0800" stop="20260601213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260601213500 +0800" stop="20260601222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260601222000 +0800" stop="20260601230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260601230500 +0800" stop="20260601240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260602053000 +0800" stop="20260602080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260603053000 +0800" stop="20260603080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260604053000 +0800" stop="20260604080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260605053000 +0800" stop="20260605080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260608053000 +0800" stop="20260608080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260608080000 +0800" stop="20260608090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260608090000 +0800" stop="20260608094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260608094000 +0800" stop="20260608101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260608101000 +0800" stop="20260608110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260608110000 +0800" stop="20260608120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260608120000 +0800" stop="20260608143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260608143000 +0800" stop="20260608152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260608152000 +0800" stop="20260608160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260608160500 +0800" stop="20260608164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260608164500 +0800" stop="20260608171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260608171000 +0800" stop="20260608174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260608174000 +0800" stop="20260608183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260608183000 +0800" stop="20260608200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260608200000 +0800" stop="20260608205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260608205000 +0800" stop="20260608213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260608213500 +0800" stop="20260608222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260608222000 +0800" stop="20260608230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260608230500 +0800" stop="20260608240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260609053000 +0800" stop="20260609080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260610053000 +0800" stop="20260610080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260611053000 +0800" stop="20260611080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260612053000 +0800" stop="20260612080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260615053000 +0800" stop="20260615080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260615080000 +0800" stop="20260615090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260615090000 +0800" stop="20260615094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260615094000 +0800" stop="20260615101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260615101000 +0800" stop="20260615110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260615110000 +0800" stop="20260615120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260615120000 +0800" stop="20260615143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260615143000 +0800" stop="20260615152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260615152000 +0800" stop="20260615160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260615160500 +0800" stop="20260615164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260615164500 +0800" stop="20260615171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260615171000 +0800" stop="20260615174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260615174000 +0800" stop="20260615183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260615183000 +0800" stop="20260615200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260615200000 +0800" stop="20260615205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260615205000 +0800" stop="20260615213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260615213500 +0800" stop="20260615222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260615222000 +0800" stop="20260615230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260615230500 +0800" stop="20260615240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260616053000 +0800" stop="20260616080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260617053000 +0800" stop="20260617080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260618053000 +0800" stop="20260618080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260619053000 +0800" stop="20260619080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260622053000 +0800" stop="20260622080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260622080000 +0800" stop="20260622090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260622090000 +0800" stop="20260622094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260622094000 +0800" stop="20260622101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260622101000 +0800" stop="20260622110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260622110000 +0800" stop="20260622120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260622120000 +0800" stop="20260622143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260622143000 +0800" stop="20260622152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260622152000 +0800" stop="20260622160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260622160500 +0800" stop="20260622164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260622164500 +0800" stop="20260622171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260622171000 +0800" stop="20260622174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260622174000 +0800" stop="20260622183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260622183000 +0800" stop="20260622200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260622200000 +0800" stop="20260622205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260622205000 +0800" stop="20260622213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260622213500 +0800" stop="20260622222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260622222000 +0800" stop="20260622230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260622230500 +0800" stop="20260622240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260623053000 +0800" stop="20260623080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260624053000 +0800" stop="20260624080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260625053000 +0800" stop="20260625080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260626053000 +0800" stop="20260626080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260629053000 +0800" stop="20260629080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260629080000 +0800" stop="20260629090000 +0800" channel="KapusoStream">
+    <title>Kapuso Mo, Jessica Soho</title>
+  </programme>
+  <programme start="20260629090000 +0800" stop="20260629094000 +0800" channel="KapusoStream">
+    <title>Pinas Sarap</title>
+  </programme>
+  <programme start="20260629094000 +0800" stop="20260629101000 +0800" channel="KapusoStream">
+    <title>Biyahe ni Drew</title>
+  </programme>
+  <programme start="20260629101000 +0800" stop="20260629110000 +0800" channel="KapusoStream">
+    <title>Good News</title>
+  </programme>
+  <programme start="20260629110000 +0800" stop="20260629120000 +0800" channel="KapusoStream">
+    <title>Tiktoclock</title>
+  </programme>
+  <programme start="20260629120000 +0800" stop="20260629143000 +0800" channel="KapusoStream">
+    <title>It's Showtime!</title>
+  </programme>
+  <programme start="20260629143000 +0800" stop="20260629152000 +0800" channel="KapusoStream">
+    <title>Born To Shine</title>
+  </programme>
+  <programme start="20260629152000 +0800" stop="20260629160500 +0800" channel="KapusoStream">
+    <title>House of Lies</title>
+  </programme>
+  <programme start="20260629160500 +0800" stop="20260629164500 +0800" channel="KapusoStream">
+    <title>Apoy sa Dugo</title>
+  </programme>
+  <programme start="20260629164500 +0800" stop="20260629171000 +0800" channel="KapusoStream">
+    <title>Fast Talk With Boy Abunda</title>
+  </programme>
+  <programme start="20260629171000 +0800" stop="20260629174000 +0800" channel="KapusoStream">
+    <title>SOTF: Dance Break</title>
+  </programme>
+  <programme start="20260629174000 +0800" stop="20260629183000 +0800" channel="KapusoStream">
+    <title>Family Feud Philippines</title>
+  </programme>
+  <programme start="20260629183000 +0800" stop="20260629200000 +0800" channel="KapusoStream">
+    <title>24 Oras</title>
+  </programme>
+  <programme start="20260629200000 +0800" stop="20260629205000 +0800" channel="KapusoStream">
+    <title>Encantadia Chronicles: Sang’gre</title>
+  </programme>
+  <programme start="20260629205000 +0800" stop="20260629213500 +0800" channel="KapusoStream">
+    <title>Never Say Die</title>
+  </programme>
+  <programme start="20260629213500 +0800" stop="20260629222000 +0800" channel="KapusoStream">
+    <title>The Secrets of Hotel 88</title>
+  </programme>
+  <programme start="20260629222000 +0800" stop="20260629230500 +0800" channel="KapusoStream">
+    <title>Saksi</title>
+  </programme>
+  <programme start="20260629230500 +0800" stop="20260629240000 +0800" channel="KapusoStream">
+    <title>State of the Nation</title>
+  </programme>
+  <programme start="20260630053000 +0800" stop="20260630080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260701053000 +0800" stop="20260701080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260702053000 +0800" stop="20260702080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+  <programme start="20260703053000 +0800" stop="20260703080000 +0800" channel="KapusoStream">
+    <title>Unang Hirit</title>
+  </programme>
+
+</tv>
