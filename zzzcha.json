@@ -1965,6 +1965,28 @@
   },
 
   {
+    "name": "One Sports",
+    "logoLocal": "ch_one_sports",
+    "category": "Sports",
+    "dateAdded": "2026-04-15",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
+    "drm": {
+      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
+    }
+  },
+
+  {
+    "name": "One Sports+",
+    "logoLocal": "ch_one_sports_plus",
+    "category": "Sports",
+    "dateAdded": "2026-04-15",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
+    "drm": {
+      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
+    }
+  },
+    
+  {
     "name": "Tap Sports",
     "logoLocal": "ch_tap_sports",
     "category": "Sports",
