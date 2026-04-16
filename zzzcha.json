@@ -354,6 +354,17 @@
   },
 
   {
+    "name": "IFC",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_travel.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd",
+    "drm": {
+      "a15171a08a7c09585d6588b49d031252": "33270126ea0cbba11461c2189031f2d3"
+    }
+  },
+
+  {
     "name": "SYFY",
     "logoLocal": "ch_syfy",
     "category": "Entertainment",
@@ -527,6 +538,28 @@
   },
 
   {
+    "name": "Cinemax Hits",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_hits.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd",
+    "drm": {
+      "046c374a3db594dfb32cba86d2e4f72f": "04c00a6ed0fc4ce37841210a42eeeb35"
+    }
+  },
+    
+  {
+    "name": "Universal Movies",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_universal_movies.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sxwo5bmuz5/out/v1/3a73b7f0ef1947bc93027ec75a92cbfa/cenc.mpd",
+    "drm": {
+      "5140ef6622446b7f26bacb12f7d7a1ec": "ad6be1a83d188dc4bc7782b29a7ffb59"
+    }
+  },
+
+  {
     "name": "Miramax Movie Channel",
     "logoLocal": "ch_miramax_movie_channel",
     "category": "Movies",
@@ -548,11 +581,11 @@
     "name": "HBO US",
     "logoLocal": "ch_hbo",
     "category": "Movies",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13434.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd",
+    "drm": {
+      "0b380bec87af5c16ee145bbf8cd7d65e": "edcb65d1269bd76f166d6bc56114211f"
+    }
   },
 
   {
@@ -569,11 +602,11 @@
     "name": "HBO Hits US",
     "logoLocal": "ch_hbo_hits",
     "category": "Movies",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13435.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd",
+    "drm": {
+      "e8c6a262b77b153530a6caaf2e07944a": "81071cf5808c0387adab93d8ff9b1f09"
+    }
   },
 
   {
@@ -600,22 +633,22 @@
     "name": "HBO Comedy US",
     "logoLocal": "ch_hbo_comedy",
     "category": "Movies",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13438.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd",
+    "drm": {
+      "217624a3983b3593ca7d1f3b01042d4f": "fecaa3486d9deef3f7f0e1a95b662cb7"
+    }
   },
 
   {
     "name": "HBO Drama US",
     "logoLocal": "ch_hbo_drama",
     "category": "Movies",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/13436.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/o6rq3swwr4/out/v1/6a362c145af241e5a6eb45e0729ce5e6/cenc.mpd",
+    "drm": {
+      "2742f4791f17231bdb933844dabfb5bc": "3c49eb8a723248f87fb8c3722874557e"
+    }
   },
 
   {
@@ -1140,6 +1173,17 @@
   },
 
   {
+    "name": "Nat Geo History",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_history.webp",
+    "category": "Documentary",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd",
+    "drm": {
+      "a7bc01ff11a011cdc47a27cd8ea5f3a3": "64c22630a86bf1fbe3b3629cea6bc994"
+    }
+  },
+
+  {
     "name": "Animal Planet",
     "logoLocal": "ch_animal_planet",
     "category": "Documentary",
@@ -1370,6 +1414,17 @@
     },
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Nat Geo Travel",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_travel.webp",
+    "category": "Lifestyle",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/tsn0r83bmq/out/v1/a98a628106534243929c64de7da5fbc6/cenc.mpd",
+    "drm": {
+      "ffd0695416ec170799092de842ee3476": "92c351fd9179bbdd7e65b13d49a221cf"
     }
   },
 
@@ -2135,6 +2190,17 @@
     "logoLocal": "ch_dazn_ringside",
     "category": "Sports",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
+  },
+
+  {
+    "name": "UFC",
+    "logoLocal": "ch_ufc_tv",
+    "category": "Sports",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+    "drm": {
+      "a49085f8da5e65af1efff0edac830b1f": "4659bc58a85c062e3fe0c039a446fe47"
+    }
   },
 
   {
