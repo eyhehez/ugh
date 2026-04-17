@@ -2570,7 +2570,7 @@
     "name": ".",
     "logoLocal": "ch_",
     "category": "Sports",
-    "streamUrl": "rtmp://210.4.112.99:1935/tapdmv/TVN_movies"
+    "streamUrl": "http://210.4.112.99:1935/tapdmv/TVN_movies/playlist.m3u8"
   }
 
 ]
