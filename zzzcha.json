@@ -463,6 +463,21 @@
   },
 
   {
+    "name": "FOX",
+    "logoLocal": "ch_fox",
+    "category": "Entertainment",
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10395.m3u8"
+  },
+
+  {
+    "name": "NBC",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nbc.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10430.m3u8"
+  },
+
+  {
     "name": "Cinema One",
     "logoLocal": "ch_cinema_one",
     "category": "Movies",
@@ -996,6 +1011,23 @@
     "headers": {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
   }
+  },
+
+  {
+    "name": "Crunchyroll",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_crunchyroll.webp",
+    "category": "Anime",
+    "dateAdded": "2026-04-17",
+    "streamUrl": "https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8"
+  },
+
+  {
+    "name": "Animation+",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_animationplus.webp",
+    "category": "Anime",
+    "dateAdded": "2026-04-17",
+    "type": "hls",
+    "streamUrl": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3/?X-Plex-Token=yWJ7MeWyykqkzgRRo6Kx"
   },
 
   {
