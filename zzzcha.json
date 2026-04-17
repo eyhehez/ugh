@@ -9,6 +9,15 @@
   },
 
    {
+    "name": "BINI @ Coachella Weekend 2",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bini.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-18",
+    "type": "youtube",
+    "streamUrl": "cYT79Dp0Wuk"
+  },
+
+   {
     "name": "Kapamilya Online Live",
     "logoLocal": "ch_kapamilya_online_live",
     "category": "Entertainment",
