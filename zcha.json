@@ -954,13 +954,20 @@
   "category": "Movies",
   "dateAdded": "2026-04-18",
   "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd",
-  "drm": {
-    "licenseUrl": "https://ck-server.danng.me/?username=HishamKamarul&channelid=5186"
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "wzb9fIuxjRe_Y8nkYDKo7Q",
+          "kid": "B_pqn3_ngGu6mw6X0KxbEA"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
   },
-  "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
-},
 
   {
     "name": "FX Movie Channel",
