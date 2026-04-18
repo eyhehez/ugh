@@ -9,15 +9,6 @@
   },
 
    {
-    "name": "BINI @ Coachella Weekend 2",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bini.webp",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-18",
-    "type": "youtube",
-    "streamUrl": "cYT79Dp0Wuk"
-  },
-
-   {
     "name": "Kapamilya Online Live",
     "logoLocal": "ch_kapamilya_online_live",
     "category": "Entertainment",
@@ -364,7 +355,7 @@
 
   {
     "name": "IFC",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_ifc.webp",
+    "logoLocal": "ch_ifc",
     "category": "Entertainment",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd",
@@ -480,7 +471,7 @@
 
   {
     "name": "NBC",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nbc.webp",
+    "logoLocal": "ch_nbc",
     "category": "Entertainment",
     "dateAdded": "2026-04-17",
     "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10430.m3u8"
@@ -599,7 +590,7 @@
 
   {
     "name": "Cinemax Hits",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_hits.webp",
+    "logoLocal": "ch_cinemax_hits",
     "category": "Movies",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd",
@@ -610,7 +601,7 @@
     
   {
     "name": "Universal Movies",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_universal_movies.webp",
+    "logoLocal": "ch_universal_movies",
     "category": "Movies",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/sxwo5bmuz5/out/v1/3a73b7f0ef1947bc93027ec75a92cbfa/cenc.mpd",
@@ -1053,7 +1044,7 @@
 
   {
     "name": "Crunchyroll",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_crunchyroll.webp",
+    "logoLocal": "ch_crunchyroll",
     "category": "Anime",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8"
@@ -1061,7 +1052,7 @@
 
   {
     "name": "Animation+",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_animationplus.webp",
+    "logoLocal": "ch_animationplus",
     "category": "Anime",
     "dateAdded": "2026-04-17",
     "type": "hls",
@@ -1272,7 +1263,7 @@
 
   {
     "name": "Nat Geo History",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_history.webp",
+    "logoLocal": "ch_nat_geo_history",
     "category": "Documentary",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd",
@@ -1517,7 +1508,7 @@
 
   {
     "name": "Nat Geo Travel",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_nat_geo_travel.webp",
+    "logoLocal": "ch_nat_geo_travel",
     "category": "Lifestyle",
     "dateAdded": "2026-04-17",
     "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/tsn0r83bmq/out/v1/a98a628106534243929c64de7da5fbc6/cenc.mpd",
