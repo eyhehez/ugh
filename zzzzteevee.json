@@ -113,7 +113,6 @@
   "name": "Astro FAM Time",
   "logoLocal": "ch_astro_fam_time",
   "category": "Movies",
-  "dateAdded": "2026-04-18",
   "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5186/default_primary.mpd",
     "drm": {
       "keys": [
