@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "4.0",
-  "apk_url": "https://gethayahay.vercel.app/Hayahay_v4.apk",
-  "release_notes": "EPG is now available. View live schedules and upcoming programs.\n\nFine-tuned fullscreen gesture zones to prevent accidental volume/brightness triggers.\n\nView all ads at once and watch ad-free for the rest of the day.",
+  "version_code": 5,
+  "version_name": "5.0",
+  "apk_url": "https://gethayahay.vercel.app/Hayahay_v5.apk",
+  "release_notes": "Fixed: Overlapping audio when switching channels quickly.\nNew: Category + Quality tags visible directly in the player.\nNew: Built-in speed test for recommended video quality.\nNew: Set your preferred default video quality in Settings.\nNew: Tap the flag icon next to any channel to report issues.",
   "website_url": "https://gethayahay.vercel.app"
 }
