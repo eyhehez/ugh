@@ -92,19 +92,6 @@
   },
 
   {
-    "name": "GMA News TV",
-    "logoLocal": "ch_gma_news_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
-    "drm": {
-      "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
-    }
-  },
-
-  {
     "name": "A2Z",
     "logoLocal": "ch_a2z",
     "category": "Entertainment",
@@ -1740,6 +1727,19 @@
     "logoLocal": "ch_dzmm_teleradyo",
     "category": "News",
     "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "GMA News TV",
+    "logoLocal": "ch_gma_news_tv",
+    "category": "News",
+    "streamUrl": "https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
+    "drm": {
+      "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
+    }
   },
 
   {
