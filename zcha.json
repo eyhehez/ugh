@@ -2655,6 +2655,16 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
+  },
+
+  {
+    "name": ".",
+    "logoLocal": "",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mp",
+    "drm": {
+      "c3050cba95c945418efa3aedbc69cff7": "988e7fade0828273472e24545d0cfa4c"
+    }
   }
 
 ]
