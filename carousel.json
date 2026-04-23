@@ -1,6 +1,7 @@
 [
-  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner_star_movies.webp", "channelName": "Star Movies"},
-  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner_the_kpop.webp","channelName": "The K-Pop"},
-  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner_tvn_movies.webp","channelName": "tvN Movies"},
-  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner_nickelodeon.webp", "channelName": "Nickelodeon"}
+  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner/playoffs.webp"},
+  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner/star_movies.webp", "channelName": "Star Movies"},
+  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner/the_kpop.webp","channelName": "The K-Pop"},
+  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner/tvn_movies.webp","channelName": "tvN Movies"},
+  { "image": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/banner/nickelodeon.webp", "channelName": "Nickelodeon"}
 ]
