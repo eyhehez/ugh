@@ -1,7 +1,7 @@
 {
-  "version_code": 5,
-  "version_name": "5.0",
-  "apk_url": "https://gethayahay.vercel.app/Hayahay_v5.apk",
-  "release_notes": "Fixed: Overlapping audio when switching channels quickly.\nNew: Category + Quality tags visible directly in the player.\nNew: Built-in speed test for recommended video quality.\nNew: Set your preferred default video quality in Settings.\nNew: Tap the flag icon next to any channel to report issues.",
+  "version_code": 6,
+  "version_name": "6.0",
+  "apk_url": "https://gethayahay.vercel.app/Hayahay_v6.apk",
+  "release_notes": "Fixed: Multi-language captions are now automatically selected.\nNew: Current programs are now shown directly in the channel list.\nNew: Hold and drag to reorder channels in Favorites.",
   "website_url": "https://gethayahay.vercel.app"
 }
