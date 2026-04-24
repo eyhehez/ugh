@@ -456,6 +456,13 @@
   },
 
   {
+    "name": "ABC",
+    "logoLocal": "ch_abc",
+    "category": "Entertainment",
+    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10358.m3u8"
+  },
+
+  {
     "name": "NBC",
     "logoLocal": "ch_nbc",
     "category": "Entertainment",
