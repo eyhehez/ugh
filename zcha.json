@@ -472,7 +472,7 @@
 
   {
     "name": "WOWOW Prime",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_wowow_prime.webp",
+    "logoLocal": "ch_wowow_prime",
     "category": "Entertainment",
     "dateAdded": "2026-04-20",
     "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12"
@@ -989,7 +989,7 @@
 
   {
     "name": "WOWOW Cinema",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_wowow_cinema.webp",
+    "logoLocal": "ch_wowow_cinema",
     "category": "Movies",
     "dateAdded": "2026-04-20",
     "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07"
@@ -2025,7 +2025,7 @@
 
    {
     "name": "WOWOW Live",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_wowow_live.webp",
+    "logoLocal": "ch_wowow_live",
     "category": "International",
     "dateAdded": "2026-04-20",
     "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20"
@@ -2070,7 +2070,7 @@
 
   {
     "name": "GMM25",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_gmm25.webp",
+    "logoLocal": "ch_gmm25",
     "category": "International",
     "dateAdded": "2026-04-20",
     "streamUrl": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8"
