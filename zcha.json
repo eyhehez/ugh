@@ -2668,7 +2668,7 @@
     "name": "Test Channel",
     "logoLocal": "",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mp",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.m",
     "drm": {
       "c3050cba95c945418efa3aedbc69cff7": "988e7fade0828273472e24545d0cfa4c"
     }
