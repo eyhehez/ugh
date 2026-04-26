@@ -351,14 +351,6 @@
   },
 
   {
-    "name": "Zee TV",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_tv.webp",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-26",
-    "streamUrl": "https://mini.allinonereborn.fun/tata.php?id=11783"
-  },
-
-  {
     "name": "IFC",
     "logoLocal": "ch_ifc",
     "category": "Entertainment",
