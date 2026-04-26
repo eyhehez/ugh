@@ -351,6 +351,14 @@
   },
 
   {
+    "name": "Zee TV",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_tv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-26T17:00:00",
+    "streamUrl": "http://41.223.30.230/ZEETV/index.m3u8"
+  },
+
+  {
     "name": "IFC",
     "logoLocal": "ch_ifc",
     "category": "Entertainment",
@@ -2088,27 +2096,19 @@
   },
 
   {
+    "name": "BBC One",
+    "logoLocal": "ch_bbc_one",
+    "category": "International",
+    "dateAdded": "2026-03-26T17:00:00",
+    "streamUrl": "http://41.223.30.230/BBCONE/index.m3u8"
+  },
+
+  {
     "name": "Mnet",
     "logoLocal": "ch_mnet",
     "category": "International",
     "dateAdded": "2026-03-23",
     "streamUrl": "http://mnet.x10.mx/mnet.m3u8"
-  },
-
-  {
-    "name": "MBC",
-    "logoLocal": "ch_mbc",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=TQDUYRMX4P&u=Y"
-  },
-
-  {
-    "name": "KBS2",
-    "logoLocal": "ch_kbs2",
-    "category": "International",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K02&q=HD&apikey=TQDUYRMX4P&u=Y"
   },
 
   {
