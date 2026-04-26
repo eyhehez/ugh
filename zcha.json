@@ -1,5 +1,5 @@
 {
-  "top5": ["GMA 7", "NBC", "Tapsilog", "ALLTV2", "Astro Showtime"],
+  "top5": ["GMA 7", "AMC", "Tapsilog", "ALLTV2", "MN+"],
   "channels": [
   {
     "name": "ALLTV2",
@@ -228,20 +228,6 @@
   },
 
   {
-    "name": "Game Show Network",
-    "logoLocal": "ch_game_show_network",
-    "category": "Entertainment",
-    "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
-  },
-
-  {
-    "name": "Game Show Central",
-    "logoLocal": "ch_game_show_central",
-    "category": "Entertainment",
-    "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750"
-  },
-
-  {
     "name": "Aliw Channel 23",
     "logoLocal": "ch_aliw_channel_23",
     "category": "Entertainment",
@@ -262,6 +248,20 @@
     "category": "Entertainment",
     "dateAdded": "2026-04-15",
     "streamUrl": "http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Game Show Network",
+    "logoLocal": "ch_game_show_network",
+    "category": "Entertainment",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
+  },
+
+  {
+    "name": "Game Show Central",
+    "logoLocal": "ch_game_show_central",
+    "category": "Entertainment",
+    "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99991750/hls/playlist.m3u8?ads.xumo_channelId=99991750"
   },
 
    {
@@ -325,6 +325,14 @@
   },
 
   {
+    "name": "AsianCrush",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_asiancrush.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8"
+  },
+
+  {
     "name": "Comedy Central",
     "logoLocal": "ch_comedy_central",
     "category": "Entertainment",
@@ -343,6 +351,14 @@
   },
 
   {
+    "name": "Zee TV",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_tv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://mini.allinonereborn.fun/tata.php?id=11783"
+  },
+
+  {
     "name": "IFC",
     "logoLocal": "ch_ifc",
     "category": "Entertainment",
@@ -351,6 +367,14 @@
     "drm": {
       "a15171a08a7c09585d6588b49d031252": "33270126ea0cbba11461c2189031f2d3"
     }
+  },
+
+  {
+    "name": "Dove Channel",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_dove_channel.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8"
   },
 
   {
@@ -991,6 +1015,14 @@
   },
 
   {
+    "name": "MyTime Movie Network",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mytime_movie_network.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://mytime-tcl.amagi.tv/playlist.m3u8"
+  },
+
+  {
     "name": "WOWOW Cinema",
     "logoLocal": "ch_wowow_cinema",
     "category": "Movies",
@@ -1398,6 +1430,14 @@
     "category": "Documentary",
     "dateAdded": "2026-04-15",
     "streamUrl": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8"
+  },
+
+  {
+    "name": "True History",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_true_history.webp",
+    "category": "Documentary",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
   },
 
   {
@@ -1924,6 +1964,14 @@
     "category": "News",
     "dateAdded": "2026-04-15",
     "streamUrl": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+  },
+
+  {
+    "name": "Times of India",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_times_of_india.webp",
+    "category": "News",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
   },
 
    {
@@ -2488,6 +2536,14 @@
   },
 
   {
+    "name": "BeIN Sports XTRA",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bein_sports_xtra.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
+  },
+
+  {
     "name": "SPOTV",
     "logoLocal": "ch_spotv",
     "category": "Sports",
@@ -2564,6 +2620,83 @@
     "streamUrl": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
     "drm": {
       "11223344556677889900112233445566": "4b80724d0ef86bcb2c21f7999d67739d"
+    }
+  },
+
+  {
+    "name": "Fubo Sports",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fubo_sports.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+    "drm": {
+      "3dcfbec0e7146928baa55210bf2cb62f": "bc85f74f815d9be5ae1dd6defaa05135"
+    }
+  },
+
+  {
+    "name": "Fubo Sports Network",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fubo_sports_network.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+    "drm": {
+      "dc69b6159a0f9f0a4e03b3ff91cbacd5": "d0dcbcd7723bc40df0bf34c9c092d51f"
+    }
+  },
+
+  {
+    "name": "TSN 1",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_1.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "drm": {
+      "e51aa21f2a0fef9aabc120dfb655b52f": "a12a987fe725a40b6be95cd84b15f689"
+    }
+  },
+
+  {
+    "name": "TSN 2",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_2.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+    "drm": {
+      "daa8ea92553fd16cd6bfae2b8c582715": "4042e041b5639b79b69ae07a872eef9b"
+    }
+  },
+
+  {
+    "name": "TSN 3",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_3.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+    "drm": {
+      "f5c2b30eac11be1e8cdfc9585f5fe6af": "a8198d17bf9b0da77450fbb919a38b2d"
+    }
+  },
+
+  {
+    "name": "TSN 4",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_4.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+    "drm": {
+      "c4088f5f265f9de50cffd80bf89308b7": "2c4d2239d96d532b4ec2050653611003"
+    }
+  },
+
+  {
+    "name": "TSN 5",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_5.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-26",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+    "drm": {
+      "e853333da2c9196ea11374634231bc45": "de2e2dbe818d78dfad07d6cd9a4c63d4"
     }
   },
     
