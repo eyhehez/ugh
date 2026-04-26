@@ -354,7 +354,7 @@
     "name": "Zee TV",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_zee_tv.webp",
     "category": "Entertainment",
-    "dateAdded": "2026-04-26T17:00:00",
+    "dateAdded": "2026-04-26",
     "streamUrl": "http://41.223.30.230/ZEETV/index.m3u8"
   },
 
@@ -2099,7 +2099,7 @@
     "name": "BBC One",
     "logoLocal": "ch_bbc_one",
     "category": "International",
-    "dateAdded": "2026-04-26T17:00:00",
+    "dateAdded": "2026-04-26",
     "streamUrl": "http://41.223.30.230/BBCONE/index.m3u8"
   },
 
