@@ -1194,8 +1194,10 @@
     "name": "Disney Channel US",
     "logoLocal": "ch_disney_channel",
     "category": "Kids",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/622"
+    "streamUrl": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
+    "drm": {
+      "be9caaa813c5305e761c66ac63645901": "3d40f2990ec5362ca5be3a3c9bb8f8b4"
+    }
   },
 
   {
