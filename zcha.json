@@ -1014,14 +1014,6 @@
   },
 
   {
-    "name": "Sony Pix",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_sony_pix.webp",
-    "category": "Movies",
-    "dateAdded": "2026-04-27",
-    "streamUrl": "http://desyra.co/live/8964476/3pUJreUXUW/147.ts"
-  },
-
-  {
     "name": "Sony Movies",
     "logoLocal": "ch_sony_movies",
     "category": "Movies",
