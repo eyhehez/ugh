@@ -1014,6 +1014,14 @@
   },
 
   {
+    "name": "Sony Pix",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_sony_pix.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-27",
+    "streamUrl": "http://desyra.co/live/8964476/3pUJreUXUW/147.ts"
+  },
+
+  {
     "name": "Sony Movies",
     "logoLocal": "ch_sony_movies",
     "category": "Movies",
@@ -2137,12 +2145,19 @@
   },
 
   {
-    "name": "GMM25",
-    "logoLocal": "ch_gmm25",
+    "name": "One31",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_one31.webp",
     "category": "International",
-    "dateAdded": "2026-04-20",
-    "dateUpdated": "2026-04-27",
-    "streamUrl": "https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8"
+    "dateAdded": "2026-04-27",
+    "streamUrl": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
+  },
+
+  {
+    "name": "Mono 29",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mono_29.webp",
+    "category": "International",
+    "dateAdded": "2026-04-27",
+    "streamUrl": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
   },
 
   {
