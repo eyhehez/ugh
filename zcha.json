@@ -1239,7 +1239,7 @@
     "logoLocal": "ch_nicktoons",
     "category": "Kids",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://84.17.50.102/nicktoons/index.m3u8"
+    "streamUrl": "http://hestiahestia.quicksytes.com:2096/9build384/5420639718/815109"
   },
 
   {
@@ -1251,16 +1251,6 @@
 
   {
     "name": "Disney Channel",
-    "logoLocal": "ch_disney_channel",
-    "category": "Kids",
-    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd",
-    "drm": {
-      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
-    }
-  },
-
-  {
-    "name": "Disney Channel US",
     "logoLocal": "ch_disney_channel",
     "category": "Kids",
     "streamUrl": "https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd",
@@ -1283,7 +1273,7 @@
     "name": "Disney XD",
     "logoLocal": "ch_disney_xd",
     "category": "Kids",
-    "streamUrl": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
+    "streamUrl": "http://hestiahestia.quicksytes.com:2096/9build384/5420639718/815104"
   },
 
   {
@@ -1337,7 +1327,7 @@
     "name": "BOOMERANG",
     "logoLocal": "ch_boomerang",
     "category": "Kids",
-    "streamUrl": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8"
+    "streamUrl": "http://hestiahestia.quicksytes.com:2096/9build384/5420639718/815097"
   },
 
   {
