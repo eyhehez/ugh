@@ -371,6 +371,17 @@
   },
 
   {
+    "name": "Sundance TV",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_sundance_tv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd",
+    "drm": {
+      "60da54dad6804a8895d80f79bd2ef324": "528d95c9ca726d0602c28f9366a08069"
+    }
+  },
+
+  {
     "name": "Comedy Central",
     "logoLocal": "ch_comedy_central",
     "category": "Entertainment",
@@ -642,6 +653,28 @@
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd",
     "drm": {
       "046c374a3db594dfb32cba86d2e4f72f": "04c00a6ed0fc4ce37841210a42eeeb35"
+    }
+  },
+
+  {
+    "name": "Cinemax Action",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_action.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd",
+    "drm": {
+      "136a75130b82cdf89cb5f05d739b663f": "0ef360ff75bb11b7f0982a86b86d39ae"
+    }
+  },
+
+  {
+    "name": "Cinemax Classics",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_classics.webp",
+    "category": "Movies",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd",
+    "drm": {
+      "81a74ef0cf71e28d5d9bc55d5fd7921a": "884e89f90a9f5cbaaa5c2a451e1d8f86"
     }
   },
     
