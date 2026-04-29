@@ -386,22 +386,11 @@
   },
 
   {
-    "name": "Discovery Family",
-    "logoLocal": "ch_discovery_family",
-    "category": "Entertainment",
-    "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10387.m3u8",
-    "headers": {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-  }
-  },
-
-  {
     "name": "truTV",
     "logoLocal": "ch_trutv",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10453.m3u8",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186328",
     "headers": {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
   }
@@ -436,7 +425,7 @@
     "logoLocal": "ch_e",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10391.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186329"
   },
 
   {
@@ -465,7 +454,7 @@
     "name": "CBS",
     "logoLocal": "ch_cbs",
     "category": "Entertainment",
-    "streamUrl": "http://stream.cammonitorplus.net/1775/index.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/64018"
   },
 
   {
@@ -479,14 +468,14 @@
     "name": "FOX",
     "logoLocal": "ch_fox",
     "category": "Entertainment",
-    "streamUrl": "http://84.17.50.102/fox/index.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/64016"
   },
 
   {
     "name": "ABC",
     "logoLocal": "ch_abc",
     "category": "Entertainment",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10358.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/64015"
   },
 
   {
@@ -494,7 +483,7 @@
     "logoLocal": "ch_nbc",
     "category": "Entertainment",
     "dateAdded": "2026-04-17",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10430.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186360"
   },
 
   {
@@ -1010,7 +999,7 @@
     "logoLocal": "ch_fx_movie_channel",
     "category": "Movies",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10401.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186298"
   },
 
   {
@@ -1387,7 +1376,7 @@
     "logoLocal": "ch_discovery_science",
     "category": "Documentary",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10389.m3u8"
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186340"
   },
 
   {
@@ -1693,7 +1682,7 @@
     "logoLocal": "ch_cooking_channel",
     "category": "Lifestyle",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://bgdc.live:25461/live/allanphillips31/55446538/10381.m3u8",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186353",
     "headers": {
     "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
   }
@@ -2842,17 +2831,24 @@
   },
 
   {
-    "name": "--",
-    "logoLocal": ".",
-    "category": "Sports",
-    "streamUrl": "http://vipbayi303.top:8080/aligun12/21112019bavqnb/417465"
-  },
-
-  {
-    "name": "$$",
+    "name": "A&E",
     "logoLocal": ".",
     "category": "Sports",
     "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186349"
+  },
+
+  {
+    "name": "Bravo",
+    "logoLocal": ".",
+    "category": "Sports",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186317"
+  },
+
+  {
+    "name": "TNT",
+    "logoLocal": ".",
+    "category": "Sports",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186327"
   }
 
 ]
