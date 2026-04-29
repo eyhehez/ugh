@@ -487,6 +487,30 @@
   },
 
   {
+    "name": "A&E",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_a_and_e.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186349"
+  },
+
+  {
+    "name": "Bravo",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bravo.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186317"
+  },
+
+  {
+    "name": "TNT",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tnt.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186327"
+  },
+
+  {
     "name": "WOWOW Prime",
     "logoLocal": "ch_wowow_prime",
     "category": "Entertainment",
@@ -2118,14 +2142,6 @@
   },
 
   {
-    "name": "One31",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_one31.webp",
-    "category": "International",
-    "dateAdded": "2026-04-27",
-    "streamUrl": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8"
-  },
-
-  {
     "name": "Mono 29",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mono_29.webp",
     "category": "International",
@@ -2321,6 +2337,14 @@
     "logoLocal": "ch_espnu",
     "category": "Sports",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23122"
+  },
+
+  {
+    "name": "ESPNEWS",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_espnews.webp",
+    "category": "Sports",
+    "dateAdded": "2026-04-29",
+    "streamUrl": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/W82B6MN5X9KLUG/19154/index.m3u8"
   },
 
   {
@@ -2820,27 +2844,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "A&EE",
-    "logoLocal": ".",
-    "category": "Sports",
-    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186349"
-  },
-
-  {
-    "name": "Bravo",
-    "logoLocal": ".",
-    "category": "Sports",
-    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186317"
-  },
-
-  {
-    "name": "TNT",
-    "logoLocal": ".",
-    "category": "Sports",
-    "streamUrl": "http://tvpplive.net:80/447341125879492/1593574628/186327"
   }
 
 ]
