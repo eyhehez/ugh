@@ -1102,13 +1102,6 @@
   },
 
   {
-    "name": "Ani-blast",
-    "logoLocal": "ch_ani_blast",
-    "category": "Anime",
-    "streamUrl": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8"
-  },
-
-  {
     "name": "FilmRise Anime",
     "logoLocal": "ch_filmrise_anime",
     "category": "Anime",
@@ -2312,19 +2305,6 @@
     "category": "Sports",
     "dateAdded": "2026-04-15",
     "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Astro Grandstand",
-    "logoLocal": "ch_astro_grandstand",
-    "category": "Sports",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd",
-    "drm": {
-      "5be66a6f88efee3d6e30f72a9c58e310": "168f3fadfc730ba3dfc932f7c430e27d"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
   },
 
   {
