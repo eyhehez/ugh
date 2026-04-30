@@ -2854,7 +2854,9 @@
     "name": "-",
     "logoLocal": "-",
     "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15966.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15966.m3u8",
+    "standbyUrl": "http://kstv.us:8080/live/curtdog66/58400050484/15966.m3u8",
+    "standby": true
   }
 
 ]
