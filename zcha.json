@@ -617,14 +617,6 @@
   },
 
   {
-    "name": "Zee Sine",
-    "logoLocal": "ch_zee_sine",
-    "category": "Movies",
-    "dateAdded": "2026-03-24T21:11:00",
-    "streamUrl": "https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8"
-  },
-
-  {
     "name": "Cinemax",
     "logoLocal": "ch_cinemax",
     "category": "Movies",
