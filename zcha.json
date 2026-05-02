@@ -2803,7 +2803,18 @@
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
     "category": "Sports",
-    "streamUrl": "http://inthezone.pro:80/Sofia/Sofia/630994"
+    "streamUrl": "http://xxip9.top:8080/live/6QMk9P/387737/53704.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/2132135/6953214/53704.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/53704.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/53704.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/53704.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/53704.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/53704.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/53704.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/53704.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/53704.m3u8"
+    ]
   },
 
   {
