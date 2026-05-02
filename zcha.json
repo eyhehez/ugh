@@ -1361,7 +1361,7 @@
     "category": "Kids",
     "dateAdded": "2026-03-23",
     "streamUrl": "http://kstv.us:8080/live/henry65/5862361737/23274.m3u8",
-    "standbyUrls": 
+    "standbyUrls": [
       "http://kstv.us:8080/live/hwilliamsw1/0938999941/23274.m3u8",
       "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23274.m3u8",
       "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23274.m3u8",
