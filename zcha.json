@@ -1469,8 +1469,28 @@
     "name": "BOOMERANG",
     "logoLocal": "ch_boomerang",
     "category": "Kids",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/14741.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/14741.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22563.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22563.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22563.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/22563.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22563.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22563.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22563.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22563.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22563.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22563.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22563.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22563.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22563.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22563.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22563.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22563.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/22563.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22563.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22563.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/22563.m3u8"
+    ]
   },
 
   {
