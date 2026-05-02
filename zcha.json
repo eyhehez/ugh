@@ -224,8 +224,14 @@
     "name": "TFC",
     "logoLocal": "ch_tfc",
     "category": "Entertainment",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/101823.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/101823.m3u8"
+    "streamUrl": "http://cord-cutter.net:8080/live/7NYHqX/589045/101823.m3u8",
+    "standbyUrls": [
+      "http://cord-cutter.net:8080/live/89080265/62308620/101823.m3u8",
+      "http://cord-cutter.net:8080/live/MpZcA6/367825/101823.m3u8",
+      "http://cord-cutter.net:8080/live/Q5vuYP/511295/101823.m3u8",
+      "http://cord-cutter.net:8080/live/6QMk9P/387737/101823.m3u8",
+      "http://cord-cutter.net:8080/live/nq8FBU/296644/101823.m3u8"
+    ]
   },
 
   {
