@@ -395,7 +395,12 @@
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
     "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/46685.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/46685.m3u8"
+    "standbyUrls": [
+      "http://cord-cutter.net:8080/live/V03mvS/317304/46685.m3u8",
+      "http://standby2.m3u8",
+      "http://standby3.m3u8",
+      "http://standby4.m3u8"
+    ]
   },
 
   {
@@ -2848,38 +2853,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "*",
-    "logoLocal": "-",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15966.m3u8",
-    "standbyUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/22469.m3u8"
-  },
-
-  {
-    "name": "x*",
-    "logoLocal": "-",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95/15966.m3u8",
-    "standbyUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15966.m3u8"
-  },
-
-  {
-    "name": "*x",
-    "logoLocal": "-",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95104974615/15966.m3u8",
-    "standbyUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95/22469.m3u8"
-  },
-
-  {
-    "name": "xx",
-    "logoLocal": "-",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95/15966.m3u8",
-    "standbyUrl": "http://kstv.us:8080/live/4VUyfZBQzk/95/22469.m3u8"
   }
 
 ]
