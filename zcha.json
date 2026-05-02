@@ -423,8 +423,28 @@
     "logoLocal": "ch_trutv",
     "category": "Entertainment",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/10224.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/10224.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23243.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23243.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23243.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23243.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23243.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23243.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23243.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23243.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23243.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23243.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23243.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23243.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23243.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23243.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23243.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23243.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23243.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23243.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23243.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23243.m3u8"
+    ]
   },
 
   {
@@ -548,8 +568,28 @@
     "name": "CBS",
     "logoLocal": "ch_cbs",
     "category": "Entertainment",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/120654.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/120654.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/jsdaniels74/1836272615/22560.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22560.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22560.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/22560.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22560.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22560.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22560.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22560.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22560.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/22560.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22560.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22560.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22560.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22560.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22560.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22560.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22560.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22560.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22560.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22560.m3u8"
+    ]
   },
 
   {
@@ -563,16 +603,56 @@
     "name": "FOX",
     "logoLocal": "ch_fox",
     "category": "Entertainment",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/120655.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/120655.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22524.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22524.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22524.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22524.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22524.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22524.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22524.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/22524.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22524.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22524.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22524.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22524.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22524.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/22524.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22524.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/22524.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22524.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22524.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22524.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22524.m3u8"
+    ]
   },
 
   {
     "name": "ABC",
     "logoLocal": "ch_abc",
     "category": "Entertainment",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/22990.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/22990.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23363.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23363.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23363.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23363.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23363.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23363.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23363.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23363.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23363.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23363.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23363.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23363.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23363.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23363.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23363.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23363.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23363.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23363.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23363.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23363.m3u8"
+    ]
   },
 
   {
@@ -580,8 +660,28 @@
     "logoLocal": "ch_nbc",
     "category": "Entertainment",
     "dateAdded": "2026-04-17",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/120656.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/120656.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/4abYcSzugD/7732488130/23211.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/henry65/5862361737/23211.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23211.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23211.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23211.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23211.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23211.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23211.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23211.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23211.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23211.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23211.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23211.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23211.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23211.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23211.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23211.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23211.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23211.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23211.m3u8"
+    ]
   },
 
   {
@@ -925,7 +1025,28 @@
     "name": "Starz",
     "logoLocal": "ch_starz",
     "category": "Movies",
-    "streamUrl": "http://23.237.104.106:8080/USA_STARZ/index.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/grijalva28/Infiniti08/15906.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/15906.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/15906.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/15906.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/15906.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/15906.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/15906.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/15906.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/15906.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/15906.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/15906.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/15906.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/15906.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/15906.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/15906.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/15906.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/15906.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/15906.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/15906.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/15906.m3u8"
+    ]
   },
 
   {
@@ -1415,7 +1536,28 @@
     "name": "Disney XD",
     "logoLocal": "ch_disney_xd",
     "category": "Kids",
-    "streamUrl": "http://cord-cutter.net:8080/6qgbR7/537783/75621"
+    "streamUrl": "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23330.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/henry65/5862361737/23330.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23330.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23330.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23330.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23330.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23330.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23330.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23330.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23330.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23330.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23330.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23330.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23330.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23330.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23330.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23330.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23330.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23330.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23330.m3u8"
+    ]
   },
 
   {
@@ -1620,8 +1762,28 @@
     "logoLocal": "ch_discovery_science",
     "category": "Documentary",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/20866.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/20866.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/XCw0daKptJ/74486665872/15961.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/curtdog66/58400050484/15961.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/15961.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/15961.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/15961.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/15961.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/15961.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/15961.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/15961.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/15961.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/15961.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/15961.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/15961.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/15961.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/15961.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/15961.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/15961.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/15961.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/15961.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/15961.m3u8"
+    ]
   },
 
   {
