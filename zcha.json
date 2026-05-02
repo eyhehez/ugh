@@ -1505,16 +1505,56 @@
     "name": "National Geographic",
     "logoLocal": "ch_nat_geo",
     "category": "Documentary",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/46722.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/46722.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/RichardW/92565393518/22503.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/22503.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22503.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/22503.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22503.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22503.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22503.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22503.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22503.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22503.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22503.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22503.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22503.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22503.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22503.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22503.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22503.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22503.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22503.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22503.m3u8"
+    ]
   },
 
   {
     "name": "National Geographic Wild",
     "logoLocal": "ch_nat_geo_wild",
     "category": "Documentary",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/11664.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/11664.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22502.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22502.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22502.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22502.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22502.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/22502.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22502.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22502.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22502.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22502.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22502.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22502.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22502.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22502.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/22502.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22502.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22502.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22502.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22502.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/22502.m3u8"
+    ]
   },
 
   {
@@ -1843,8 +1883,28 @@
     "name": "Travel Channel US",
     "logoLocal": "ch_travel_channel",
     "category": "Lifestyle",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/9315.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/9315.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/24856.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/24856.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/24856.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/24856.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/24856.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/24856.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/24856.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/24856.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/24856.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/24856.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/24856.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/24856.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/24856.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/24856.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/24856.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/24856.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/24856.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/24856.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/24856.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/24856.m3u8"
+    ]
   },
 
   {
@@ -1895,8 +1955,28 @@
     "logoLocal": "ch_cooking_channel",
     "category": "Lifestyle",
     "dateAdded": "2026-04-04",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/9229.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/9229.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/Everocadd3/5493154841/23339.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23339.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23339.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23339.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23339.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23339.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23339.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23339.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23339.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23339.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23339.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23339.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23339.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23339.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23339.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23339.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23339.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23339.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23339.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23339.m3u8"
+    ]
   },
 
   {
@@ -2134,8 +2214,28 @@
     "logoLocal": "ch_fox_news",
     "category": "News",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://cord-cutter.net:8080/live/6qgbR7/537783/135794.m3u8",
-    "standbyUrl": "http://cord-cutter.net:8080/live/V03mvS/317304/135794.m3u8"
+    "streamUrl": "http://kstv.us:8080/live/4abYcSzugD/7732488130/22530.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/PrettyTony/3681111097/22530.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/22530.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/22530.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/22530.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/22530.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22530.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/22530.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/22530.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/22530.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/22530.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/22530.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/22530.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/22530.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/22530.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/22530.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/22530.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/22530.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/22530.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/22530.m3u8"
+    ]
   },
 
    {
