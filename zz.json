@@ -1451,6 +1451,13 @@
   },
 
   {
+    "name": "Ani-blast",
+    "logoLocal": "ch_ani_blast",
+    "category": "Anime",
+    "streamUrl": "https://amg19223-amg19223c9-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0352/playlist.m3u8"
+  },
+
+  {
     "name": "Anime X HiDive",
     "logoLocal": "ch_anime_x_hidive",
     "category": "Anime",
