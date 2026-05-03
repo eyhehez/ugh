@@ -333,7 +333,7 @@
 
   {
     "name": "AsianCrush",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_asiancrush.webp",
+    "logoLocal": "ch_asiancrush",
     "category": "Entertainment",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8"
@@ -341,7 +341,7 @@
 
   {
     "name": "Drama Hotpot",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_drama_hotpot.webp",
+    "logoLocal": "ch_drama_hotpot",
     "category": "Entertainment",
     "dateAdded": "2026-04-27",
     "streamUrl": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd"
@@ -371,7 +371,7 @@
 
   {
     "name": "Dove Channel",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_dove_channel.webp",
+    "logoLocal": "ch_dove_channel",
     "category": "Entertainment",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8"
@@ -379,7 +379,7 @@
 
   {
     "name": "Sundance TV",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_sundance_tv.webp",
+    "logoLocal": "ch_sundance_tv",
     "category": "Entertainment",
     "dateAdded": "2026-04-29",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd",
@@ -701,7 +701,7 @@
 
   {
     "name": "A&E",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_a_and_e.webp",
+    "logoLocal": "ch_a_and_e",
     "category": "Entertainment",
     "dateAdded": "2026-04-29",
     "dateUpdated": "2026-05-03",
@@ -731,7 +731,7 @@
 
   {
     "name": "Bravo",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bravo.webp",
+    "logoLocal": "ch_bravo",
     "category": "Entertainment",
     "dateAdded": "2026-04-29",
     "dateUpdated": "2026-05-03",
@@ -761,7 +761,7 @@
 
   {
     "name": "TNT",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tnt.webp",
+    "logoLocal": "ch_tnt",
     "category": "Entertainment",
     "dateAdded": "2026-04-29",
     "dateUpdated": "2026-05-03",
@@ -904,7 +904,7 @@
 
   {
     "name": "Cinemax Action",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_action.webp",
+    "logoLocal": "ch_cinemax_action",
     "category": "Movies",
     "dateAdded": "2026-04-29",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd",
@@ -915,7 +915,7 @@
 
   {
     "name": "Cinemax Classics",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cinemax_classics.webp",
+    "logoLocal": "ch_cinemax_classics",
     "category": "Movies",
     "dateAdded": "2026-04-29",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd",
@@ -966,7 +966,7 @@
 
   {
     "name": "HBO+",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_plus.webp",
+    "logoLocal": "ch_hbo_plus",
     "category": "Movies",
     "dateAdded": "2026-04-27",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzhnlvao6q/out/v1/66f60c1d629549a78a22cc2913bfb3d1/cenc.mpd",
@@ -1345,7 +1345,7 @@
 
   {
     "name": "MyTime Movie Network",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mytime_movie_network.webp",
+    "logoLocal": "ch_mytime_movie_network",
     "category": "Movies",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://mytime-tcl.amagi.tv/playlist.m3u8"
@@ -1887,7 +1887,7 @@
 
   {
     "name": "True History",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_true_history.webp",
+    "logoLocal": "ch_true_history",
     "category": "Documentary",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
@@ -2205,7 +2205,7 @@
 
   {
     "name": "XITE",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_xite.webp",
+    "logoLocal": "ch_xite",
     "category": "Music",
     "dateAdded": "2026-04-29",
     "streamUrl": "https://amg01243-xite-amg01243c31-amagitv-us-7961.playouts.now.amagi.tv/1080p-cc/index.m3u8"
@@ -2485,7 +2485,7 @@
 
   {
     "name": "Times of India",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_times_of_india.webp",
+    "logoLocal": "ch_times_of_india",
     "category": "News",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
@@ -2630,7 +2630,7 @@
 
   {
     "name": "Mono 29",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mono_29.webp",
+    "logoLocal": "ch_mono_29",
     "category": "International",
     "dateAdded": "2026-04-27",
     "streamUrl": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
@@ -2815,7 +2815,7 @@
 
   {
     "name": "ESPNEWS",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_espnews.webp",
+    "logoLocal": "ch_espnews",
     "category": "Sports",
     "dateAdded": "2026-04-29",
     "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23121"
@@ -2927,7 +2927,7 @@
 
   {
     "name": "Tennis Channel",
-    "logoLocal": "ch_tennnis_channel",
+    "logoLocal": "ch_tennis_channel",
     "category": "Sports",
     "dateAdded": "2026-03-23",
     "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8"
@@ -3068,7 +3068,7 @@
 
   {
     "name": "BeIN Sports XTRA",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_bein_sports_xtra.webp",
+    "logoLocal": "ch_bein_sports_xtra",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
@@ -3156,7 +3156,7 @@
 
   {
     "name": "Fubo Sports",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fubo_sports.webp",
+    "logoLocal": "ch_fubo_sports",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
@@ -3167,7 +3167,7 @@
 
   {
     "name": "Fubo Sports Network",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fubo_sports_network.webp",
+    "logoLocal": "ch_fubo_sports_network",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
@@ -3178,7 +3178,7 @@
 
   {
     "name": "TSN 1",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_1.webp",
+    "logoLocal": "ch_tsn_1",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
@@ -3189,7 +3189,7 @@
 
   {
     "name": "TSN 2",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_2.webp",
+    "logoLocal": "ch_tsn_2",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
@@ -3200,7 +3200,7 @@
 
   {
     "name": "TSN 3",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_3.webp",
+    "logoLocal": "ch_tsn_3",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
@@ -3211,7 +3211,7 @@
 
   {
     "name": "TSN 4",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_4.webp",
+    "logoLocal": "ch_tsn_4",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
@@ -3222,7 +3222,7 @@
 
   {
     "name": "TSN 5",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tsn_5.webp",
+    "logoLocal": "ch_tsn_5",
     "category": "Sports",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
