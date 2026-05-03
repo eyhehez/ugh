@@ -819,6 +819,54 @@
   },
 
   {
+    "name": "Showtime",
+    "logoLocal": "ch_showtime",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/6rk80svXKE/44886815569/23255.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23255.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23255.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23255.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23255.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23255.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23255.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23255.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23255.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23255.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23255.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23255.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23255.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23255.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23255.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23255.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23255.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23255.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23255.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23255.m3u8"
+    ]
+  },
+
+  {
+    "name": "Blaze",
+    "logoLocal": "ch_blaze",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://xxip9.top:8080/live/2132135/6953214/53754.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/Q5vuYP/511295/53754.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/53754.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/53754.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/53754.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/53754.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/53754.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/53754.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/53754.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/53754.m3u8"
+    ]
+  },
+
+  {
     "name": "WOWOW Prime",
     "logoLocal": "ch_wowow_prime",
     "category": "Entertainment",
@@ -1906,6 +1954,35 @@
       "http://xxip9.top:8080/live/89080265/62308620/31150.m3u8",
       "http://xxip9.top:8080/live/nq8FBU/296644/31150.m3u8",
       "http://xxip9.top:8080/live/1TpqVV/585298/31150.m3u8"
+    ]
+  },
+
+  {
+    "name": "Oxygen",
+    "logoLocal": "ch_oxygen",
+    "category": "Documentary",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23271.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23271.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23271.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23271.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23271.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23271.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23271.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23271.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23271.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23271.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23271.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23271.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23271.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23271.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23271.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23271.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23271.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23271.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23271.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23271.m3u8"
     ]
   },
 
