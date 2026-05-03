@@ -2600,11 +2600,11 @@
   },
 
   {
-    "name": "Mnet",
-    "logoLocal": "ch_mnet",
+    "name": "MBC",
+    "logoLocal": "ch_mbc",
     "category": "International",
     "dateAdded": "2026-03-23",
-    "streamUrl": "http://mnet.x10.mx/mnet.m3u8"
+    "streamUrl": "https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8"
   },
 
   {
