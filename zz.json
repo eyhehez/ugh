@@ -790,6 +790,35 @@
   },
 
   {
+    "name": "TBS",
+    "logoLocal": "ch_tbs",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/uNF3bkgpu/3609838871/15954.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/15954.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/15954.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/15954.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/15954.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/15954.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/15954.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/15954.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/15954.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/15954.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/15954.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/15954.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/15954.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/15954.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/15954.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/15954.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/15954.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/15954.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/15954.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/15954.m3u8"
+    ]
+  },
+
+  {
     "name": "WOWOW Prime",
     "logoLocal": "ch_wowow_prime",
     "category": "Entertainment",
@@ -2804,6 +2833,35 @@
   },
 
   {
+    "name": "MSG",
+    "logoLocal": "ch_msg",
+    "category": "Sports",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/RichardW/92565393518/23290.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/23290.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23290.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23290.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23290.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/23290.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23290.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/23290.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23290.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23290.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23290.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23290.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23290.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23290.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23290.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23290.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23290.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/23290.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23290.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23290.m3u8"
+    ]
+  },
+
+  {
     "name": "ESPN",
     "logoLocal": "ch_espn",
     "category": "Sports",
@@ -2878,6 +2936,64 @@
     "drm": {
       "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
     }
+  },
+
+  {
+    "name": "NHL Network",
+    "logoLocal": "ch_nhl_network",
+    "category": "Sports",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/15941.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/15941.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/15941.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/15941.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/15941.m3u8",
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/15941.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/15941.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/15941.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/15941.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/15941.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/15941.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/15941.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/15941.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/15941.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/15941.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/15941.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/15941.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/15941.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/15941.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/15941.m3u8"
+    ]
+  },
+
+  {
+    "name": "MLB Network",
+    "logoLocal": "ch_mlb_network",
+    "category": "Sports",
+    "dateAdded": "2026-05-03",
+    "streamUrl": "http://kstv.us:8080/live/GsPDfRs2H/Grade100/15904.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/15904.m3u8",
+      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/15904.m3u8",
+      "http://kstv.us:8080/live/7jXW6ncJBz/0725689923/15904.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/15904.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/15904.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/15904.m3u8",
+      "http://kstv.us:8080/live/henry65/5862361737/15904.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/15904.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/15904.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/15904.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/15904.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/15904.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/15904.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/15904.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/15904.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/15904.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/15904.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/15904.m3u8",
+      "http://kstv.us:8080/live/Fwz1XHJuYc/46481989188/15904.m3u8"
+    ]
   },
 
   {
