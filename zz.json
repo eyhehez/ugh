@@ -3715,18 +3715,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "**",
-    "logoLocal": "ch_",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/fDb6TQ18Qh/8442731688/22469.m3u8",
-    "standbyUrls": [
-      "http://kstv.us:8080/live/Cdublu9/8110413404/23339.m3u8",
-      "http://kstv",
-      "http://kstv.us:8080/live/uNF3bkgpu/3609838871/22503.m3u8"
-    ]
   }
 
 ]
