@@ -3720,7 +3720,7 @@
   {
     "name": "*-*",
     "logoLocal": "",
-    "category": "",
+    "category": "Sports",
     "streamUrl": "http://kstv.us:8080/live/zmKA87NYsu/7077025419/22469.m3u8",
     "standbyUrls": [
       "http://kstv.us:8080/live/he",
@@ -3737,7 +3737,7 @@
   {
     "name": "*--",
     "logoLocal": "",
-    "category": "",
+    "category": "Sports",
     "streamUrl": "http://kstv.us:8080/live/zmKA87NYsu/7077025419/23339.m3u8",
     "standbyUrls": [
       "http://kstv.us:8080/live/he",
