@@ -3715,6 +3715,21 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
+  },
+
+  {
+    "name": "*-*",
+    "logoLocal": "",
+    "category": "",
+    "streamUrl": "http://kstv.us:8080/live/CXfyD1xtnk/20061985/22469.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/he",
+      "http://kstv.us:8080/",
+      "http://kstv.us:8080/liv",
+      "http://kstv.us:8080/live/c8",
+      "http://kstv.us:8080/",
+      "http://kstv.us:8080/live/CXfyD1xtnk/20061985/22469.m3u8"
+    ]
   }
 
 ]
