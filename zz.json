@@ -885,7 +885,7 @@
     "name": "FX",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx.webp",
     "category": "Entertainment",
-    "dateUpdated": "2026-05-06",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/46690.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/89080265/62308620/46690.m3u8",
@@ -904,7 +904,7 @@
     "name": "TV Land",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tv_land.webp",
     "category": "Entertainment",
-    "dateUpdated": "2026-05-06",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/22475922/79874979/46696.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/nq8FBU/296644/46696.m3u8",
@@ -1256,7 +1256,7 @@
     "name": "FX Movie Channel",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx_movie_channel.webp",
     "category": "Movies",
-    "dateUpdated": "2026-05-06",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/2132135/6953214/10260.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/89080265/62308620/10260.m3u8",
@@ -2225,7 +2225,7 @@
     "name": "Discovery Family",
     "logoLocal": "ch_discovery_family",
     "category": "Lifestyle",
-    "dateUpdated": "2026-05-06",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/57347.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/nq8FBU/296644/57347.m3u8",
@@ -2244,7 +2244,7 @@
     "name": "Discovery Life",
     "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_discovery_life.webp",
     "category": "Lifestyle",
-    "dateUpdated": "2026-05-06",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/MpZcA6/367825/9861.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/9fqCde/741589/9861.m3u8",
