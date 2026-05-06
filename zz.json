@@ -882,6 +882,44 @@
   },
 
   {
+    "name": "FX",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx.webp",
+    "category": "Entertainment",
+    "dateUpdated": "2026-05-06",
+    "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/46690.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/89080265/62308620/46690.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/46690.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46690.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/46690.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46690.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46690.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46690.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46690.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46690.m3u8"
+    ]
+  },
+
+  {
+    "name": "TV Land",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tv_land.webp",
+    "category": "Entertainment",
+    "dateUpdated": "2026-05-06",
+    "streamUrl": "http://xxip9.top:8080/live/22475922/79874979/46696.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/nq8FBU/296644/46696.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46696.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46696.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/46696.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/46696.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46696.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46696.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46696.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46696.m3u8"
+    ]
+  },
+
+  {
     "name": "Blaze",
     "logoLocal": "ch_blaze",
     "category": "Entertainment",
@@ -1212,6 +1250,25 @@
     "drm": {
       "2f2032b4cae944a0adf5ce111a2ff693": "2b4a2855b0abde035714985be6db4bd0"
     }
+  },
+
+  {
+    "name": "FX Movie Channel",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx_movie_channel.webp",
+    "category": "Movies",
+    "dateUpdated": "2026-05-06",
+    "streamUrl": "http://xxip9.top:8080/live/2132135/6953214/10260.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/89080265/62308620/10260.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/10260.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/10260.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/10260.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/10260.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/10260.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/10260.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/10260.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/10260.m3u8"
+    ]
   },
 
   {
@@ -2162,6 +2219,44 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
+  },
+
+  {
+    "name": "Discovery Family",
+    "logoLocal": "ch_discovery_family",
+    "category": "Lifestyle",
+    "dateUpdated": "2026-05-06",
+    "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/57347.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/nq8FBU/296644/57347.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/57347.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/57347.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/57347.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/57347.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/57347.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/57347.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/57347.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/57347.m3u8"
+    ]
+  },
+
+  {
+    "name": "Discovery Life",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_discovery_life.webp",
+    "category": "Lifestyle",
+    "dateUpdated": "2026-05-06",
+    "streamUrl": "http://xxip9.top:8080/live/MpZcA6/367825/9861.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/9fqCde/741589/9861.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/9861.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/9861.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/9861.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/9861.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/9861.m3u8",
+      "http://xxip9.top:8080/live/1TpqVV/585298/9861.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/9861.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/9861.m3u8"
+    ]
   },
 
   {
@@ -3715,40 +3810,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "*-*",
-    "logoLocal": "",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/22469.m3u8",
-    "standbyUrls": [
-      "http://kstv.us:8080/live/he",
-      "http://kstv.us:8080/",
-      "http://kstv.us:8080/liv",
-      "http://kstv.us:8080/",
-      "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/23339.m3u8",
-      "http://kstv.us:8080/live/c8",
-      "http://kstv.us:8080/",
-      "http://kstv.us:8080/live/c8" 
-    ]
-  },
-
-  {
-    "name": "-*",
-    "logoLocal": "",
-    "category": "Sports",
-    "streamUrl": "http://kstv.us:8080",
-    "standbyUrls": [
-      "http://kstv.us:8080/live/he",
-      "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/23339.m3u8",
-      "http://kstv.us:8080/liv",
-      "http://kstv.us:8080/live/c8",
-      "http://kstv.us:8080/",
-      "http://kstv.us:8080/live/c8",
-      "http://kstv.us:8080/",
-      "http://kstv.us:8080/live/z"
-    ]
   }
 
 ]
