@@ -3721,13 +3721,13 @@
     "name": "*-*",
     "logoLocal": "",
     "category": "Sports",
-    "streamUrl": "http://kstv.us:8080/live/mrrogers20/6872908947/22469.m3u8",
+    "streamUrl": "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/22469.m3u8",
     "standbyUrls": [
       "http://kstv.us:8080/live/he",
       "http://kstv.us:8080/",
       "http://kstv.us:8080/liv",
       "http://kstv.us:8080/",
-      "http://kstv.us:8080/live/mrrogers20/6872908947/23339.m3u8",
+      "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/23339.m3u8",
       "http://kstv.us:8080/live/c8",
       "http://kstv.us:8080/",
       "http://kstv.us:8080/live/c8" 
@@ -3741,7 +3741,7 @@
     "streamUrl": "http://kstv.us:8080",
     "standbyUrls": [
       "http://kstv.us:8080/live/he",
-      "http://kstv.us:8080/live/mrrogers20/6872908947/23339.m3u8",
+      "http://kstv.us:8080/live/5TDgkg7YKp/6544141883/23339.m3u8",
       "http://kstv.us:8080/liv",
       "http://kstv.us:8080/live/c8",
       "http://kstv.us:8080/",
