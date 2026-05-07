@@ -1,9 +1,37 @@
 [
   {
-    "name": "Inception",
-    "poster": "https://image.tmdb.org/...",
-    "description": "A thief who steals...",
-    "streamUrl": "https://...",
-    "dateAdded": "2026-05-07"
+    "name": "Sex On Phone",
+    "poster": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/vmx/sex-on-phone.webp",
+    "description": "Amanda, compelled to make ends meet, gets employed in a confidential call center where she fulfills the desires of her callers. When her husband finds out about her odd job, things become chaotic.",
+    "streamUrl": "https://hls13.cdnvideo11.shop/hls13/Sex-on-Phone-Ep1/index.m3u8"
+  },
+
+  {
+    "name": "Sex Games",
+    "poster": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/vmx/sex-games.webp",
+    "description": "A rich couple often spices up their sexual relationship by doing their so-called Sex Games. But when they meet a new set of 'playmates' – a conservative couple, their game becomes more challenging.",
+    "streamUrl": "https://hls13.cdnvideo11.shop/hls13/Sex-Games-Ep1/index.m3u8"
+  },
+
+  {
+    "name": "Pamasahe",
+    "poster": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/vmx/pamasahe.webp",
+    "description": "A penniless mother, with her infant child, takes on a journey by land and sea to find her husband in Manila. But this trip won't be free for she has to use her body to get to her destination.",
+    "streamUrl": "https://hls12.cdnvideo11.shop/hls12/pamasahe.2022/index.m3u8"
+  },
+
+  {
+    "name": "Next Room Affair",
+    "poster": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/vmx/next-room-affair.webp",
+    "description": "A lonely student becomes obsessed with the secret affairs of her neighbor - until she crosses the line between observer and participant, becoming part of the cycle she once only watched.",
+    "streamUrl": "https://hls13.cdnvideo11.shop/hls13/Next-Room-Affair-Ep1/index.m3u8"
+  },
+
+  {
+    "name": "Sulutan",
+    "poster": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/vmx/sulutan.webp",
+    "description": "When Mara discovers her groom's betrayal, she confides in Lena, a newfound friend. Their bond deepens into desire, risking their careers and shattering lives with dangerous outcome.",
+    "streamUrl": "https://hls13.cdnvideo11.shop/hls13/Sulutan-2026-Ep1/index.m3u8"
   }
+  
 ]
