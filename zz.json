@@ -3838,6 +3838,13 @@
       "http://kstv.us:8080/live/",
       "http://kstv.us:8080/"
     ]
+  },
+
+  {
+    "name": "xx",
+    "logoLocal": "c",
+    "category": "Sports",
+    "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
   }
 
 ]
