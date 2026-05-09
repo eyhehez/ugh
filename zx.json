@@ -959,7 +959,7 @@
 
   {
     "name": "Logo TV",
-    "logoLocal": "ch_logo_tv",
+    "logoLocal": "ch_logo",
     "category": "Entertainment",
     "dateAdded": "2026-05-09",
     "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/20862.m3u8",
@@ -980,7 +980,7 @@
     "name": "TV Land",
     "logoLocal": "ch_tv_land",
     "category": "Entertainment",
-    "dateAdded": "2026-05-09",
+    "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/22475922/79874979/46696.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/nq8FBU/296644/46696.m3u8",
@@ -2148,7 +2148,7 @@
   },
 
   {
-    "name": "History",
+    "name": "History TV18",
     "logoLocal": "ch_history",
     "category": "Documentary",
     "dateAdded": "2026-05-09",
