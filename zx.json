@@ -3551,25 +3551,6 @@
   },
 
   {
-    "name": "WWE Network",
-    "logoLocal": "ch_wwe_network",
-    "category": "Sports",
-    "dateAdded": "2026-05-09",
-    "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/11645.m3u8",
-    "standbyUrls": [
-      "http://xxip9.top:8080/live/6QMk9P/387737/11645.m3u8",
-      "http://xxip9.top:8080/live/nq8FBU/296644/11645.m3u8",
-      "http://xxip9.top:8080/live/22475922/79874979/11645.m3u8",
-      "http://xxip9.top:8080/live/Q5vuYP/511295/11645.m3u8",
-      "http://xxip9.top:8080/live/89080265/62308620/11645.m3u8",
-      "http://xxip9.top:8080/live/2132135/6953214/11645.m3u8",
-      "http://xxip9.top:8080/live/37488138/97863234/11645.m3u8",
-      "http://xxip9.top:8080/live/MpZcA6/367825/11645.m3u8",
-      "http://xxip9.top:8080/live/7NYHqX/589045/11645.m3u8"
-    ]
-  },
-
-  {
     "name": "UFC",
     "logoLocal": "ch_ufc_tv",
     "category": "Sports",
