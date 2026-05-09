@@ -2661,7 +2661,28 @@
     "name": "MTV Live",
     "logoLocal": "ch_mtv_live",
     "category": "Music",
-    "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23081"
+    "streamUrl": "http://kstv.us:8080/live/HDH5UREEYP/42660591264/23286.m3u8",
+    "standbyUrls": [
+      "http://kstv.us:8080/live/Lupillo13/Emilio13/23286.m3u8",
+      "http://kstv.us:8080/live/curtdog66/58400050484/23286.m3u8",
+      "http://kstv.us:8080/live/MeZyl1987/9735100903/23286.m3u8",
+      "http://kstv.us:8080/live/jQQ98v5kER/1962045738/23286.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/23286.m3u8",
+      "http://kstv.us:8080/live/P6YPNCrcgG/7329973937/23286.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/23286.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/23286.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/23286.m3u8",
+      "http://kstv.us:8080/live/EaJA7HJ40g/3854700321/23286.m3u8",
+      "http://kstv.us:8080/live/PrettyTony/3681111097/23286.m3u8",
+      "http://kstv.us:8080/live/Everocadd3/5493154841/23286.m3u8",
+      "http://kstv.us:8080/live/RichardW/92565393518/23286.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23286.m3u8",
+      "http://kstv.us:8080/live/XCw0daKptJ/74486665872/23286.m3u8",
+      "http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23286.m3u8",
+      "http://kstv.us:8080/live/7GKJ04vg3r/1066255851/23286.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/23286.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/23286.m3u8"
+    ]
   },
 
   {
