@@ -360,7 +360,7 @@
 
   {
     "name": "&xplor HD",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_and_xplor_hd.webp",
+    "logoLocal": "ch_and_xplor_hd",
     "category": "Entertainment",
     "dateAdded": "2026-05-06",
     "streamUrl": "http://103.185.24.134:3001/XPLOR-HD/tracks-v1a1/mono.m3u8",
@@ -894,7 +894,7 @@
 
   {
     "name": "FX",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx.webp",
+    "logoLocal": "ch_fx",
     "category": "Entertainment",
     "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/46690.m3u8",
@@ -913,7 +913,7 @@
 
   {
     "name": "TV Land",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_tv_land.webp",
+    "logoLocal": "ch_tv_land",
     "category": "Entertainment",
     "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/22475922/79874979/46696.m3u8",
@@ -1221,7 +1221,7 @@
 
   {
     "name": "MGM+",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mgm_plus.webp",
+    "logoLocal": "ch_mgm_plus",
     "category": "Movies",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://epix.live.epix.services/out/v1/9e8d7f463c10401da4c78387a627e184/index.mpd",
@@ -1232,7 +1232,7 @@
 
   {
     "name": "MGM+ Drive-In",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mgm_plus_drive_in.webp",
+    "logoLocal": "ch_mgm_plus_drive_in",
     "category": "Movies",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://epix-drivein.live.epix.services/out/v1/bef1dd342f69416e9fdd844ece496dc0/index.mpd",
@@ -1243,7 +1243,7 @@
 
   {
     "name": "MGM+ Hits",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mgm_plus_hits.webp",
+    "logoLocal": "ch_mgm_plus_hits",
     "category": "Movies",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://epix2.live.epix.services/out/v1/08bcf975c3ef4013adb31929aef1fb82/index.mpd",
@@ -1254,7 +1254,7 @@
 
   {
     "name": "MGM+ Marquee",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_mgm_plus_marquee.webp",
+    "logoLocal": "ch_mgm_plus_marquee",
     "category": "Movies",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://epix-hits.live.epix.services/out/v1/a87dee961e4249afae86749c59202b9e/index.mpd",
@@ -1265,7 +1265,7 @@
 
   {
     "name": "FX Movie Channel",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fx_movie_channel.webp",
+    "logoLocal": "ch_fx_movie_channel",
     "category": "Movies",
     "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/2132135/6953214/10260.m3u8",
@@ -2253,7 +2253,7 @@
 
   {
     "name": "Discovery Life",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_discovery_life.webp",
+    "logoLocal": "ch_discovery_life",
     "category": "Lifestyle",
     "dateAdded": "2026-05-06",
     "streamUrl": "http://xxip9.top:8080/live/MpZcA6/367825/9861.m3u8",
@@ -2816,7 +2816,7 @@
 
   {
     "name": "CBS News 24/7",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_cbs_news_247.webp",
+    "logoLocal": "ch_cbs_news_247",
     "category": "News",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:[deviceID]&imafw__fw_is_lat=[LIMITED_AD_TRACKING]&imafw__fw_vcid2=[PPID]&imafw__fw_app_bundle=[app_bundle]&imafw_is_lat=[LIMITED_AD_TRACKING]"
@@ -2824,7 +2824,7 @@
 
    {
     "name": "ABC News Live",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_abc_news_live.webp",
+    "logoLocal": "ch_abc_news_live",
     "category": "News",
     "dateAdded": "2026-05-04",
     "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99951517/hls/master.m3u8?ads.xumo_channelId=99951517&ads.xumo_streamId=99951517&ads.channelId=99951517&ads.channelName=ABC_us&ads.caid=ABC&ads.csid=xumo_[PLATFORM]_ABC_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=58&ads.xumo_contentName=ABC&ads.xumo_providerId=58&ads.xumo_providerName=ABC&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay"
