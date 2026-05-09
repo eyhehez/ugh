@@ -543,6 +543,25 @@
   },
 
   {
+    "name": "CW",
+    "logoLocal": "ch_cw",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/Q5vuYP/511295/120897.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/MpZcA6/367825/120897.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/120897.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/120897.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/120897.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/120897.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/120897.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/120897.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/120897.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/120897.m3u8"
+    ]
+  },
+
+  {
     "name": "ION",
     "logoLocal": "ch_ion",
     "category": "Entertainment",
@@ -912,10 +931,67 @@
   },
 
   {
+    "name": "FXX",
+    "logoLocal": "ch_fxx",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/7NYHqX/589045/46699.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/22475922/79874979/46699.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/46699.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46699.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46699.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46699.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46699.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/46699.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46699.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46699.m3u8"
+    ]
+  },
+
+  {
+    "name": "Fuse",
+    "logoLocal": "ch_fuse",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/2132135/6953214/46701.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/9fqCde/741589/46701.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46701.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46701.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/46701.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46701.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46701.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46701.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46701.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/46701.m3u8"
+    ]
+  },
+
+  {
+    "name": "Logo TV",
+    "logoLocal": "ch_logo_tv",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/20862.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/22475922/79874979/20862.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/20862.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/20862.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/20862.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/20862.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/20862.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/20862.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/20862.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/20862.m3u8"
+    ]
+  },
+
+  {
     "name": "TV Land",
     "logoLocal": "ch_tv_land",
     "category": "Entertainment",
-    "dateAdded": "2026-05-06",
+    "dateAdded": "2026-05-09",
     "streamUrl": "http://xxip9.top:8080/live/22475922/79874979/46696.m3u8",
     "standbyUrls": [
       "http://xxip9.top:8080/live/nq8FBU/296644/46696.m3u8",
@@ -927,6 +1003,44 @@
       "http://xxip9.top:8080/live/6QMk9P/387737/46696.m3u8",
       "http://xxip9.top:8080/live/2132135/6953214/46696.m3u8",
       "http://xxip9.top:8080/live/7NYHqX/589045/46696.m3u8"
+    ]
+  },
+
+  {
+    "name": "VH1",
+    "logoLocal": "ch_vh1",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/89080265/62308620/46705.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/9fqCde/741589/46705.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46705.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46705.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/46705.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/46705.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46705.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46705.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46705.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46705.m3u8"
+    ]
+  },
+
+  {
+    "name": "OWN",
+    "logoLocal": "ch_own",
+    "category": "Entertainment",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/6QMk9P/387737/46698.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/37488138/97863234/46698.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46698.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/46698.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46698.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46698.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46698.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/46698.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46698.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46698.m3u8"
     ]
   },
 
@@ -2045,6 +2159,14 @@
   },
 
   {
+    "name": "History",
+    "logoLocal": "ch_history",
+    "category": "Documentary",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
+  },
+
+  {
     "name": "Love Nature",
     "logoLocal": "ch_love_nature",
     "category": "Documentary",
@@ -2127,6 +2249,25 @@
       "http://kstv.us:8080/live/RichardW/92565393518/23271.m3u8",
       "http://kstv.us:8080/live/P6YPNCrcgG/7329973937/23271.m3u8",
       "http://kstv.us:8080/live/PrettyTony/3681111097/23271.m3u8"
+    ]
+  },
+
+  {
+    "name": "Viceland",
+    "logoLocal": "ch_viceland",
+    "category": "Documentary",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/Q5vuYP/511295/46697.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/7NYHqX/589045/46697.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46697.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46697.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46697.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/46697.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/46697.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46697.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46697.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/46697.m3u8"
     ]
   },
 
@@ -2291,6 +2432,25 @@
   },
 
   {
+    "name": "HGTV US",
+    "logoLocal": "ch_hgtv",
+    "category": "Lifestyle",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/37488138/97863234/46717.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/22475922/79874979/46717.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/46717.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/46717.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/46717.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/46717.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/46717.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/46717.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/46717.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/46717.m3u8"
+    ]
+  },
+
+  {
     "name": "BBC Lifestyle",
     "logoLocal": "ch_bbc_lifestyle",
     "category": "Lifestyle",
@@ -2323,6 +2483,14 @@
     "drm": {
       "9d7c1f2a6b4e4a8d8f33c1e5b7d2a960": "3a18c535c52db7c79823f59036a9d195"
     }
+  },
+
+  {
+    "name": "Fashion One",
+    "logoLocal": "ch_fashion_one",
+    "category": "Lifestyle",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
   },
 
   {
@@ -2363,6 +2531,25 @@
     "drm": {
       "f3047fc13d454dacb6db4207ee79d3d3": "bdbd38748f51fc26932e96c9a2020839"
     }
+  },
+
+  {
+    "name": "Magnolia Network",
+    "logoLocal": "ch_magnolia_network",
+    "category": "Lifestyle",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/6QMk9P/387737/10503.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/MpZcA6/367825/10503.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/10503.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/10503.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/10503.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/10503.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/10503.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/10503.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/10503.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/10503.m3u8"
+    ]
   },
 
   {
@@ -2977,6 +3164,14 @@
   },
 
   {
+    "name": "Xing Kong",
+    "logoLocal": "ch_xing_kong",
+    "category": "International",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
     "name": "NET25",
     "logoLocal": "ch_net25",
     "category": "Religious",
@@ -3034,6 +3229,16 @@
   },
 
   {
+    "name": "NBA TV Philippines",
+    "logoLocal": "ch_nba_tv_philippines",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+    "drm": {
+      "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
+    }
+  },
+
+  {
     "name": "NBA TV",
     "logoLocal": "ch_nba_tv",
     "category": "Sports",
@@ -3044,13 +3249,22 @@
   },
 
   {
-    "name": "NBA TV Philippines",
-    "logoLocal": "ch_nba_tv_philippines",
+    "name": "NBA TV US",
+    "logoLocal": "ch_wwe_network",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
-    "drm": {
-      "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
-    }
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/37488138/97863234/20073.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/22475922/79874979/20073.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/20073.m3u8",
+      "http://xxip9.top:8080/live/9fqCde/741589/20073.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/20073.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/20073.m3u8",
+      "http://xxip9.top:8080/live/6QMk9P/387737/20073.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/20073.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/20073.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/20073.m3u8"
+    ]
   },
 
   {
@@ -3345,6 +3559,25 @@
     "logoLocal": "ch_dazn_ringside",
     "category": "Sports",
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
+  },
+
+  {
+    "name": "WWE Network",
+    "logoLocal": "ch_wwe_network",
+    "category": "Sports",
+    "dateAdded": "2026-05-09",
+    "streamUrl": "http://xxip9.top:8080/live/9fqCde/741589/11645.m3u8",
+    "standbyUrls": [
+      "http://xxip9.top:8080/live/6QMk9P/387737/11645.m3u8",
+      "http://xxip9.top:8080/live/nq8FBU/296644/11645.m3u8",
+      "http://xxip9.top:8080/live/22475922/79874979/11645.m3u8",
+      "http://xxip9.top:8080/live/Q5vuYP/511295/11645.m3u8",
+      "http://xxip9.top:8080/live/89080265/62308620/11645.m3u8",
+      "http://xxip9.top:8080/live/2132135/6953214/11645.m3u8",
+      "http://xxip9.top:8080/live/37488138/97863234/11645.m3u8",
+      "http://xxip9.top:8080/live/MpZcA6/367825/11645.m3u8",
+      "http://xxip9.top:8080/live/7NYHqX/589045/11645.m3u8"
+    ]
   },
 
   {
