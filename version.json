@@ -1,7 +1,7 @@
 {
-  "version_code": 7,
-  "version_name": "7.0",
-  "apk_url": "https://gethayahay.vercel.app/Hayahay_v7.apk",
-  "release_notes": "New: Tap the info icon next to flag to view program details.\nNew: Tap the bell icon in the program details to set reminders.\nPlus under-the-hood improvements and fixes for a smoother app experience.",
+  "version_code": 8,
+  "version_name": "8.0",
+  "apk_url": "https://gethayahay.vercel.app/Hayahay_v8.apk",
+  "release_notes": "General performance improvements and bug fixes.\n\nThanks for using Hayahay! We're always working on making the app better.",
   "website_url": "https://gethayahay.vercel.app"
 }
