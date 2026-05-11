@@ -2912,10 +2912,8 @@
     "logoLocal": "ch_euronews",
     "category": "News",
     "dateAdded": "2026-04-07",
-    "streamUrl": "https://abslive.akamaized.net/dash/live/2027618/euronews/manifest.mpd",
-    "drm": {
-      "6a245775c8e8479789fee5754b12d409": "3c5dd5328315d0c9cc360b724045afe2"
-    }
+    "dateUpdated": "2026-05-11",
+    "streamUrl": "https://dash4.antik.sk/live/test_euronews/playlist.m3u8"
   },
 
   {
