@@ -4051,14 +4051,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "Be",
-    "logoLocal": "ch_bein_sports_xtra",
-    "category": "Sports",
-    "dateAdded": "2026-04-26",
-    "streamUrl": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8"
   }
 
 ]
