@@ -6,8 +6,26 @@
   },
   
   {
-    "name": "103.5 Retro Cebu City Cebu",
+    "name": "DZMM Radyo Patrol 630",
     "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
-    "url": "https://de3.amfmph.com:8128/stream"
+    "url": "https://stream.zeno.fm/yaksrqvb35duv.mp3"
+  },
+  
+  {
+    "name": "DZBB Super Radyo 594",
+    "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
+    "url": "https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8"
+  },
+
+  {
+    "name": "Barangay LS 97.1",
+    "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
+    "url": "https://gsattv.akamaized.net/live/media0/radiodwls/Fairplay/radiodwls.m3u8"
+  },
+
+  {
+    "name": "Win Radio Manila",
+    "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
+    "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
   }
 ]
