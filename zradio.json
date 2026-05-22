@@ -2,13 +2,6 @@
   "top5": ["90.7 Love Radio", "MOR Entertainment", "DZMM Radyo Patrol 630", "106.7 Energy FM","DZRH Manila"],
   "channels": [
   {
-    "name": "103.3 Radyo Bandera Bislig Surigao Del Sur",
-    "logoLocal": "ch_1033_radyo_bandera",
-    "category": "AM",
-    "url": "https://cd.radyoph.com:8010/bandera64"
-  },
-  
-  {
     "name": "DZMM Radyo Patrol 630",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/02/DZMM_Alternative_Logo_2025.png",
     "category": "AM",
