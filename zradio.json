@@ -25,7 +25,13 @@
 
   {
     "name": "Win Radio Manila",
-    "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Winradiomanila.jpg",
     "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
-  }
+  },
+
+  {
+    "name": "101.1 Yes! FM",
+    "logo": "https://static.yesthebest.com.ph/stations/2024/2/NGOHOaHqsD9aT4tAyNiek.png",
+    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
+  },
 ]
