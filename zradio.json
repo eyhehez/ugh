@@ -1,51 +1,59 @@
 {
-  "top5": ["90.7 Love Radio", "MOR Entertainment", "DZMM Radyo Patrol 630", "106.7 Energy FM","DZBB Super Radyo 594"],
+  "top5": ["90.7 Love Radio", "MOR Entertainment", "DZMM Radyo Patrol 630", "106.7 Energy FM","DZRH Manila"],
   "channels": [
   {
     "name": "103.3 Radyo Bandera Bislig Surigao Del Sur",
     "logoLocal": "ch_1033_radyo_bandera",
+    "category": "AM",
     "url": "https://cd.radyoph.com:8010/bandera64"
   },
   
   {
     "name": "DZMM Radyo Patrol 630",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/0/02/DZMM_Alternative_Logo_2025.png",
+    "category": "AM",
     "url": "https://stream.zeno.fm/yaksrqvb35duv.mp3"
   },
   
   {
     "name": "DZBB Super Radyo 594",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Super_Radyo_DZBB_594_logo.png",
+    "category": "AM",
     "url": "https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8"
   },
 
   {
     "name": "MOR Entertainment",
-    "logoLocal": "rd_mor_entertainment",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png",
+    "category": "FM",
     "url": "https://stream.zeno.fm/0ha8ftewqp8uv.mp3"
   },
 
   {
     "name": "Barangay LS 97.1",
     "logo": "https://url.com/images/ch_1035_retro_cebu.webp",
+    "category": "FM",
     "url": "https://gsattv.akamaized.net/live/media0/radiodwls/Fairplay/radiodwls.m3u8"
   },
 
   {
     "name": "Win Radio Manila",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/9/98/Winradiomanila.jpg",
+    "category": "FM",
     "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
   },
 
   {
     "name": "101.1 Yes! FM",
     "logo": "https://static.yesthebest.com.ph/stations/2024/2/NGOHOaHqsD9aT4tAyNiek.png",
+    "category": "FM",
     "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
   },
 
   {
     "name": "90.7 Love Radio",
-    "logoLocal": "rd_907_love_radio",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/a9/Love_Radio_%28Philippine_radio_station%29_logo.png",
+    "category": "FM",
     "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
   },
 
@@ -58,18 +66,21 @@
   {
     "name": "97.9 Home Radio",
     "logoLocal": "rd_979_home_radio",
+    "category": "FM",
     "url": "http://142.44.212.114:9071/stream"
   },
 
   {
     "name": "DZRH Manila",
-    "logoLocal": "rd_dzrh",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png",
+    "category": "AM",
     "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
   },
 
   {
     "name": "106.7 Energy FM",
-    "logoLocal": "rd_1067_energy_fm",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Energy_FM_logo.png",
+    "category": "FM",
     "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
     }
   ]
