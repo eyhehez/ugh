@@ -33,5 +33,36 @@
     "name": "101.1 Yes! FM",
     "logo": "https://static.yesthebest.com.ph/stations/2024/2/NGOHOaHqsD9aT4tAyNiek.png",
     "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
+  },
+
+  {
+    "name": "90.7 Love Radio",
+    "logoLocal": "rd_907_love_radio",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
+  },
+
+  {
+    "name": "96.3 Easy Rock",
+    "logoLocal": "rd_963_easy_rock",
+    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+  },
+
+  {
+    "name": "97.9 Home Radio",
+    "logoLocal": "rd_979_home_radio",
+    "url": "http://142.44.212.114:9071/stream"
+  },
+
+  {
+    "name": "DZRH",
+    "logoLocal": "rd_dzrh",
+    "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
+  },
+
+  {
+    "name": "106.7 Energy FM",
+    "logoLocal": "rd_1067_energy_fm",
+    "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
   }
+  
 ]
