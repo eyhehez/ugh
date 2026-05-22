@@ -1,4 +1,6 @@
-[
+{
+  "top5": ["90.7 Love Radio", "MOR Entertainment", "DZMM Radyo Patrol 630", "106.7 Energy FM","DZBB Super Radyo 594"],
+  "channels": [
   {
     "name": "103.3 Radyo Bandera Bislig Surigao Del Sur",
     "logoLocal": "ch_1033_radyo_bandera",
@@ -69,6 +71,6 @@
     "name": "106.7 Energy FM",
     "logoLocal": "rd_1067_energy_fm",
     "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
-  }
-  
-]
+    }
+  ]
+}
