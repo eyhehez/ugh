@@ -10,7 +10,7 @@
   
   {
     "name": "DZBB Super Radyo 594",
-    "logo": "https://i.ibb.co/RGGpWPby/Super-Radyo-DZBB-594-logo.png",
+    "logoLocal": "rd_dzbb",
     "category": "AM",
     "url": "https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8"
   },
