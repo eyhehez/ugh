@@ -3468,6 +3468,28 @@
   },
 
   {
+    "name": "Fox Sports 1",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fs1.webp",
+    "category": "Sports",
+    "dateAdded": "2026-05-23",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
+    "drm": {
+      "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
+    }
+  },
+
+  {
+    "name": "Fox Sports 2",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fs2.webp",
+    "category": "Sports",
+    "dateAdded": "2026-05-23",
+    "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+    "drm": {
+      "09453ce820d65fbc675de3185f9e454c": "98cff9600995fa381c76fdacf3c7edae"
+    }
+  },
+
+  {
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
     "category": "Sports",
