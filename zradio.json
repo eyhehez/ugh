@@ -76,6 +76,13 @@
     "logo": "https://i.ibb.co/G15bWZY/Energy-FM-logo.png",
     "category": "FM",
     "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
-    }
+    },
+
+    {
+    "name": " 99.1 Spirit FM Batangas",
+    "logo": "",
+    "category": "FM",
+    "url": "https://stream-284.zeno.fm/zb2c835zahruv"
+  }
   ]
 }
