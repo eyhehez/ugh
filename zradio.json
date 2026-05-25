@@ -79,6 +79,41 @@
     },
 
     {
+    "name": "102.7 Star FM Manila",
+    "logoLocal": "",
+    "category": "FM",
+    "url": "https://stream.zeno.fm/69b1kf7q0y5tv"
+  },
+
+  {
+    "name": "Tee Radio",
+    "logoLocal": "",
+    "category": "Digital",
+    "url": "https://stream.zeno.fm/r19q0f1hbm0uv"
+  },
+
+  {
+    "name": "Monster RX93.1",
+    "logoLocal": "",
+    "category": "FM",
+    "url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
+  },
+
+  {
+    "name": "DWWW 774",
+    "logoLocal": "",
+    "category": "FM",
+    "url": "https://stream.zeno.fm/8v95b64qbxquv"
+  },
+
+  {
+    "name": "Bombo Radyo Iloilo",
+    "logoLocal": "",
+    "category": "AM",
+    "url": "https://stream.zeno.fm/65yd2cr7vy5tv"
+  },
+
+    {
     "name": " 99.1 Spirit FM Batangas",
     "logo": "",
     "category": "FM",
