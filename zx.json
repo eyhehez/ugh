@@ -4074,6 +4074,26 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
+  },
+
+  {
+    "name": ".",
+    "logoLocal": ".",
+    "category": "Sports",
+    "streamUrl": "https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24",
+    "drm": {
+      "keys": [
+        {
+          "kty": "oct",
+          "k": "uGEiZUUcjEYvtrVa06a22A",
+          "kid": "b-S1Z-ybRnqIigiWAMk_VQ"
+        }
+      ],
+      "type": "temporary"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
   }
 
 ]
