@@ -61,6 +61,7 @@
     "name": "97.9 Home Radio",
     "logo": "https://i.ibb.co/bMQf8KvM/979-Home-Radio-2017.png",
     "category": "FM",
+    "dateAdded": "2026-05-30",
     "url": "http://142.44.212.114:9071/stream"
   },
 
@@ -68,6 +69,7 @@
     "name": "DZRH Manila",
     "logo": "https://i.ibb.co/Fb5Yhv9Z/DZRH-logo-2021.png",
     "category": "AM",
+    "dateUpdated": "2026-05-30",
     "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
   },
 
