@@ -149,12 +149,6 @@
       "url": "https://cdnstream1.typicalmedia.net/yourradio.mp3"
     },
     {
-      "name": "96.7 KCAL Rocks",
-      "logoLocal": "rd_",
-      "category": "FM",
-      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC.aac"
-    },
-    {
       "name": "98.7 DZFE FM Manila",
       "logoLocal": "rd_",
       "category": "FM",
