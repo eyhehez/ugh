@@ -4,7 +4,7 @@
     "MOR Entertainment",
     "DZMM Radyo Patrol 630",
     "106.7 Energy FM",
-    "DZRH Manila"
+    "DZRH 666"
   ],
   "channels": [
     {
@@ -63,7 +63,7 @@
       "url": "http://142.44.212.114:9071/stream"
     },
     {
-      "name": "DZRH 666 AM",
+      "name": "DZRH 666",
       "logo": "https://i.ibb.co/Fb5Yhv9Z/DZRH-logo-2021.png",
       "category": "AM",
       "dateUpdated": "2026-05-30",
