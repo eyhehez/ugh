@@ -1,3165 +1,1802 @@
 {
-  "top5": ["90.7 Love Radio", "MOR Entertainment", "DZMM Radyo Patrol 630", "106.7 Energy FM","DZRH Manila"],
+  "top5": [
+    "90.7 Love Radio",
+    "MOR Entertainment",
+    "DZMM Radyo Patrol 630",
+    "106.7 Energy FM",
+    "DZRH Manila"
+  ],
   "channels": [
-  {
-    "name": "DZMM Radyo Patrol 630",
-    "logo": "https://i.ibb.co/fVPrHT48/dzmm.webp",
-    "category": "AM",
-    "url": "http://209.126.124.126:8852/stream"
-  },
-  
-  {
-    "name": "DZBB Super Radyo 594",
-    "logoLocal": "rd_dzbb",
-    "category": "AM",
-    "url": "https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8"
-  },
-
-  {
-    "name": "MOR Entertainment",
-    "logo": "https://i.ibb.co/rKgZNxch/MOR-Entertainment-logo.png",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/0ha8ftewqp8uv.mp3"
-  },
-
-  {
-    "name": "Barangay LS 97.1",
-    "logo": "https://i.ibb.co/RG6wTDTJ/Barangay-LS-97-1.png",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/dphe9050afhvv"
-  },
-
-  {
-    "name": "91.5 Win Radio Manila",
-    "logo": "https://i.ibb.co/FpyXJ9R/Winradiomanila.jpg",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
-  },
-
-  {
-    "name": "101.1 Yes! FM",
-    "logo": "https://i.ibb.co/N8mJV8t/NGOHOa-Hqs-D9a-T4t-Ay-Niek.png",
-    "category": "FM",
-    "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
-  },
-
-  {
-    "name": "90.7 Love Radio",
-    "logo": "https://i.ibb.co/nMSy8Q19/Love-Radio-Philippine-radio-station-logo.png",
-    "category": "FM",
-    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
-  },
-
-  {
-    "name": "96.3 Easy Rock",
-    "logo": "https://i.ibb.co/TzWN85R/New-modernized-logo-of-96-3-Easy-Rock-Vectorized-via-Ink-Scape-svg.png",
-    "category": "FM",
-    "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
-  },
-
-  {
-    "name": "97.9 Home Radio",
-    "logo": "https://i.ibb.co/bMQf8KvM/979-Home-Radio-2017.png",
-    "category": "FM",
-    "dateAdded": "2026-05-30",
-    "url": "http://142.44.212.114:9071/stream"
-  },
-
-  {
-    "name": "DZRH 666 AM",
-    "logo": "https://i.ibb.co/Fb5Yhv9Z/DZRH-logo-2021.png",
-    "category": "AM",
-    "dateUpdated": "2026-05-30",
-    "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
-  },
-
-  {
-    "name": "106.7 Energy FM",
-    "logo": "https://i.ibb.co/G15bWZY/Energy-FM-logo.png",
-    "category": "FM",
-    "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
+    {
+      "name": "DZMM Radyo Patrol 630",
+      "logo": "https://i.ibb.co/fVPrHT48/dzmm.webp",
+      "category": "AM",
+      "url": "http://209.126.124.126:8852/stream"
     },
-
     {
-    "name": "102.7 Star FM Manila",
-    "logoLocal": "",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/69b1kf7q0y5tv"
-  },
-
-  {
-    "name": "Tee Radio",
-    "logoLocal": "",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/r19q0f1hbm0uv"
-  },
-
-  {
-    "name": "Monster RX93.1",
-    "logoLocal": "",
-    "category": "FM",
-    "url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
-  },
-
-  {
-    "name": "DWWW 774",
-    "logoLocal": "",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/8v95b64qbxquv"
-  },
-
-  {
-    "name": "Bombo Radyo 819 AM Iloilo",
-    "logoLocal": "",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/65yd2cr7vy5tv"
-  },
-
+      "name": "DZBB Super Radyo 594",
+      "logoLocal": "rd_dzbb",
+      "category": "AM",
+      "url": "https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8"
+    },
     {
-    "name": " 99.1 Spirit FM Batangas",
-    "logo": "",
-    "category": "FM",
-    "dateAdded": "2026-05-30",
-    "url": "https://stream-284.zeno.fm/zb2c835zahruv"
-  },
-
-  {
-    "name": "Radyo Bandera 103.3 FM Bislig",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cd.radyoph.com:8010/bandera64"
-  },
-
-  {
-    "name": "103.5 Retro Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8128/stream"
-  },
-
-  {
-    "name": "105.5 Big Sound FM San Fernando",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://162.220.162.10:8011/stream?n=5fc4dc45327b7775fc24"
-  },
-
-  {
-    "name": "106.9 WGB FM Tabaco",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://canada1.reliastream.com/proxy/dexlain2?mp=/stream&1722439583717"
-  },
-
-  {
-    "name": "1395 DWMG AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://bigsoundfm.com/proxy/dwmg/stream"
-  },
-
-  {
-    "name": "702 DZAS AM Manila",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://sg-icecast.eradioportal.com/febc_dzas"
-  },
-
-  {
-    "name": "87.5 Republika ni Juan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/ea094e3cecdf344b68a40d3083908210"
-  },
-
-  {
-    "name": "90.5 Heart FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://radio.905heartfm.com/listen/sanibpwersa/radio.mp3"
-  },
-
-  {
-    "name": "91.1 RedKite Radio Sweet FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8632/stream"
-  },
-
-  {
-    "name": "911 Balita FM Tagbilaran",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://s20.reliastream.com:8024/stream"
-  },
-
-  {
-    "name": "93.5 City Radio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cdnstream1.typicalmedia.net/yourradio.mp3"
-  },
-
-  {
-    "name": "94.3 iFM Bacolod",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://tune.tunzilla.com/http://uk16freenew.listen2myradio.com:30635/stream"
-  },
-
-  {
-    "name": "95.5 Retro Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8135/stream"
-  },
-
-  {
-    "name": "95.9 Big Sound FM Baguio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://tune.tunzilla.com/http://162.220.162.10:8011/stream"
-  },
-
-  {
-    "name": "96.7 KCAL Rocks",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC.aac"
-  },
-
-  {
-    "name": "98.7 DZFE FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://ph-icecast-win.eradioportal.com:8000/febc_dzfe"
-  },
-
-  {
-    "name": "ABN 96.5 FM Laoag",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/vkm1e1y2f3quv.mp3"
-  },
-
-  {
-    "name": "ABSFM Maramag",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dj.radyoph.com:8010/absfm_maramag"
-  },
-
-  {
-    "name": "ABSFM Marihatag",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.amfm.link:8020/absfm_marihatag"
-  },
-
-  {
-    "name": "ABSFM Mati",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ph.amfm.link:8000/absfm_mati"
-  },
-
-  {
-    "name": "ABSFM Montevista",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.amfm.link:8030/absfm_montevista"
-  },
-
-  {
-    "name": "ABSFM New Bataan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://xcite.radyoph.com:8030/absfm_newbataan"
-  },
-
-  {
-    "name": "ABSFM Pantukan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://io.radyoph.com:8030/absfm_pantukan"
-  },
-
-  {
-    "name": "ABSFM San Miguel",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://io.amfm.link:8020/absfm_sanmig"
-  },
-
-  {
-    "name": "ABSFM Socorro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dj.radyoph.com:8030/absfm_socorro"
-  },
-
-  {
-    "name": "ABSFM Tago",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://io.amfm.link:8000/absfm_tago"
-  },
-
-  {
-    "name": "ABSFM Tandag",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://io.amfm.link:8010/absfm_tandag"
-  },
-
-  {
-    "name": "Adventist World Radio 89.1 FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/awr_manila"
-  },
-
-  {
-    "name": "Adventist World Radio Toledo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/etwbrrdrf6cuv.mp3"
-  },
-
-  {
-    "name": "Aksyon Radyo 97.1 FM Iloilo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://in-icecast.eradioportal.com:8443/akyson_iloilo"
-  },
-
-  {
-    "name": "Aksyon Radyo 99.5 FM Laoag",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://arlaoag.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Aksyon Radyo 97.5 FM Tacloban",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8203/stream"
-  },
-
-  {
-    "name": "AllHitz24",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.allhitz24.com/64"
-  },
-
-  {
-    "name": "AMC Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.amfm.link:8030/amcradio"
-  },
-
-  {
-    "name": "Anchor Radio Davao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://icecast.theanchor.app/bbbc"
-  },
-
-  {
-    "name": "Angel Radyo Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cd.radyoph.com:8020/angelradyo"
-  },
-
-  {
-    "name": "AXR Manila",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILAAAC.aac"
-  },
-
-  {
-    "name": "B 107.9 Tacloban",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://streamnavs.net:8147/live"
-  },
-
-  {
-    "name": "Banna-tirat Internet Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/ywptdatt40duv.mp3"
-  },
-
-  {
-    "name": "Barangay FM 101.9 Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/brgy_naga"
-  },
-
-  {
-    "name": "Basco Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/bv184k80fs8uv.mp3"
-  },
-
-  {
-    "name": "Beam FM 92.5",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream3.hornhost.com/8052/stream"
-  },
-
-  {
-    "name": "Bespren Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://streamnavs.net:8089/live"
-  },
-
-  {
-    "name": "BF 99.5 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/yf7x47v1tfeuv.mp3"
-  },
-
-  {
-    "name": "DZBR 531 AM Bible Radio",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.radio.co/se9de95c10/listen"
-  },
-
-  {
-    "name": "Bionic Online Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.radyoph.com:8000/bionic"
-  },
-
-  {
-    "name": "Bluebird Radio 100.1 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/dvfqkzzmxs8uv.mp3"
-  },
-
-  {
-    "name": "Bombo Radyo 630 AM Butuan",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/6gr5c710xy5tv.mp3"
-  },
-
-  {
-    "name": "Bombo Radyo 630 AM Cebu",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/cc4d8bbnz9duv.mp3"
-  },
-
-  {
-    "name": "Bombo Radyo 756 AM Legazpi",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/u0uugg5mz9duv.mp3"
-  },
-
-  {
-    "name": "Bombo Radyo 657 AM Malaybalay",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/1etogiwypoztv.mp3"
-  },
-
-  {
-    "name": "Boracay Beach Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl1.viastreaming.net:8390/;stream/"
-  },
-
-  {
-    "name": "Brigada News FM Agusan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://trentostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Bacolod",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://bacolodstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Batangas",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://batangasstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Bogo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://bogostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Butuan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://butuanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Cagayan de Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cagayanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Cauayan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cauayanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cebustream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Cotabato",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cotabatostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Daet",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://daetstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://davaostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Dumaguete",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dumaguetestream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM General Santos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://gensanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Iligan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://iliganstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Kalibo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://kalibostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Kidapawan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://kidapawanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Koronadal",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://koronadalstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Lebak",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://lebakstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Legaspi",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://legaspistream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Lucena",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://lucenastream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://makatistream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://nagastream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Olongapo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://olongapostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Oroquieta",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://oroquietastream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Pagadian",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://pagadianstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Pampanga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://pampangastream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Puerto Princesa",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://puertopalawanstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM San Carlos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://sancarlosstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Sorsogon",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://sorsogonstream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Toledo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://toledostream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Brigada News FM Zamboanga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://zamboangastream.brigadanews.ph/"
-  },
-
-  {
-    "name": "Caritas FM Iloilo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8791/stream"
-  },
-
-  {
-    "name": "Christmas Radio Philippines",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://us1.amfmph.com/ssl/christmasradio?1641738050672=&mp=/stream"
-  },
-
-  {
-    "name": "Clubmix",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/d42hdvx96zhvv.mp3"
-  },
-
-  {
-    "name": "Cyber Pinoy Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://securestreams.autopo.st:1215/stream/1/"
-  },
-
-  {
-    "name": "D Empire Radio Pikit North Cotabato",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl.radyoph.com:8000/d_empire"
-  },
-
-  {
-    "name": "Downtown Eclipse",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/81sjev0tizduv.mp3"
-  },
-
-  {
-    "name": "Dream Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://razzrdfx.com/listen/dream_radio/radio.mp3"
-  },
-
-  {
-    "name": "Dream Radio Tacloban",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://streamnavs.net:8133/live"
-  },
-
-  {
-    "name": "Dreamstar Teleradio Nationwide",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://usa13.fastcast4u.com/proxy/itunerworldwide?mp=/1"
-  },
-
-  {
-    "name": "DWHQ 98.1 FM ARFM Baco Oriental Mindoro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/bcxtfmdce19uv.mp3"
-  },
-
-  {
-    "name": "DWIZ 882 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dwizmanila.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DWIZ 999 FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://hrcebu.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DWIZ 98.7 FM Dagupan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dagupan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DWIZ 103.1 FM General Santos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://hrgensan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DWNX 828 AM RMN Naga",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/1ytydzphq7zuv.mp3"
-  },
-
-  {
-    "name": "DWXI 1314 AM El Shaddai",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://in-icecast.eradioportal.com:8443/dwxi-streaming"
-  },
-
-  {
-    "name": "DXDC 828 AM RMN Davao",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/qrrgyy1hyuatv.mp3"
-  },
-
-  {
-    "name": "DXGP 89.7 FM Agusan Radio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ph.amfm.link:8020/dxgp"
-  },
-
-  {
-    "name": "DXGT 102.3 FM Radyo Bante Maramag Bukidnon",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/z80zubtvrf9uv.mp3"
-  },
-
-  {
-    "name": "DXJL 103.3 FM The New J Cagayan De Oro Misamis Oriental",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://s3.radio.co/s3e33745fb/listen"
-  },
-
-  {
-    "name": "DXKI 684 AM Strong Radio Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/femnnphrtcltv.mp3"
-  },
-
-  {
-    "name": "DXKS 1080 AM Radyo Ronda Surigao",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxks-rpnradio.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DXRC 1278 AM Radyo Commando Valencia",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://us1.amfmph.com/ssl/radyocommando?mp=/stream&1641741793754"
-  },
-
-  {
-    "name": "DYAR 92.7 FM Island Radio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/20mrfn8yw68uv.mp3"
-  },
-
-  {
-    "name": "DYHB 594 AM RMN Bacolod",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://us2.amfmph.com:8848/stream"
-  },
-
-  {
-    "name": "DYHP 612 AM RMN Cebu",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://de3.amfmph.com/ssl/rmncebu?1680183125966=&mp=/stream"
-  },
-
-  {
-    "name": "DYPS 103.1 FM BT Radio Tuburan Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8536/stream"
-  },
-
-  {
-    "name": "DYRD 1161 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/ap44gpbrc0hvv.mp3"
-  },
-
-  {
-    "name": "DYRI 864 AM RMN Iloilo",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://us1.amfmph.com:8011/live"
-  },
-
-  {
-    "name": "DYTR 1116 AM Tagbilaran",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/l6d5yvrgnauuv.mp3"
-  },
-
-  {
-    "name": "DYVL 94.1 FM Bogo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://209.126.124.126:8101/stream?n=d189666c275d73608e14"
-  },
-
-  {
-    "name": "DZDG 96.7 FM Destiny Radio Tayabas",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/cfrn2oenhljuv.mp3"
-  },
-
-  {
-    "name": "DZEM 1071 AM INC Radio",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://243529.global.ssl.fastly.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/index.m3u8"
-  },
-
-  {
-    "name": "DZGB 103.1 FM Legazpi",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/dnmfv8wykbxvv.mp3"
-  },
-
-  {
-    "name": "DZRH 101.1 FM News Gensan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dzrhnewsfmgensan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "DZRJ 810 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://ssl.radyoph.com:8000/rjam_manila"
-  },
-
-  {
-    "name": "DZVT 93.7 FM Spirit FM San Jose",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/96kosdvtz6mvv.mp3"
-  },
-
-  {
-    "name": "Eagle FM 95.5",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://n0a.radiojar.com/yus0r2bghd3vv"
-  },
-
-  {
-    "name": "Easy Radio Jimalalud",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us2.amfmph.com:9163/live"
-  },
-
-  {
-    "name": "Easy Rock Bacolod",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockbacolod.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Easy Rock Baguio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockbaguio.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Easy Rock Boracay",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockboracay.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Easy Rock Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockcagayan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Easy Rock Cebu",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockcebu.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Easy Rock Iloilo",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://easyrockiloilo.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Emotions",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/03v7z8edgphvv.mp3"
-  },
-
-  {
-    "name": "Energy FM 103.9 Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/4oa5m3ffwutuv.mp3"
-  },
-
-  {
-    "name": "Energy FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/klewk28qlqquv.mp3"
-  },
-
-  {
-    "name": "Filipino Music Central",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/yqkru9yv3yzuv.mp3"
-  },
-
-  {
-    "name": "Flame Gospel Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/1ruppedsd6quv.mp3"
-  },
-
-  {
-    "name": "FM Radio Bagtik Surigao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8785/stream"
-  },
-
-  {
-    "name": "FM Radio Baguio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8715/stream"
-  },
-
-  {
-    "name": "FM Radio Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://free.rcast.net/258788"
-  },
-
-  {
-    "name": "FM Radio Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8679/stream"
-  },
-
-  {
-    "name": "FM Radio Mambajao Camiguin",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8673/stream"
-  },
-
-  {
-    "name": "FM Radio 97.1 Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/fmr_manila"
-  },
-
-  {
-    "name": "FM Radio Tacloban",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8676/stream"
-  },
-
-  {
-    "name": "FM Radio Tagum Davao Del Norte",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com/ssl/fmrtagum?mp=/stream"
-  },
-
-  {
-    "name": "Green Pasture Christian Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/b4bn55v0r98uv.mp3"
-  },
-
-  {
-    "name": "GV 99.1 FM Angeles",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://edge.mixlr.com/channel/gtqpn"
-  },
-
-  {
-    "name": "Habagat Radio Carmen Surigao del Sur",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/3v7w43y1bceuv.mp3"
-  },
-
-  {
-    "name": "DYAG 1125 AM Hapi Radio Sagay Negros Occidental",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://de3.amfmph.com:8107/stream"
-  },
-
-  {
-    "name": "Heart FM 92.7 Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/heartfmcdo?mp=/stream&1679730513324?n=203e5bdcbdf60b2cb149"
-  },
-
-  {
-    "name": "Home Radio 97.9 FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://hrmanila.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Hot Hiphop N RnB",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/qrhuqbnm208uv.mp3"
-  },
-
-  {
-    "name": "iDMZ Sayaw Pinoy Manila",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://cast3.asurahosting.com/proxy/idmzsayawpinoy/stream"
-  },
-
-  {
-    "name": "iFM Dagupan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://tune.tunzilla.com/http://icecast.eradioportal.com:8000/ifm_dagupan"
-  },
-
-  {
-    "name": "iFM Iloilo",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "http://85.93.91.10:8109/stream?type"
-  },
-
-  {
-    "name": "iFM 93.9 FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://magic.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "iMix Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/iiigesdzikuvv.mp3"
-  },
-
-  {
-    "name": "Infinite Radio Panabo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8644/stream"
-  },
-
-  {
-    "name": "Jack FM 88.1 Dipolog",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/s6mhgpd37p8uv.mp3"
-  },
-
-  {
-    "name": "Joy FM Kidapawan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/joy_kidapawan"
-  },
-
-  {
-    "name": "JT Lite Online Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/ayt805vk4bruv.mp3"
-  },
-
-  {
-    "name": "Jungle Radio Aborlan Palawan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://sound.amfm.link:8020/jungleaborlan"
-  },
-
-  {
-    "name": "Jungle Radio Puerto Princesa",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dj.radyoph.com:8020/jungleradio"
-  },
-
-  {
-    "name": "K5 News FM Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8773/stream"
-  },
-
-  {
-    "name": "K5 News FM Dumaguete Negros Oriental",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8581/live"
-  },
-
-  {
-    "name": "K5 News FM Kabankalan Negros Occidental",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8523/stream"
-  },
-
-  {
-    "name": "K5 News FM Roxas",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8584/stream"
-  },
-
-  {
-    "name": "K5 News FM Sagay Negros Occidental",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://209.126.124.126:8587/stream?n=8a15fc833d19c79ab9eb"
-  },
-
-  {
-    "name": "K5 News FM San Carlos Negros Occidental",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/k5_sancarlos"
-  },
-
-  {
-    "name": "K5 News FM Tacloban",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8788/stream"
-  },
-
-  {
-    "name": "Kakampi Partido",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/ctyttfz5p06tv.mp3"
-  },
-
-  {
-    "name": "KGON KoolFM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl.radyoph.com/listen/ch2/koolfm"
-  },
-
-  {
-    "name": "Kiss FM Tagbilaran",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://live.kiss102fmbohol.com:8000/kiss"
-  },
-
-  {
-    "name": "KJM 94.3 FM Borongan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.amfm.link:8010/kjm"
-  },
-
-  {
-    "name": "LiPS 106 FM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/f3eha5qum7zuv.mp3"
-  },
-
-  {
-    "name": "Lite Rock 97.9 FM Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ice.streams.ovh:1100/stream"
-  },
-
-  {
-    "name": "Love Radio Bacolod",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiobacolod.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Baguio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiobaguio.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Catarman",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://lovecatarman.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Cebu",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiocebu.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Dagupan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiodagupan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Davao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiodavao.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio General Santos",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiogensan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Iloilo",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradioiloilo.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Kalibo",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiokalibo.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Koronadal",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://lovekoronadal.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio La Union",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiolaunion.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Legazpi",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiolegaspi.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Lucena",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiolucena.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Naga",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradionaga.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Puerto Princesa",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiopalawan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Tacloban",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://lovetacloban.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Tarlac",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://loveradiotarlac.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Love Radio Zamboanga",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://lovezamboanga.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Lucky Radio Bayugan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8564/stream"
-  },
-
-  {
-    "name": "Mactan Radio Cebu",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://air.doscast.com/proxy/mactanradiocebu/stream"
-  },
-
-  {
-    "name": "Magic 89.9 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/sh37pvfd938uv.mp3"
-  },
-
-  {
-    "name": "Magnum Radyo 99.9 FM Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://www.magnum999.com/radio/live.mp3"
-  },
-
-  {
-    "name": "Manila Sound Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://a10.asurahosting.com:7480/radio.mp3"
-  },
-
-  {
-    "name": "Manila Wave Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3"
-  },
-
-  {
-    "name": "MemoRieS 89.9 FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://s5.reliastream.com:7134/stream"
-  },
-
-  {
-    "name": "Monster BT 105.9 FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://in-icecast.eradioportal.com:8443/rxcebu"
-  },
-
-  {
-    "name": "Monster BT 99.5 FM Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://in-icecast.eradioportal.com:8443/monsterrx_davao_"
-  },
-
-  {
-    "name": "MY FM 100.7 Bataan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/ra87k5qk7yzuv.mp3"
-  },
-
-  {
-    "name": "MY96.5 FM Pinamungajan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/4udquzh4t8quv.mp3"
-  },
-
-  {
-    "name": "MYX P-pop Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXPPOPAAC.aac"
-  },
-
-  {
-    "name": "MYX Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXFMAAC.aac"
-  },
-
-  {
-    "name": "NewsRadio Bulletin Southern Luzon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://eu8.fastcast4u.com/proxy/nixifof473?mp=/citrasluzon&type=.aac"
-  },
-
-  {
-    "name": "Nice Radio Naval",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us2.amfmph.com:8872/stream"
-  },
-
-  {
-    "name": "OFW Radio Basud",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://s74.radiolize.com:8020/radio.mp3"
-  },
-
-  {
-    "name": "OK FM Legazpi",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/bqqqtxviwvfuv.mp3"
-  },
-
-  {
-    "name": "OK FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/s2ismkjehmyvv.mp3"
-  },
-
-  {
-    "name": "OK FM Sorsogon",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://s20.reliastream.com:8178/stream"
-  },
-
-  {
-    "name": "One Radio 91.3 Tabaco",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/w46szhpxmv8uv.mp3"
-  },
-
-  {
-    "name": "One Radio Christmas",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/28yezzkazy8uv.mp3"
-  },
-
-  {
-    "name": "Pagbana-ag Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/adqlxubrtshvv.mp3"
-  },
-
-  {
-    "name": "Palawan Wave FM 91.9",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://xcite.radyoph.com:8020/dzrt"
-  },
-
-  {
-    "name": "PH Lite",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.amfm.link:8000/phlite"
-  },
-
-  {
-    "name": "Pines FM Bataraza",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://xcite.radyoph.com:8010/pinesfm"
-  },
-
-  {
-    "name": "Pinoy OFW FM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://n07.radiojar.com/4dy80ayp5gruv"
-  },
-
-  {
-    "name": "Pinoy Rap Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/0cdp55nqam0uv.mp3"
-  },
-
-  {
-    "name": "Play FM 95.5 Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/playfm_manila"
-  },
-
-  {
-    "name": "Pop Radio Philippines",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://popvip-gecko.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Power FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/n4q1s7r4qzzuv.mp3"
-  },
-
-  {
-    "name": "PRIMAP 108 FM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/5uauxeakva0uv.mp3"
-  },
-
-  {
-    "name": "Radio John 98.5 FM Binalbagan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/radiojohn?mp=/stream&1773450677533"
-  },
-
-  {
-    "name": "Radio Maria Philippines",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "http://dreamsiteradiocp2.com:8052/stream.mp3"
-  },
-
-  {
-    "name": "Radio Pinas Davao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://us2.amfmph.com:9210/stream"
-  },
-
-  {
-    "name": "Radio Voice Balombong",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/bzrr0vksasquv.mp3"
-  },
-
-  {
-    "name": "Radio Voice Solano",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/d83dx9qpasquv.mp3"
-  },
-
-  {
-    "name": "Radyo Bandera 103.3 FM Malaybalay",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://dj.radyoph.com:8000/bandera64"
-  },
-
-  {
-    "name": "Radyo Bandera Olongapo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://sound.amfm.link:8030/banderaolongapo"
-  },
-
-  {
-    "name": "Radyo Bandera 89.5 FM Puerto Princesa",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://bandera.radyoph.com:8000/895mq"
-  },
-
-  {
-    "name": "Radyo Bandera Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://xcite.radyoph.com:8000/rbvalencia64"
-  },
-
-  {
-    "name": "Radyo Boholano",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/hwr0geklhbouv.mp3"
-  },
-
-  {
-    "name": "Radyo Bol-anon Network",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/dyma_fm"
-  },
-
-  {
-    "name": "DZLB 1116 AM Radyo UP Los Banos",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://stream.zeno.fm/sbbuij2ots3uv.mp3"
-  },
-
-  {
-    "name": "Radyo Kabayan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://rkabayan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Radyo Kaibigan Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us2.amfmph.com/ssl/vegiemaxplus?mp=/high"
-  },
-
-  {
-    "name": "Radyo Kidlat Samelco Uno Calbayog",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/t3bvque9fc9uv.mp3"
-  },
-
-  {
-    "name": "Radyo Natin Agoo",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://pinas.radyonatinfm.com:8000/agoo"
-  },
-
-  {
-    "name": "Radyo Natin Alaminos",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://pinas.radyonatinfm.com:8010/alaminos"
-  },
-
-  {
-    "name": "Radyo Natin Argao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://sound.radyonatinfm.com:8030/argao"
-  },
-
-  {
-    "name": "Radyo Natin Atimonan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://dj.radyonatinfm.com:8020/atimonan"
-  },
-
-  {
-    "name": "Radyo Natin Baao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://xcite.radyonatinfm.com:8030/baao"
-  },
-
-  {
-    "name": "Radyo Natin Bais",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://sound.amfm.link:8000/bais"
-  },
-
-  {
-    "name": "Radyo Natin Baler",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://wave.radyonatinfm.com:8010/baler"
-  },
-
-  {
-    "name": "Radyo Natin Banaue",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://air.radyonatinfm.com:8000/banaue"
-  },
-
-  {
-    "name": "Radyo Natin Bangued",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://tx.radyonatinfm.com:8030/bangued"
-  },
-
-  {
-    "name": "Radyo Natin Bayombong",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://web.radyonatinfm.com:8030/bayombong"
-  },
-
-  {
-    "name": "Radyo Natin Bislig",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://audio.radyonatinfm.com:8020/bislig"
-  },
-
-  {
-    "name": "Radyo Natin Boac",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://phils.radyonatinfm.com:8010/boac"
-  },
-
-  {
-    "name": "Radyo Natin Bongabong",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://sound.radyonatinfm.com:8010/bongabong"
-  },
-
-  {
-    "name": "Radyo Natin Bonpen",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.radyonatinfm.com:8020/bonpen"
-  },
-
-  {
-    "name": "Radyo Natin Borongan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://fx.radyonatinfm.com:8020/borongan"
-  },
-
-  {
-    "name": "Radyo Natin Brooke's Point",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://xcite.radyonatinfm.com:8010/brookespoint"
-  },
-
-  {
-    "name": "Radyo Natin Bugasong",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://net.radyonatinfm.com:8020/bugasong"
-  },
-
-  {
-    "name": "Radyo Natin Buhi",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ph.radyonatinfm.com:8030/buhi"
-  },
-
-  {
-    "name": "Radyo Natin Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://wave.radyonatinfm.com:8030/cdo"
-  },
-
-  {
-    "name": "Radyo Natin Calapan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://sound.radyonatinfm.com:8000/calapan"
-  },
-
-  {
-    "name": "Radyo Natin Calauag",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://dj.radyonatinfm.com:8000/calauag"
-  },
-
-  {
-    "name": "Radyo Natin Calbayog",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://net.radyonatinfm.com:8010/calbayog"
-  },
-
-  {
-    "name": "Radyo Natin Candon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.radyonatinfm.com:8030/candon"
-  },
-
-  {
-    "name": "Radyo Natin Coron",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://xcite.radyonatinfm.com:8000/coron"
-  },
-
-  {
-    "name": "Radyo Natin Cotabato",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://amp.radyonatinfm.com:8000/cotabato"
-  },
-
-  {
-    "name": "Radyo Natin Daanbantayan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ph.radyonatinfm.com:8020/daanbantayan"
-  },
-
-  {
-    "name": "Radyo Natin Dipolog",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://mbc.radyonatinfm.com:8010/dipolog"
-  },
-
-  {
-    "name": "Radyo Natin Guiuan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://air.radyonatinfm.com:8030/guiuan"
-  },
-
-  {
-    "name": "Radyo Natin Gumaca",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://cd.radyonatinfm.com:8000/gumaca"
-  },
-
-  {
-    "name": "Radyo Natin Hamtic",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://link.radyonatinfm.com:8000/hamtic"
-  },
-
-  {
-    "name": "Radyo Natin Iba",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://phils.radyonatinfm.com:8000/iba"
-  },
-
-  {
-    "name": "Radyo Natin Infanta",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://cd.radyonatinfm.com:8010/infanta"
-  },
-
-  {
-    "name": "Radyo Natin Iriga",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://mbc.radyonatinfm.com:8030/iriga"
-  },
-
-  {
-    "name": "Radyo Natin Isulan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://amp.radyonatinfm.com:8010/isulan"
-  },
-
-  {
-    "name": "Radyo Natin Jagna",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.radyonatinfm.com:8030/jagna"
-  },
-
-  {
-    "name": "Radyo Natin Kiamba",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://hifi.radyonatinfm.com:8030/kiamba"
-  },
-
-  {
-    "name": "Radyo Natin Laguna",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://wave.radyonatinfm.com:8020/laguna"
-  },
-
-  {
-    "name": "Radyo Natin Laoang",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.radyonatinfm.com:8000/laoang"
-  },
-
-  {
-    "name": "Radyo Natin Lebak",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://hifi.radyonatinfm.com:8000/lebak"
-  },
-
-  {
-    "name": "Radyo Natin Lemery",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://xcite.radyonatinfm.com:8020/lemery"
-  },
-
-  {
-    "name": "Radyo Natin Looc",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://audio.radyonatinfm.com:8030/looc"
-  },
-
-  {
-    "name": "Radyo Natin Lucban",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://link.radyonatinfm.com:8010/lucban"
-  },
-
-  {
-    "name": "Radyo Natin Lupon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://link.radyonatinfm.com:8030/lupon"
-  },
-
-  {
-    "name": "Radyo Natin Madridejos",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://tx.radyonatinfm.com:8010/madridejos"
-  },
-
-  {
-    "name": "Radyo Natin Malita",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://link.radyonatinfm.com:8020/malita"
-  },
-
-  {
-    "name": "Radyo Natin Maramag",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://air.radyonatinfm.com:8010/maramag"
-  },
-
-  {
-    "name": "Radyo Natin Margosatubig",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://pinas.radyonatinfm.com:8030/margosatubig"
-  },
-
-  {
-    "name": "Radyo Natin Masbate",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://net.radyonatinfm.com:8030/masbate"
-  },
-
-  {
-    "name": "Radyo Natin Mati",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.radyonatinfm.com:8010/mati"
-  },
-
-  {
-    "name": "Radyo Natin Moalboal",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://fx.radyonatinfm.com:8030/moalboal"
-  },
-
-  {
-    "name": "Radyo Natin Nabunturan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://web.radyonatinfm.com:8020/nabunturan"
-  },
-
-  {
-    "name": "Radyo Natin Naga",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://web.radyonatinfm.com:8010/naga"
-  },
-
-  {
-    "name": "Radyo Natin Nationwide (Mindanao)",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://mindanao.radyonatinfm.com:8000/stream"
-  },
-
-  {
-    "name": "Radyo Natin Nationwide (Visayas)",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://visayas.radyonatinfm.com:8000/stream"
-  },
-
-  {
-    "name": "Radyo Natin Naval",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://dj.radyonatinfm.com:8010/naval"
-  },
-
-  {
-    "name": "Radyo Natin Odiongan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ph.radyonatinfm.com:8010/odiongan"
-  },
-
-  {
-    "name": "Radyo Natin Ormoc",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://fx.radyonatinfm.com:8000/ormoc"
-  },
-
-  {
-    "name": "Radyo Natin Padre Garcia",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://amp.radyonatinfm.com:8030/padregarcia"
-  },
-
-  {
-    "name": "Radyo Natin Pagadian",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://dj.radyonatinfm.com:8030/pagadian"
-  },
-
-  {
-    "name": "Radyo Natin Paracale",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://mbc.radyonatinfm.com:8000/paracale"
-  },
-
-  {
-    "name": "Radyo Natin Pilar",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://mbc.radyonatinfm.com:8020/pilar"
-  },
-
-  {
-    "name": "Radyo Natin Pinamalayan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://sound.radyonatinfm.com:8020/pinamalayan"
-  },
-
-  {
-    "name": "Radyo Natin Pinamungajan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://audio.radyonatinfm.com:8010/pinamungajan"
-  },
-
-  {
-    "name": "Radyo Natin Roxas",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://hifi.radyonatinfm.com:8020/roxas"
-  },
-
-  {
-    "name": "Radyo Natin Roxas Palawan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://cd.radyonatinfm.com:8020/roxaspalawan"
-  },
-
-  {
-    "name": "Radyo Natin Sablayan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://air.radyonatinfm.com:8020/sablayan"
-  },
-
-  {
-    "name": "Radyo Natin Sagay",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://cd.radyonatinfm.com:8030/sagay"
-  },
-
-  {
-    "name": "Radyo Natin San Jose",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://hifi.radyonatinfm.com:8010/sja"
-  },
-
-  {
-    "name": "Radyo Natin San Jose",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://phils.radyonatinfm.com:8020/sanjose"
-  },
-
-  {
-    "name": "Radyo Natin San Jose Occidental Mindoro",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://fx.radyonatinfm.com:8010/sanjose"
-  },
-
-  {
-    "name": "Radyo Natin Santiago",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://pinas.radyonatinfm.com:8020/santiago"
-  },
-
-  {
-    "name": "Radyo Natin Sipalay",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://tx.radyonatinfm.com:8020/sipalay"
-  },
-
-  {
-    "name": "Radyo Natin Sorsogon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.radyonatinfm.com:8010/sorsogon"
-  },
-
-  {
-    "name": "Radyo Natin Sta. Cruz",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://audio.radyonatinfm.com:8000/stacruz"
-  },
-
-  {
-    "name": "Radyo Natin Sto. Tomas",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.radyonatinfm.com:8000/santotomas"
-  },
-
-  {
-    "name": "Radyo Natin Tabuk",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://net.radyonatinfm.com:8000/tabuk"
-  },
-
-  {
-    "name": "Radyo Natin Tacurong",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://amp.radyonatinfm.com:8020/tacurong"
-  },
-
-  {
-    "name": "Radyo Natin Tagum",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ph.radyonatinfm.com:8000/tagum"
-  },
-
-  {
-    "name": "Radyo Natin Tiwi",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://io.radyonatinfm.com:8020/tiwi"
-  },
-
-  {
-    "name": "Radyo Natin Victoria",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://wave.radyonatinfm.com:8000/victoria"
-  },
-
-  {
-    "name": "Radyo Natin Virac",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://tx.radyonatinfm.com:8000/virac"
-  },
-
-  {
-    "name": "Radyo Ng Masa 103.9 FM General Santos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/masa_gensan"
-  },
-
-  {
-    "name": "Radyo Ng Masa Malungon",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://streams.amfmph.com/ssl/mtg3nde1"
-  },
-
-  {
-    "name": "Radyo Ng Masa Panabo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/masa_panabo"
-  },
-
-  {
-    "name": "Radyo Ni Sano Guindulman",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cd.radyoph.com:8000/rns128"
-  },
-
-  {
-    "name": "Radyo Pilipinas 1 738 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://ssl.radyoph.com:8000/rp1"
-  },
-
-  {
-    "name": "Radyo Pilipinas 2 1278 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://ssl.radyoph.com:8000/rp2"
-  },
-
-  {
-    "name": "Radyo Pilipinas 3",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl.radyoph.com:8000/rp3"
-  },
-
-  {
-    "name": "Radyo Pilipinas World Service",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl.radyoph.com:8000/rp4"
-  },
-
-  {
-    "name": "Radyo Serbato Butuan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/ferxhbxa1k8uv.mp3"
-  },
-
-  {
-    "name": "Radyo Serbato Cabadbaran",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/q25dmmc7u68uv.mp3"
-  },
-
-  {
-    "name": "Radyo Serbato Claver",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/7t86m666vp8uv.mp3"
-  },
-
-  {
-    "name": "Radyo Serbato Dinagat Islands",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/t62eakybmasuv.mp3"
-  },
-
-  {
-    "name": "Radyo Serbato San Francisco",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/unepz3nt3qltv.mp3"
-  },
-
-  {
-    "name": "Radyo Sincero Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://io.radyoph.com:8010/sincero"
-  },
-
-  {
-    "name": "Radyong Sira",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://a7.asurahosting.com:9110/radio.mp3"
-  },
-
-  {
-    "name": "Rage Music Philippines",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/q1n2wyfs7x8uv.mp3"
-  },
-
-  {
-    "name": "RAUX HTZ FM Southern Luzon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://usa8.fastcast4u.com/proxy/segad30605?mp=/htz_sluzon&type=.aac"
-  },
-
-  {
-    "name": "RJ FM 100.3",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com/listen/ch1/rjfm_manila"
-  },
-
-  {
-    "name": "Scream Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/c3z135w8zxhvv.mp3"
-  },
-
-  {
-    "name": "SDTV Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
-  },
-
-  {
-    "name": "South Radio News FM 102.9",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/tyckfjknbtktv.mp3"
-  },
-
-
-  {
-    "name": "Spirit FM Gumaca",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/ybdnwr4ws4zuv.mp3"
-  },
-
-  {
-    "name": "Spirit FM Lucena",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/fp689r8sty8uv.mp3"
-  },
-
-  {
-    "name": "Star FM 102.3 Baguio",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/sa27v4d29heuv.mp3"
-  },
-
-  {
-    "name": "Star Radio Catbalogan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ssl.radyoph.com:8000/star_catbalogan"
-  },
-
-  {
-    "name": "StarFlame 107.5 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/621d85k10vduv.mp3"
-  },
-
-  {
-    "name": "Starr Radio Tayasan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/06853d62108306510d16d3cd6e98d254"
-  },
-
-  {
-    "name": "Subic Bay Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://uk3freenew.listen2myradio.com/stream.mp3?ipport=78.129.150.207_10128"
-  },
-
-  {
-    "name": "Sweet 97.7 FM Santiago",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/ja3azzofj40tv.mp3"
-  },
-
-  {
-    "name": "Taps Radio Alicia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/tapsradi?mp=/stream"
-  },
-
-  {
-    "name": "Taps Radio Iligan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/tapsradioilagan?mp=/stream"
-  },
-
-  {
-    "name": "Taps Radio Roxas",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/tapsradioroxas?mp=/stream"
-  },
-
-  {
-    "name": "Taps Radio Santiago",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/tapsradiosantiago?mp=/stream"
-  },
-
-  {
-    "name": "The Bay FM 96.9 San Jose",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/7wz9z7fg308uv.mp3"
-  },
-
-  {
-    "name": "The Bay FM 99.3 Mamburao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/1az5pg5gk98uv.mp3"
-  },
-
-  {
-    "name": "The Capital 104.3 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/fm2_manila"
-  },
-
-  {
-    "name": "The Edge 92.7 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/edge"
-  },
-
-  {
-    "name": "Thunder News Radio Narra",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ph.amfm.link:8010/thunder"
-  },
-
-  {
-    "name": "TMC 105.1 FM Tops FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://s2.radio.co/s8d8aade20/listen"
-  },
-
-  {
-    "name": "True FM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://listen.mixlr.com/f881e88529bae24950482813b5edfac3"
-  },
-
-  {
-    "name": "Tunog Pinoy Power FM",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://streamnavs.net:8143/live"
-  },
-
-  {
-    "name": "UST Legazpi Radio DWAQ 107.5 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/ffujhplczsstv.mp3"
-  },
-
-  {
-    "name": "Vibe Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/4k8qf4raqy8uv.mp3"
-  },
-
-  {
-    "name": "Voice Radio Catarman",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/gbfhjvrljhxuv.mp3"
-  },
-
-  {
-    "name": "Wild FM 103.9 Butuan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8136/stream"
-  },
-
-  {
-    "name": "Wild FM 107.3 Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8129/stream"
-  },
-
-  {
-    "name": "Wild FM 99.5 Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8130/stream"
-  },
-
-  {
-    "name": "Wild FM 96.4 General Santos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8131/stream"
-  },
-
-  {
-    "name": "Wild FM 101.1 Iligan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8132/stream"
-  },
-
-  {
-    "name": "Wild FM 95.1 Iloilo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://de3.amfmph.com:8133/stream"
-  },
-
-  {
-    "name": "Win Radio 100.3 Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/jcd2soldm9buv.mp3"
-  },
-
-  {
-    "name": "Win Radio Cebu 107.5",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://stream.zeno.fm/dx1k9na7nznvv.mp3"
-  },
-
-  {
-    "name": "Win Radio 97.1 FM Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/1noxhem5qpkuv.mp3"
-  },
-
-  {
-    "name": "Win Radio 102.3 FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/sxzgyqjtehntv.mp3"
-  },
-
-  {
-    "name": "Win Radio 96.3 FM Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/vzrt2visttbvv.mp3"
-  },
-
-  {
-    "name": "wRock 96.1 FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://wrockceb-iradioph.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "X FM Naga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://listen.imjinteractive.net:8028/stream"
-  },
-
-  {
-    "name": "XFM 94.7 FM Bacolod",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com/ssl/xfmbacolod?mp=/live?n=cd8ac349b0d355412f88"
-  },
-
-  {
-    "name": "XFM Bayugan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://free.rcast.net/238973"
-  },
-
-  {
-    "name": "XFM 90.3 FM Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/xfm_davao"
-  },
-
-  {
-    "name": "XFM General Santos",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://us1.amfmph.com:8797/live"
-  },
-
-  {
-    "name": "XFM 105.5 FM Iloilo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/xfm_iloilo"
-  },
-
-  {
-    "name": "XFM Kalibo Aklan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://209.126.124.126:8800/stream?n=5cd564f40a31bb10b9cd"
-  },
-
-  {
-    "name": "XFM 93.9 FM Malaybalay",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/xfm_malaybalay"
-  },
-
-  {
-    "name": "XFM 92.1 FM Mega Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8000/xfm_manila"
-  },
-
-  {
-    "name": "XFM Puerto Princesa",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://streams.programmes-radio.com/?k=Grpx26&stream=http://209.126.124.126:8835/stream"
-  },
-
-  {
-    "name": "XFM Roxas Palawan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://sound.amfm.link:8010/xfmroxas"
-  },
-
-  {
-    "name": "XFM San Francisco",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "http://209.126.124.126:8794/stream?n=2372eaebd66ede275495"
-  },
-
-  {
-    "name": "XFM 92.3 FM Santiago",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://ssl.radyoph.com:8010/xfm_santiago"
-  },
-
-  {
-    "name": "Y101 FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8849/stream"
-  },
-
-  {
-    "name": "Yes FM Boracay",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmboracay.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Cagayan De Oro",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmcdo.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Cauayan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmcauayan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Cebu",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmcebu.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Dagupan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmdagupan.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Dumaguete",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmdumaguete.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Urdaneta",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmurdaneta.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Valencia",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmvalencia.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Yes FM Zamboanga",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://yesfmzamboanga.radioca.st/stream.mp3"
-  },
-
-  {
-    "name": "Radyo Veritas 846 AM",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://in-icecast.eradioportal.com:8443/radyo-veritas-846"
-  },
-
-  {
-    "name": "Big Radio Tagbilaran",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://bigsoundfm.com/proxy/dyva/stream"
-  },
-
-  {
-    "name": "Sky Radio 93.1 FM",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://cast5.asurahosting.com/proxy/skyradio/live"
-  },
-
-  {
-    "name": "Aksyon Radyo Catarman",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://arcatarman.radioca.st/stream"
-  },
-
-  {
-    "name": "Aksyon Radyo Catbalogan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://arcatbalogan.radioca.st/stream"
-  },
-
-  {
-    "name": "Aksyon Radyo Pangasinan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://arpangasinan.radioca.st/stream"
-  },
-
-  {
-    "name": "DJFJ Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://s1.free-shoutcast.com/stream/18214"
-  },
-
-  {
-    "name": "Like Radio 104.7 FM Bais",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://s3.free-shoutcast.com/stream/18054"
-  },
-
-  {
-    "name": "103.1 Lite FM Mega Manila",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.zeno.fm/3fprt16khf9uv.mp3"
-  },
-
-  {
-    "name": "97.5 dwOK FM Olongapo",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://servidor22-5.brlogic.com:7014/live"
-  },
-
-  {
-    "name": "AWR Hope Radio Davao",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://stream.dxbh.net/hopedxma"
-  },
-
-  {
-    "name": "DYAB 612 AM Kaboses Radio Tacloban",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://streamnavs.net:8147/stream"
-  },
-
-  {
-    "name": "Golden Tiger Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "http://a2.asurahosting.com:6980/radio.mp3"
-  },
-
-  {
-    "name": "Halo Halo Radio Davao",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://prox.radyoph.com/s/314783353368321f737231224d35d48c"
-  },
-
-  {
-    "name": "K5 News FM Palawan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/793cc15adff2fcd541b65150fb310738"
-  },
-
-  {
-    "name": "K5 Pilar Radyo Tagbu-anay",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://us1.amfmph.com:8934/stream"
-  },
-
-  {
-    "name": "Magik FM Butuan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/a21a2b8079909c74ca6a7785500bf0b7"
-  },
-
-  {
-    "name": "Magik FM Cauayan",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/df630d72536522d56357a55585674971"
-  },
-
-  {
-    "name": "Magik FM Dipolog",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/04b83e1d91b4b359b9e92a4ecd141821"
-  },
-
-  {
-    "name": "OPM Kaibigan",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://prox.radyoph.com/s/69b350c35195ba075850b6a6e2bbf7c8"
-  },
-
-  {
-    "name": "Radyo Bagting Pagadian",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/a6d7cf811def928e9ad4ef775add1c6d"
-  },
-
-  {
-    "name": "Radyo Bandera Catarman",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://prox.radyoph.com/s/f5afbeb4a8d648d583d67e90d5e19ead"
-  },
-
-  {
-    "name": "WOW Radio",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://ph.amfm.link:8030/wowradio"
-  },
-
-  {
-    "name": "Aksyon Radyo La Union",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://arlaunion.radioca.st/stream"
-  },
-
-  {
-    "name": "GV 99.9 FM Batangas",
-    "logoLocal": "rd_",
-    "category": "FM",
-    "url": "https://gvstream.tail160f79.ts.net/stream"
-  },
-
-  {
-    "name": "Radyo Oragon",
-    "logoLocal": "rd_",
-    "category": "Digital",
-    "url": "https://streamnavs.net:8181/live"
-  },
-
-  {
-    "name": "DXDX 693 AM General Santos",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxdx-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXKD 1053 AM Dipolog",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxkd-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXKO 1368 AM Cagayan de Oro",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxko-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXKP 1377 AM Pagadian",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxkp-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXKS 1080 AM Surigao",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxks-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXKT 1071 AM Davao",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxkt-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DXXX 1008 AM Zamboanga",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dxxx-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DYKB 1404 AM Bacolod",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dykb-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DYKC 675 AM Cebu",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dykc-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DZBS 1368 AM Baguio",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dzbs-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DZKI 1332 AM Iriga",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dzki-rpnradio.radioca.st/stream"
-  },
-
-  {
-    "name": "DZRL 639 AM Batac",
-    "logoLocal": "rd_",
-    "category": "AM",
-    "url": "https://dzrl-rpnradio.radioca.st/stream"
-  }
+      "name": "MOR Entertainment",
+      "logo": "https://i.ibb.co/rKgZNxch/MOR-Entertainment-logo.png",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/0ha8ftewqp8uv.mp3"
+    },
+    {
+      "name": "Barangay LS 97.1",
+      "logo": "https://i.ibb.co/RG6wTDTJ/Barangay-LS-97-1.png",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/dphe9050afhvv"
+    },
+    {
+      "name": "91.5 Win Radio Manila",
+      "logo": "https://i.ibb.co/FpyXJ9R/Winradiomanila.jpg",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
+    },
+    {
+      "name": "101.1 Yes! FM",
+      "logo": "https://i.ibb.co/N8mJV8t/NGOHOa-Hqs-D9a-T4t-Ay-Niek.png",
+      "category": "FM",
+      "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
+    },
+    {
+      "name": "90.7 Love Radio",
+      "logo": "https://i.ibb.co/nMSy8Q19/Love-Radio-Philippine-radio-station-logo.png",
+      "category": "FM",
+      "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
+    },
+    {
+      "name": "96.3 Easy Rock",
+      "logo": "https://i.ibb.co/TzWN85R/New-modernized-logo-of-96-3-Easy-Rock-Vectorized-via-Ink-Scape-svg.png",
+      "category": "FM",
+      "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
+    },
+    {
+      "name": "97.9 Home Radio",
+      "logo": "https://i.ibb.co/bMQf8KvM/979-Home-Radio-2017.png",
+      "category": "FM",
+      "dateAdded": "2026-05-30",
+      "url": "http://142.44.212.114:9071/stream"
+    },
+    {
+      "name": "DZRH 666 AM",
+      "logo": "https://i.ibb.co/Fb5Yhv9Z/DZRH-logo-2021.png",
+      "category": "AM",
+      "dateUpdated": "2026-05-30",
+      "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
+    },
+    {
+      "name": "106.7 Energy FM",
+      "logo": "https://i.ibb.co/G15bWZY/Energy-FM-logo.png",
+      "category": "FM",
+      "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
+    },
+    {
+      "name": "102.7 Star FM Manila",
+      "logoLocal": "",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/69b1kf7q0y5tv"
+    },
+    {
+      "name": "Tee Radio",
+      "logoLocal": "",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/r19q0f1hbm0uv"
+    },
+    {
+      "name": "Monster RX93.1",
+      "logoLocal": "",
+      "category": "FM",
+      "url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
+    },
+    {
+      "name": "DWWW 774",
+      "logoLocal": "",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/8v95b64qbxquv"
+    },
+    {
+      "name": "Bombo Radyo 819 AM Iloilo",
+      "logoLocal": "",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/65yd2cr7vy5tv"
+    },
+    {
+      "name": " 99.1 Spirit FM Batangas",
+      "logo": "",
+      "category": "FM",
+      "dateAdded": "2026-05-30",
+      "url": "https://stream-284.zeno.fm/zb2c835zahruv"
+    },
+    {
+      "name": "105.5 Big Sound FM San Fernando",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "http://162.220.162.10:8011/stream?n=5fc4dc45327b7775fc24"
+    },
+    {
+      "name": "106.9 WGB FM Tabaco",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://canada1.reliastream.com/proxy/dexlain2?mp=/stream&1722439583717"
+    },
+    {
+      "name": "1395 DWMG AM",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://bigsoundfm.com/proxy/dwmg/stream"
+    },
+    {
+      "name": "87.5 Republika ni Juan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://prox.radyoph.com/s/ea094e3cecdf344b68a40d3083908210"
+    },
+    {
+      "name": "90.5 Heart FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://radio.905heartfm.com/listen/sanibpwersa/radio.mp3"
+    },
+    {
+      "name": "93.5 City Radio",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cdnstream1.typicalmedia.net/yourradio.mp3"
+    },
+    {
+      "name": "96.7 KCAL Rocks",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KCALFMAAC.aac"
+    },
+    {
+      "name": "98.7 DZFE FM Manila",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "http://ph-icecast-win.eradioportal.com:8000/febc_dzfe"
+    },
+    {
+      "name": "ABN 96.5 FM Laoag",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/vkm1e1y2f3quv.mp3"
+    },
+    {
+      "name": "ABSFM Maramag",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://dj.radyoph.com:8010/absfm_maramag"
+    },
+    {
+      "name": "ABSFM Marihatag",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.amfm.link:8020/absfm_marihatag"
+    },
+    {
+      "name": "ABSFM Mati",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://ph.amfm.link:8000/absfm_mati"
+    },
+    {
+      "name": "ABSFM Montevista",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.amfm.link:8030/absfm_montevista"
+    },
+    {
+      "name": "ABSFM New Bataan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://xcite.radyoph.com:8030/absfm_newbataan"
+    },
+    {
+      "name": "ABSFM Pantukan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://io.radyoph.com:8030/absfm_pantukan"
+    },
+    {
+      "name": "ABSFM San Miguel",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://io.amfm.link:8020/absfm_sanmig"
+    },
+    {
+      "name": "ABSFM Socorro",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://dj.radyoph.com:8030/absfm_socorro"
+    },
+    {
+      "name": "ABSFM Tago",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://io.amfm.link:8000/absfm_tago"
+    },
+    {
+      "name": "Adventist World Radio Toledo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/etwbrrdrf6cuv.mp3"
+    },
+    {
+      "name": "Aksyon Radyo 97.1 FM Iloilo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://in-icecast.eradioportal.com:8443/akyson_iloilo"
+    },
+    {
+      "name": "Aksyon Radyo 99.5 FM Laoag",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://arlaoag.radioca.st/stream.mp3"
+    },
+    {
+      "name": "AllHitz24",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.allhitz24.com/64"
+    },
+    {
+      "name": "AMC Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.amfm.link:8030/amcradio"
+    },
+    {
+      "name": "Anchor Radio Davao",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://icecast.theanchor.app/bbbc"
+    },
+    {
+      "name": "Angel Radyo Valencia",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cd.radyoph.com:8020/angelradyo"
+    },
+    {
+      "name": "AXR Manila",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILAAAC.aac"
+    },
+    {
+      "name": "B 107.9 Tacloban",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://streamnavs.net:8147/live"
+    },
+    {
+      "name": "Banna-tirat Internet Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/ywptdatt40duv.mp3"
+    },
+    {
+      "name": "Basco Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/bv184k80fs8uv.mp3"
+    },
+    {
+      "name": "Beam FM 92.5",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream3.hornhost.com/8052/stream"
+    },
+    {
+      "name": "Bespren Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://streamnavs.net:8089/live"
+    },
+    {
+      "name": "BF 99.5 FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/yf7x47v1tfeuv.mp3"
+    },
+    {
+      "name": "DZBR 531 AM Bible Radio",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.radio.co/se9de95c10/listen"
+    },
+    {
+      "name": "Bionic Online Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.radyoph.com:8000/bionic"
+    },
+    {
+      "name": "Bluebird Radio 100.1 FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/dvfqkzzmxs8uv.mp3"
+    },
+    {
+      "name": "Bombo Radyo 630 AM Butuan",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/6gr5c710xy5tv.mp3"
+    },
+    {
+      "name": "Bombo Radyo 630 AM Cebu",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/cc4d8bbnz9duv.mp3"
+    },
+    {
+      "name": "Bombo Radyo 756 AM Legazpi",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/u0uugg5mz9duv.mp3"
+    },
+    {
+      "name": "Bombo Radyo 657 AM Malaybalay",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/1etogiwypoztv.mp3"
+    },
+    {
+      "name": "Brigada News FM Agusan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://trentostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Bacolod",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://bacolodstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Batangas",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://batangasstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Bogo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://bogostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Butuan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://butuanstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Cagayan de Oro",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cagayanstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cebustream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Cotabato",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cotabatostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Daet",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://daetstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Davao",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://davaostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM General Santos",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://gensanstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Iligan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://iliganstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Kalibo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://kalibostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Koronadal",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://koronadalstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Lebak",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://lebakstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Lucena",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://lucenastream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Manila",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://makatistream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Naga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://nagastream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Olongapo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://olongapostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Oroquieta",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://oroquietastream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Pagadian",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://pagadianstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Pampanga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://pampangastream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Puerto Princesa",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://puertopalawanstream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Toledo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://toledostream.brigadanews.ph/"
+    },
+    {
+      "name": "Brigada News FM Zamboanga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://zamboangastream.brigadanews.ph/"
+    },
+    {
+      "name": "Christmas Radio Philippines",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://us1.amfmph.com/ssl/christmasradio?1641738050672=&mp=/stream"
+    },
+    {
+      "name": "Cyber Pinoy Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://securestreams.autopo.st:1215/stream/1/"
+    },
+    {
+      "name": "Downtown Eclipse",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/81sjev0tizduv.mp3"
+    },
+    {
+      "name": "Dream Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://razzrdfx.com/listen/dream_radio/radio.mp3"
+    },
+    {
+      "name": "Dream Radio Tacloban",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://streamnavs.net:8133/live"
+    },
+    {
+      "name": "DWHQ 98.1 FM ARFM Baco Oriental Mindoro",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/bcxtfmdce19uv.mp3"
+    },
+    {
+      "name": "DWIZ 999 FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://hrcebu.radioca.st/stream.mp3"
+    },
+    {
+      "name": "DWIZ 98.7 FM Dagupan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://dagupan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "DWIZ 103.1 FM General Santos",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://hrgensan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "DWNX 828 AM RMN Naga",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/1ytydzphq7zuv.mp3"
+    },
+    {
+      "name": "DWXI 1314 AM El Shaddai",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://in-icecast.eradioportal.com:8443/dwxi-streaming"
+    },
+    {
+      "name": "DXDC 828 AM RMN Davao",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/qrrgyy1hyuatv.mp3"
+    },
+    {
+      "name": "DXGP 89.7 FM Agusan Radio",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://ph.amfm.link:8020/dxgp"
+    },
+    {
+      "name": "DXJL 103.3 FM The New J Cagayan De Oro Misamis Oriental",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://s3.radio.co/s3e33745fb/listen"
+    },
+    {
+      "name": "DXKI 684 AM Strong Radio Cagayan De Oro",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/femnnphrtcltv.mp3"
+    },
+    {
+      "name": "DYAR 92.7 FM Island Radio",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/20mrfn8yw68uv.mp3"
+    },
+    {
+      "name": "DYHP 612 AM RMN Cebu",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://de3.amfmph.com/ssl/rmncebu?1680183125966=&mp=/stream"
+    },
+    {
+      "name": "DYRD 1161 AM",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/ap44gpbrc0hvv.mp3"
+    },
+    {
+      "name": "DZDG 96.7 FM Destiny Radio Tayabas",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/cfrn2oenhljuv.mp3"
+    },
+    {
+      "name": "DZEM 1071 AM INC Radio",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://243529.global.ssl.fastly.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/index.m3u8"
+    },
+    {
+      "name": "DZRH 101.1 FM News Gensan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://dzrhnewsfmgensan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "DZVT 93.7 FM Spirit FM San Jose",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/96kosdvtz6mvv.mp3"
+    },
+    {
+      "name": "Easy Rock Bacolod",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://easyrockbacolod.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Easy Rock Baguio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://easyrockbaguio.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Easy Rock Boracay",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://easyrockboracay.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Easy Rock Cagayan De Oro",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://easyrockcagayan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Easy Rock Iloilo",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://easyrockiloilo.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Energy FM Naga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/klewk28qlqquv.mp3"
+    },
+    {
+      "name": "Filipino Music Central",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/yqkru9yv3yzuv.mp3"
+    },
+    {
+      "name": "Flame Gospel Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/1ruppedsd6quv.mp3"
+    },
+    {
+      "name": "FM Radio Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://free.rcast.net/258788"
+    },
+    {
+      "name": "Green Pasture Christian Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/b4bn55v0r98uv.mp3"
+    },
+    {
+      "name": "Habagat Radio Carmen Surigao del Sur",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/3v7w43y1bceuv.mp3"
+    },
+    {
+      "name": "Hot Hiphop N RnB",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/qrhuqbnm208uv.mp3"
+    },
+    {
+      "name": "iFM 93.9 FM Manila",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://magic.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Jungle Radio Aborlan Palawan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://sound.amfm.link:8020/jungleaborlan"
+    },
+    {
+      "name": "Jungle Radio Puerto Princesa",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://dj.radyoph.com:8020/jungleradio"
+    },
+    {
+      "name": "Kakampi Partido",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/ctyttfz5p06tv.mp3"
+    },
+    {
+      "name": "Kiss FM Tagbilaran",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "http://live.kiss102fmbohol.com:8000/kiss"
+    },
+    {
+      "name": "KJM 94.3 FM Borongan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.amfm.link:8010/kjm"
+    },
+    {
+      "name": "LiPS 106 FM",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/f3eha5qum7zuv.mp3"
+    },
+    {
+      "name": "Love Radio Bacolod",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiobacolod.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Baguio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiobaguio.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Catarman",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://lovecatarman.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Cebu",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiocebu.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Dagupan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiodagupan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Iloilo",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradioiloilo.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Kalibo",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiokalibo.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Koronadal",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://lovekoronadal.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Legazpi",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiolegaspi.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Lucena",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiolucena.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Naga",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradionaga.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Tacloban",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://lovetacloban.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Tarlac",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://loveradiotarlac.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Love Radio Zamboanga",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://lovezamboanga.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Magic 89.9 FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/sh37pvfd938uv.mp3"
+    },
+    {
+      "name": "Magnum Radyo 99.9 FM Cagayan De Oro",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "http://www.magnum999.com/radio/live.mp3"
+    },
+    {
+      "name": "Manila Wave Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://a13.asurahosting.com/listen/manila_wave_radio_2/radio.mp3"
+    },
+    {
+      "name": "Monster BT 105.9 FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://in-icecast.eradioportal.com:8443/rxcebu"
+    },
+    {
+      "name": "Monster BT 99.5 FM Davao",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://in-icecast.eradioportal.com:8443/monsterrx_davao_"
+    },
+    {
+      "name": "MY FM 100.7 Bataan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/ra87k5qk7yzuv.mp3"
+    },
+    {
+      "name": "MY96.5 FM Pinamungajan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/4udquzh4t8quv.mp3"
+    },
+    {
+      "name": "MYX P-pop Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXPPOPAAC.aac"
+    },
+    {
+      "name": "MYX Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXFMAAC.aac"
+    },
+    {
+      "name": "NewsRadio Bulletin Southern Luzon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://eu8.fastcast4u.com/proxy/nixifof473?mp=/citrasluzon&type=.aac"
+    },
+    {
+      "name": "OFW Radio Basud",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://s74.radiolize.com:8020/radio.mp3"
+    },
+    {
+      "name": "OK FM Legazpi",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/bqqqtxviwvfuv.mp3"
+    },
+    {
+      "name": "OK FM Sorsogon",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://s20.reliastream.com:8178/stream"
+    },
+    {
+      "name": "One Radio 91.3 Tabaco",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/w46szhpxmv8uv.mp3"
+    },
+    {
+      "name": "One Radio Christmas",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/28yezzkazy8uv.mp3"
+    },
+    {
+      "name": "Pagbana-ag Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/adqlxubrtshvv.mp3"
+    },
+    {
+      "name": "Palawan Wave FM 91.9",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://xcite.radyoph.com:8020/dzrt"
+    },
+    {
+      "name": "PH Lite",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.amfm.link:8000/phlite"
+    },
+    {
+      "name": "Pines FM Bataraza",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://xcite.radyoph.com:8010/pinesfm"
+    },
+    {
+      "name": "Pinoy OFW FM",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://n07.radiojar.com/4dy80ayp5gruv"
+    },
+    {
+      "name": "Pinoy Rap Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/0cdp55nqam0uv.mp3"
+    },
+    {
+      "name": "Pop Radio Philippines",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://popvip-gecko.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Power FM Naga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/n4q1s7r4qzzuv.mp3"
+    },
+    {
+      "name": "PRIMAP 108 FM",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/5uauxeakva0uv.mp3"
+    },
+    {
+      "name": "Radio Maria Philippines",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "http://dreamsiteradiocp2.com:8052/stream.mp3"
+    },
+    {
+      "name": "Radyo Bandera Olongapo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://sound.amfm.link:8030/banderaolongapo"
+    },
+    {
+      "name": "DZLB 1116 AM Radyo UP Los Banos",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://stream.zeno.fm/sbbuij2ots3uv.mp3"
+    },
+    {
+      "name": "Radyo Kabayan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://rkabayan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Radyo Kaibigan Valencia",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://us2.amfmph.com/ssl/vegiemaxplus?mp=/high"
+    },
+    {
+      "name": "Radyo Kidlat Samelco Uno Calbayog",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/t3bvque9fc9uv.mp3"
+    },
+    {
+      "name": "Radyo Natin Agoo",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://pinas.radyonatinfm.com:8000/agoo"
+    },
+    {
+      "name": "Radyo Natin Alaminos",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://pinas.radyonatinfm.com:8010/alaminos"
+    },
+    {
+      "name": "Radyo Natin Argao",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://sound.radyonatinfm.com:8030/argao"
+    },
+    {
+      "name": "Radyo Natin Atimonan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://dj.radyonatinfm.com:8020/atimonan"
+    },
+    {
+      "name": "Radyo Natin Baao",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://xcite.radyonatinfm.com:8030/baao"
+    },
+    {
+      "name": "Radyo Natin Bais",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://sound.amfm.link:8000/bais"
+    },
+    {
+      "name": "Radyo Natin Baler",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://wave.radyonatinfm.com:8010/baler"
+    },
+    {
+      "name": "Radyo Natin Banaue",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://air.radyonatinfm.com:8000/banaue"
+    },
+    {
+      "name": "Radyo Natin Bangued",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://tx.radyonatinfm.com:8030/bangued"
+    },
+    {
+      "name": "Radyo Natin Bayombong",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://web.radyonatinfm.com:8030/bayombong"
+    },
+    {
+      "name": "Radyo Natin Bislig",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://audio.radyonatinfm.com:8020/bislig"
+    },
+    {
+      "name": "Radyo Natin Boac",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://phils.radyonatinfm.com:8010/boac"
+    },
+    {
+      "name": "Radyo Natin Bongabong",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://sound.radyonatinfm.com:8010/bongabong"
+    },
+    {
+      "name": "Radyo Natin Bonpen",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.radyonatinfm.com:8020/bonpen"
+    },
+    {
+      "name": "Radyo Natin Borongan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://fx.radyonatinfm.com:8020/borongan"
+    },
+    {
+      "name": "Radyo Natin Brooke's Point",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://xcite.radyonatinfm.com:8010/brookespoint"
+    },
+    {
+      "name": "Radyo Natin Bugasong",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://net.radyonatinfm.com:8020/bugasong"
+    },
+    {
+      "name": "Radyo Natin Buhi",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://ph.radyonatinfm.com:8030/buhi"
+    },
+    {
+      "name": "Radyo Natin Cagayan De Oro",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://wave.radyonatinfm.com:8030/cdo"
+    },
+    {
+      "name": "Radyo Natin Calapan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://sound.radyonatinfm.com:8000/calapan"
+    },
+    {
+      "name": "Radyo Natin Calauag",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://dj.radyonatinfm.com:8000/calauag"
+    },
+    {
+      "name": "Radyo Natin Calbayog",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://net.radyonatinfm.com:8010/calbayog"
+    },
+    {
+      "name": "Radyo Natin Candon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.radyonatinfm.com:8030/candon"
+    },
+    {
+      "name": "Radyo Natin Coron",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://xcite.radyonatinfm.com:8000/coron"
+    },
+    {
+      "name": "Radyo Natin Cotabato",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://amp.radyonatinfm.com:8000/cotabato"
+    },
+    {
+      "name": "Radyo Natin Daanbantayan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://ph.radyonatinfm.com:8020/daanbantayan"
+    },
+    {
+      "name": "Radyo Natin Dipolog",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://mbc.radyonatinfm.com:8010/dipolog"
+    },
+    {
+      "name": "Radyo Natin Guiuan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://air.radyonatinfm.com:8030/guiuan"
+    },
+    {
+      "name": "Radyo Natin Gumaca",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://cd.radyonatinfm.com:8000/gumaca"
+    },
+    {
+      "name": "Radyo Natin Hamtic",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://link.radyonatinfm.com:8000/hamtic"
+    },
+    {
+      "name": "Radyo Natin Iba",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://phils.radyonatinfm.com:8000/iba"
+    },
+    {
+      "name": "Radyo Natin Infanta",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://cd.radyonatinfm.com:8010/infanta"
+    },
+    {
+      "name": "Radyo Natin Iriga",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://mbc.radyonatinfm.com:8030/iriga"
+    },
+    {
+      "name": "Radyo Natin Isulan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://amp.radyonatinfm.com:8010/isulan"
+    },
+    {
+      "name": "Radyo Natin Jagna",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.radyonatinfm.com:8030/jagna"
+    },
+    {
+      "name": "Radyo Natin Kiamba",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://hifi.radyonatinfm.com:8030/kiamba"
+    },
+    {
+      "name": "Radyo Natin Laguna",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://wave.radyonatinfm.com:8020/laguna"
+    },
+    {
+      "name": "Radyo Natin Laoang",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.radyonatinfm.com:8000/laoang"
+    },
+    {
+      "name": "Radyo Natin Lebak",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://hifi.radyonatinfm.com:8000/lebak"
+    },
+    {
+      "name": "Radyo Natin Lemery",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://xcite.radyonatinfm.com:8020/lemery"
+    },
+    {
+      "name": "Radyo Natin Looc",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://audio.radyonatinfm.com:8030/looc"
+    },
+    {
+      "name": "Radyo Natin Lucban",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://link.radyonatinfm.com:8010/lucban"
+    },
+    {
+      "name": "Radyo Natin Lupon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://link.radyonatinfm.com:8030/lupon"
+    },
+    {
+      "name": "Radyo Natin Madridejos",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://tx.radyonatinfm.com:8010/madridejos"
+    },
+    {
+      "name": "Radyo Natin Malita",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://link.radyonatinfm.com:8020/malita"
+    },
+    {
+      "name": "Radyo Natin Maramag",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://air.radyonatinfm.com:8010/maramag"
+    },
+    {
+      "name": "Radyo Natin Margosatubig",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://pinas.radyonatinfm.com:8030/margosatubig"
+    },
+    {
+      "name": "Radyo Natin Masbate",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://net.radyonatinfm.com:8030/masbate"
+    },
+    {
+      "name": "Radyo Natin Mati",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.radyonatinfm.com:8010/mati"
+    },
+    {
+      "name": "Radyo Natin Moalboal",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://fx.radyonatinfm.com:8030/moalboal"
+    },
+    {
+      "name": "Radyo Natin Nabunturan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://web.radyonatinfm.com:8020/nabunturan"
+    },
+    {
+      "name": "Radyo Natin Naga",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://web.radyonatinfm.com:8010/naga"
+    },
+    {
+      "name": "Radyo Natin Nationwide (Mindanao)",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://mindanao.radyonatinfm.com:8000/stream"
+    },
+    {
+      "name": "Radyo Natin Nationwide (Visayas)",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://visayas.radyonatinfm.com:8000/stream"
+    },
+    {
+      "name": "Radyo Natin Naval",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://dj.radyonatinfm.com:8010/naval"
+    },
+    {
+      "name": "Radyo Natin Odiongan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://ph.radyonatinfm.com:8010/odiongan"
+    },
+    {
+      "name": "Radyo Natin Ormoc",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://fx.radyonatinfm.com:8000/ormoc"
+    },
+    {
+      "name": "Radyo Natin Padre Garcia",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://amp.radyonatinfm.com:8030/padregarcia"
+    },
+    {
+      "name": "Radyo Natin Pagadian",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://dj.radyonatinfm.com:8030/pagadian"
+    },
+    {
+      "name": "Radyo Natin Paracale",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://mbc.radyonatinfm.com:8000/paracale"
+    },
+    {
+      "name": "Radyo Natin Pilar",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://mbc.radyonatinfm.com:8020/pilar"
+    },
+    {
+      "name": "Radyo Natin Pinamalayan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://sound.radyonatinfm.com:8020/pinamalayan"
+    },
+    {
+      "name": "Radyo Natin Pinamungajan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://audio.radyonatinfm.com:8010/pinamungajan"
+    },
+    {
+      "name": "Radyo Natin Roxas",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://hifi.radyonatinfm.com:8020/roxas"
+    },
+    {
+      "name": "Radyo Natin Roxas Palawan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://cd.radyonatinfm.com:8020/roxaspalawan"
+    },
+    {
+      "name": "Radyo Natin Sablayan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://air.radyonatinfm.com:8020/sablayan"
+    },
+    {
+      "name": "Radyo Natin Sagay",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://cd.radyonatinfm.com:8030/sagay"
+    },
+    {
+      "name": "Radyo Natin San Jose",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://hifi.radyonatinfm.com:8010/sja"
+    },
+    {
+      "name": "Radyo Natin San Jose",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://phils.radyonatinfm.com:8020/sanjose"
+    },
+    {
+      "name": "Radyo Natin San Jose Occidental Mindoro",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://fx.radyonatinfm.com:8010/sanjose"
+    },
+    {
+      "name": "Radyo Natin Santiago",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://pinas.radyonatinfm.com:8020/santiago"
+    },
+    {
+      "name": "Radyo Natin Sipalay",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://tx.radyonatinfm.com:8020/sipalay"
+    },
+    {
+      "name": "Radyo Natin Sorsogon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.radyonatinfm.com:8010/sorsogon"
+    },
+    {
+      "name": "Radyo Natin Sta. Cruz",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://audio.radyonatinfm.com:8000/stacruz"
+    },
+    {
+      "name": "Radyo Natin Sto. Tomas",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.radyonatinfm.com:8000/santotomas"
+    },
+    {
+      "name": "Radyo Natin Tabuk",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://net.radyonatinfm.com:8000/tabuk"
+    },
+    {
+      "name": "Radyo Natin Tacurong",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://amp.radyonatinfm.com:8020/tacurong"
+    },
+    {
+      "name": "Radyo Natin Tagum",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://ph.radyonatinfm.com:8000/tagum"
+    },
+    {
+      "name": "Radyo Natin Tiwi",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://io.radyonatinfm.com:8020/tiwi"
+    },
+    {
+      "name": "Radyo Natin Victoria",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://wave.radyonatinfm.com:8000/victoria"
+    },
+    {
+      "name": "Radyo Natin Virac",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://tx.radyonatinfm.com:8000/virac"
+    },
+    {
+      "name": "Radyo Ni Sano Guindulman",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://cd.radyoph.com:8000/rns128"
+    },
+    {
+      "name": "Radyo Sincero Valencia",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://io.radyoph.com:8010/sincero"
+    },
+    {
+      "name": "Rage Music Philippines",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/q1n2wyfs7x8uv.mp3"
+    },
+    {
+      "name": "RAUX HTZ FM Southern Luzon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://usa8.fastcast4u.com/proxy/segad30605?mp=/htz_sluzon&type=.aac"
+    },
+    {
+      "name": "SDTV Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
+    },
+    {
+      "name": "Spirit FM Gumaca",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/ybdnwr4ws4zuv.mp3"
+    },
+    {
+      "name": "Spirit FM Lucena",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/fp689r8sty8uv.mp3"
+    },
+    {
+      "name": "Star FM 102.3 Baguio",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/sa27v4d29heuv.mp3"
+    },
+    {
+      "name": "StarFlame 107.5 FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/621d85k10vduv.mp3"
+    },
+    {
+      "name": "Starr Radio Tayasan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://prox.radyoph.com/s/06853d62108306510d16d3cd6e98d254"
+    },
+    {
+      "name": "Sweet 97.7 FM Santiago",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/ja3azzofj40tv.mp3"
+    },
+    {
+      "name": "The Bay FM 96.9 San Jose",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/7wz9z7fg308uv.mp3"
+    },
+    {
+      "name": "The Bay FM 99.3 Mamburao",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/1az5pg5gk98uv.mp3"
+    },
+    {
+      "name": "Thunder News Radio Narra",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://ph.amfm.link:8010/thunder"
+    },
+    {
+      "name": "TMC 105.1 FM Tops FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://s2.radio.co/s8d8aade20/listen"
+    },
+    {
+      "name": "Tunog Pinoy Power FM",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://streamnavs.net:8143/live"
+    },
+    {
+      "name": "UST Legazpi Radio DWAQ 107.5 FM",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/ffujhplczsstv.mp3"
+    },
+    {
+      "name": "Vibe Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/4k8qf4raqy8uv.mp3"
+    },
+    {
+      "name": "Voice Radio Catarman",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/gbfhjvrljhxuv.mp3"
+    },
+    {
+      "name": "Win Radio 100.3 Cagayan De Oro",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/jcd2soldm9buv.mp3"
+    },
+    {
+      "name": "Win Radio Cebu 107.5",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/dx1k9na7nznvv.mp3"
+    },
+    {
+      "name": "Win Radio 97.1 FM Davao",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/1noxhem5qpkuv.mp3"
+    },
+    {
+      "name": "Win Radio 102.3 FM Naga",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/sxzgyqjtehntv.mp3"
+    },
+    {
+      "name": "Win Radio 96.3 FM Valencia",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.zeno.fm/vzrt2visttbvv.mp3"
+    },
+    {
+      "name": "wRock 96.1 FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://wrockceb-iradioph.radioca.st/stream.mp3"
+    },
+    {
+      "name": "XFM Bayugan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://free.rcast.net/238973"
+    },
+    {
+      "name": "Yes FM Boracay",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://yesfmboracay.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Yes FM Cebu",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://yesfmcebu.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Yes FM Dagupan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://yesfmdagupan.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Yes FM Dumaguete",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://yesfmdumaguete.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Yes FM Valencia",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://yesfmvalencia.radioca.st/stream.mp3"
+    },
+    {
+      "name": "Radyo Veritas 846 AM",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://in-icecast.eradioportal.com:8443/radyo-veritas-846"
+    },
+    {
+      "name": "Big Radio Tagbilaran",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://bigsoundfm.com/proxy/dyva/stream"
+    },
+    {
+      "name": "Aksyon Radyo Catarman",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://arcatarman.radioca.st/stream"
+    },
+    {
+      "name": "Aksyon Radyo Catbalogan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://arcatbalogan.radioca.st/stream"
+    },
+    {
+      "name": "Aksyon Radyo Pangasinan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://arpangasinan.radioca.st/stream"
+    },
+    {
+      "name": "97.5 dwOK FM Olongapo",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://servidor22-5.brlogic.com:7014/live"
+    },
+    {
+      "name": "AWR Hope Radio Davao",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://stream.dxbh.net/hopedxma"
+    },
+    {
+      "name": "DYAB 612 AM Kaboses Radio Tacloban",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://streamnavs.net:8147/stream"
+    },
+    {
+      "name": "Golden Tiger Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "http://a2.asurahosting.com:6980/radio.mp3"
+    },
+    {
+      "name": "Halo Halo Radio Davao",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://prox.radyoph.com/s/314783353368321f737231224d35d48c"
+    },
+    {
+      "name": "K5 News FM Palawan",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://prox.radyoph.com/s/793cc15adff2fcd541b65150fb310738"
+    },
+    {
+      "name": "OPM Kaibigan",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://prox.radyoph.com/s/69b350c35195ba075850b6a6e2bbf7c8"
+    },
+    {
+      "name": "Radyo Bagting Pagadian",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://prox.radyoph.com/s/a6d7cf811def928e9ad4ef775add1c6d"
+    },
+    {
+      "name": "WOW Radio",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://ph.amfm.link:8030/wowradio"
+    },
+    {
+      "name": "Aksyon Radyo La Union",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://arlaunion.radioca.st/stream"
+    },
+    {
+      "name": "GV 99.9 FM Batangas",
+      "logoLocal": "rd_",
+      "category": "FM",
+      "url": "https://gvstream.tail160f79.ts.net/stream"
+    },
+    {
+      "name": "Radyo Oragon",
+      "logoLocal": "rd_",
+      "category": "Digital",
+      "url": "https://streamnavs.net:8181/live"
+    },
+    {
+      "name": "DXKO 1368 AM Cagayan de Oro",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://dxko-rpnradio.radioca.st/stream"
+    },
+    {
+      "name": "DZBS 1368 AM Baguio",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://dzbs-rpnradio.radioca.st/stream"
+    },
+    {
+      "name": "DZRL 639 AM Batac",
+      "logoLocal": "rd_",
+      "category": "AM",
+      "url": "https://dzrl-rpnradio.radioca.st/stream"
+    }
   ]
 }
