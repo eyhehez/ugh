@@ -9,7 +9,7 @@
   "channels": [
     {
       "name": "DZMM Radyo Patrol 630",
-      "logo": "https://i.ibb.co/fVPrHT48/dzmm.webp",
+      "logoLocal": "rd_",
       "category": "AM",
       "url": "http://209.126.124.126:8852/stream"
     },
@@ -21,45 +21,45 @@
     },
     {
       "name": "MOR Entertainment",
-      "logo": "https://i.ibb.co/rKgZNxch/MOR-Entertainment-logo.png",
+      "logoLocal": "rd_",
       "category": "Digital",
       "url": "https://stream.zeno.fm/0ha8ftewqp8uv.mp3"
     },
     {
       "name": "Barangay LS 97.1",
-      "logo": "https://i.ibb.co/RG6wTDTJ/Barangay-LS-97-1.png",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://stream.zeno.fm/dphe9050afhvv"
     },
     {
       "name": "91.5 Win Radio Manila",
-      "logo": "https://i.ibb.co/FpyXJ9R/Winradiomanila.jpg",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://stream.zeno.fm/2ss1hgnu6hhvv.mp3"
     },
     {
       "name": "101.1 Yes! FM",
-      "logo": "https://i.ibb.co/N8mJV8t/NGOHOa-Hqs-D9a-T4t-Ay-Niek.png",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3"
     },
     {
       "name": "90.7 Love Radio",
-      "logo": "https://i.ibb.co/nMSy8Q19/Love-Radio-Philippine-radio-station-logo.png",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3"
     },
     
     {
       "name": "96.3 Easy Rock",
-      "logo": "https://i.ibb.co/TzWN85R/New-modernized-logo-of-96-3-Easy-Rock-Vectorized-via-Ink-Scape-svg.png",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
     },
     
     {
       "name": "97.9 Home Radio",
-      "logo": "https://i.ibb.co/bMQf8KvM/979-Home-Radio-2017.png",
+      "logoLocal": "rd_979_home_radio",
       "category": "FM",
       "dateAdded": "2026-05-30",
       "url": "http://142.44.212.114:9071/stream"
@@ -67,7 +67,7 @@
     
     {
       "name": "DZRH 666",
-      "logo": "https://i.ibb.co/Fb5Yhv9Z/DZRH-logo-2021.png",
+      "logoLocal": "rd_",
       "category": "AM",
       "dateUpdated": "2026-05-30",
       "url": "https://azura.dzrh.com.ph/listen/dzrh_manila/radio.mp3"
@@ -75,42 +75,42 @@
     
     {
       "name": "106.7 Energy FM",
-      "logo": "https://i.ibb.co/G15bWZY/Energy-FM-logo.png",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila"
     },
     
     {
       "name": "102.7 Star FM Manila",
-      "logoLocal": "",
+      "logoLocal": "rd_102_star_fm",
       "category": "FM",
       "url": "https://stream.zeno.fm/69b1kf7q0y5tv"
     },
     
     {
       "name": "Tee Radio",
-      "logoLocal": "",
+      "logoLocal": "rd_",
       "category": "Digital",
       "url": "https://stream.zeno.fm/r19q0f1hbm0uv"
     },
     
     {
       "name": "Monster RX93.1",
-      "logoLocal": "",
+      "logoLocal": "rd_monster_rx931",
       "category": "FM",
       "url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
     },
     
     {
       "name": "DWWW 774",
-      "logoLocal": "",
+      "logoLocal": "rd_",
       "category": "FM",
       "url": "https://stream.zeno.fm/8v95b64qbxquv"
     },
 
     {
       "name": " 99.1 Spirit FM Batangas",
-      "logo": "",
+      "logoLocal": "",
       "category": "FM",
       "dateAdded": "2026-05-30",
       "url": "https://stream-284.zeno.fm/zb2c835zahruv"
