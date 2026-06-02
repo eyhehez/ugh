@@ -160,14 +160,14 @@
       "referer": "https://www.wish1075.com"
     },
 
-  {
-    "name": "105.9 True FM",
-    "logoLocal": "rd_1059_true_fm",
-    "category": "FM",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd",
-    "drm": {
-      "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
+    {
+      "name": "105.9 True FM",
+      "logoLocal": "rd_1059_true_fm",
+      "category": "FM",
+      "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd",
+      "drm": {
+        "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
+      }
     }
-  }
   ]
 }
