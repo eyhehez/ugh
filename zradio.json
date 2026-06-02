@@ -56,7 +56,7 @@
     
     {
       "name": "96.3 Easy Rock",
-      "logoLocal": "rd_963_earsy_rock",
+      "logoLocal": "rd_963_easy_rock",
       "category": "FM",
       "url": "https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3"
     },
@@ -129,7 +129,7 @@
 
     {
       "name": "Magic 89.9 FM",
-      "logoLocal": "rd_magci_899",
+      "logoLocal": "rd_magic_899",
       "category": "FM",
       "url": "https://stream.zeno.fm/sh37pvfd938uv.mp3"
     },
@@ -172,6 +172,90 @@
       "drm": {
         "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
       }
+    },
+
+    {
+      "name": "702 DZAS",
+      "logoLocal": "rd_dzas_720",
+      "category": "AM",
+      "url": "https://stream.radio.co/s14821250a/listen"
+    },
+
+    {
+      "name": "Radyo Pilipinas 738",
+      "logoLocal": "rd_radyo_pilipinas_738",
+      "category": "AM",
+      "url": "http://58.97.187.52:5001/rp1"
+    },
+
+    {
+      "name": "DZRJ Radyo Bandido",
+      "logoLocal": "rd_dzrj_810",
+      "category": "AM",
+      "url": "http://111.125.87.226:8000/dzrjam"
+    },
+
+    {
+      "name": "Radyo Veritas 846",
+      "logoLocal": "rd_veritas_846",
+      "category": "AM",
+      "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846"
+    },
+
+    {
+      "name": "FM Radio 92.3",
+      "logoLocal": "rd_fm_radio_923",
+      "category": "FM",
+      "url": "https://us1.amfmph.com:8872/stream"
+    },
+
+    {
+      "name": "Mellow 94.7 BFM",
+      "logoLocal": "rd_mellow_947",
+      "category": "FM",
+      "url": "https://streamer.radio.co/sec36cd5f1/listen"
+    },
+
+    {
+      "name": "Eagle FM 95.5",
+      "logoLocal": "rd_eagle_fm_955",
+      "category": "FM",
+      "url": "http://n09.radiojar.com/yus0r2bghd3vv"
+    },
+
+    {
+      "name": "XFM 99.5",
+      "logoLocal": "rd_xfm_995",
+      "category": "FM",
+      "url": "http://62.138.18.102:8753/stream"
+    },
+
+    {
+      "name": "RJ 100.3",
+      "logoLocal": "rd_rjfm_1003",
+      "category": "FM",
+      "url": "http://111.125.87.226:8000/rjfm"
+    },
+
+    {
+      "name": "103.5 All Radio",
+      "logoLocal": "rd_allradio_1035",
+      "category": "FM",
+      "url": "http://209.126.124.126:8872/stream"
+    },
+
+    {
+      "name": "104.3 Capital FM",
+      "logoLocal": "rd_the_capital_1043",
+      "category": "FM",
+      "url": "http://58.97.187.52:5007/fm2"
+    },
+
+    {
+      "name": "105.1 Brigada News FM",
+      "logoLocal": "rd_1051_brigada",
+      "category": "FM",
+      "url": "http://18.141.67.248:8068/stream/1/"
     }
   ]
 }
