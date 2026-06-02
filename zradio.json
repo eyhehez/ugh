@@ -206,7 +206,7 @@
       "name": "FM Radio 92.3",
       "logoLocal": "rd_fm_radio_923",
       "category": "FM",
-      "url": "https://us1.amfmph.com:8872/stream"
+      "url": "http://209.126.124.126:8872/stream"
     },
 
     {
@@ -235,13 +235,6 @@
       "logoLocal": "rd_rjfm_1003",
       "category": "FM",
       "url": "http://111.125.87.226:8000/rjfm"
-    },
-
-    {
-      "name": "103.5 All Radio",
-      "logoLocal": "rd_allradio_1035",
-      "category": "FM",
-      "url": "http://209.126.124.126:8872/stream"
     },
 
     {
