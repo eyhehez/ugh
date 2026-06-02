@@ -149,6 +149,15 @@
       "logoLocal": "rd_987_dzfe_fm",
       "category": "FM",
       "url": "http://ph-icecast-win.eradioportal.com:8000/febc_dzfe"
+    },
+
+    {
+      "name": "Wish 107.5",
+      "logoLocal": "rd_wish_1075",
+      "category": "FM",
+      "url": "https://radio.wish1075.com/web/stream/wish.m3u8",
+      "origin": "https://www.wish1075.com",
+      "referer": "https://www.wish1075.com"
     }
   ]
 }
