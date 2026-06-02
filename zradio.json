@@ -1,9 +1,9 @@
 {
   "top5": [
     "90.7 Love Radio",
-    "MOR Entertainment",
-    "DZMM Radyo Patrol 630",
     "106.7 Energy FM",
+    "DZMM Radyo Patrol 630",
+    "Wish 107.5",
     "DZRH 666"
   ],
   "channels": [
@@ -249,6 +249,111 @@
       "logoLocal": "rd_1051_brigada",
       "category": "FM",
       "url": "http://18.141.67.248:8068/stream/1/"
+    },
+
+    {
+      "name": "DWIZ 882 AM",
+      "logoLocal": "rd_dwiz_882",
+      "category": "AM",
+      "url": "http://142.44.212.114:9079/stream"
+    },
+
+    {
+      "name": "Lite Rock Manila",
+      "logoLocal": "rd_lite_rock_manila",
+      "category": "FM",
+      "url": "http://us1.streamingpulse.com:7544/stream"
+    },
+
+    {
+      "name": "MYX P-pop Radio",
+      "logoLocal": "rd_myx_ppop_radio",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXPPOPAAC.aac"
+    },
+
+    {
+      "name": "MYX Radio",
+      "logoLocal": "rd_myx_radio",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MYXFMAAC.aac"
+    },
+
+    {
+      "name": "AllHitz24",
+      "logoLocal": "rd_allhitz24",
+      "category": "Digital",
+      "url": "https://stream.allhitz24.com/64"
+    },
+    
+    {
+      "name": "AXR Manila",
+      "logoLocal": "rd_axr_manila",
+      "category": "Digital",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILAAAC.aac"
+    },
+
+    {
+      "name": "Bespren Radio",
+      "logoLocal": "rd_bespren_radio",
+      "category": "Digital",
+      "url": "https://streamnavs.net:8089/live"
+    },
+
+    {
+      "name": "Cyber Pinoy Radio",
+      "logoLocal": "rd_cyber_pinoy_radio",
+      "category": "Digital",
+      "url": "https://securestreams.autopo.st:1215/stream/1/"
+    },
+
+    {
+      "name": "One Radio Christmas",
+      "logoLocal": "rd_one_radio_christmas",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/28yezzkazy8uv.mp3"
+    },
+
+    {
+      "name": "PH Lite",
+      "logoLocal": "rd_ph_lite",
+      "category": "Digital",
+      "url": "https://stream.amfm.link:8000/phlite"
+    },
+
+    {
+      "name": "Pinoy Rap Radio",
+      "logoLocal": "rd_pinoy_rap_radio",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/0cdp55nqam0uv.mp3"
+    },
+
+    {
+      "name": "Radio Maria Philippines",
+      "logoLocal": "rd_radio_maria_philippines",
+      "category": "Digital",
+      "url": "http://dreamsiteradiocp2.com:8052/stream.mp3"
+    },
+
+    {
+      "name": "Flame Gospel Radio",
+      "logoLocal": "rd_flame_gospel_radio",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/1ruppedsd6quv.mp3"
+    },
+
+    {
+      "name": "Rage Music Philippines",
+      "logoLocal": "rd_rage_music_philippines",
+      "category": "Digital",
+      "url": "https://stream.zeno.fm/q1n2wyfs7x8uv.mp3"
+    },
+
+    {
+      "name": "SDTV Radio",
+      "logoLocal": "rd_sdtv_radio",
+      "category": "Digital",
+      "url": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
     }
   ]
 }
