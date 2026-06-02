@@ -96,7 +96,7 @@
     
     {
       "name": "Monster RX93.1",
-      "logoLocal": "rd_monster_rx931",
+      "logoLocal": "rd_monster_rx_931",
       "category": "FM",
       "url": "https://in-icecast.eradioportal.com:8443/monsterrrx"
     },
