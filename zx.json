@@ -1915,19 +1915,6 @@
   },
 
   {
-    "name": "CBeebies",
-    "logoLocal": "ch_cbeebies",
-    "category": "Kids",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd",
-    "drm": {
-      "50c699c444e5f80dacafc4c99667d810": "de6c5feaae5f6963b4b392ddc8b6a778"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-
-  {
     "name": "YTV",
     "logoLocal": "ch_ytv",
     "category": "Kids",
@@ -2437,20 +2424,6 @@
       "http://xxip9.top:8080/live/7NYHqX/589045/46717.m3u8",
       "http://xxip9.top:8080/live/2132135/6953214/46717.m3u8"
     ]
-  },
-
-  {
-    "name": "BBC Lifestyle",
-    "logoLocal": "ch_bbc_lifestyle",
-    "category": "Lifestyle",
-    "dateAdded": "2026-03-23",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd",
-    "drm": {
-      "f429292dc744f284355308561577ac10": "b12e1f894129c517dc8845baaeebec8a"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
   },
 
   {
@@ -3173,22 +3146,6 @@
   },
 
   {
-    "name": "Mono 29",
-    "logoLocal": "ch_mono_29",
-    "category": "International",
-    "dateAdded": "2026-04-27",
-    "streamUrl": "https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8"
-  },
-
-  {
-    "name": "Xing Kong",
-    "logoLocal": "ch_xing_kong",
-    "category": "International",
-    "dateAdded": "2026-05-09",
-    "streamUrl": "http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
     "name": "NET25",
     "logoLocal": "ch_net25",
     "category": "Religious",
@@ -3469,7 +3426,7 @@
 
   {
     "name": "Fox Sports 1",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fs1.webp",
+    "logoLocal": "ch_fs1",
     "category": "Sports",
     "dateAdded": "2026-05-23",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd",
@@ -3480,7 +3437,7 @@
 
   {
     "name": "Fox Sports 2",
-    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_fs2.webp",
+    "logoLocal": "ch_fs2",
     "category": "Sports",
     "dateAdded": "2026-05-23",
     "streamUrl": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
