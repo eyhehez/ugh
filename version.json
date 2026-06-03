@@ -1,7 +1,7 @@
 {
-  "version_code": 8,
-  "version_name": "8.0",
-  "apk_url": "https://gethayahay.vercel.app/Hayahay_v8.apk",
-  "release_notes": "General performance improvements and bug fixes.\n\nThanks for using Hayahay! We're always working on making the app better.",
+  "version_code": 9,
+  "version_name": "9.0",
+  "apk_url": "https://gethayahay.vercel.app/Hayahay_v9.apk",
+  "release_notes": "New: A dedicated section featuring Asian TV series, movies, and anime.\n\nNew: Listen to local radio stations directly within the app.",
   "website_url": "https://gethayahay.vercel.app"
 }
