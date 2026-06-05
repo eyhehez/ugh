@@ -266,17 +266,17 @@
     },
 
     {
-      "name": "MYX P-pop Radio",
-      "logoLocal": "rd_myx_ppop_radio",
-      "category": "Digital",
-      "url": "http://das-edge11-live365-dal03.cdnstream.com/a63316"
-    },
-
-    {
       "name": "MYX Radio",
       "logoLocal": "rd_myx_radio",
       "category": "Digital",
       "url": "http://28093.live.streamtheworld.com:3690/MYXFM_SC"
+    },
+
+    {
+      "name": "MYX P-Pop Radio",
+      "logoLocal": "rd_myx_ppop_radio",
+      "category": "Digital",
+      "url": "https://28093.live.streamtheworld.com/MYXPPOPAAC.aac"
     },
 
     {
