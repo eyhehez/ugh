@@ -27,7 +27,7 @@
     "name": "Kapamilya Online Live",
     "logoLocal": "ch_kapamilya_online_live",
     "category": "Entertainment",
-    "dateAdded": "2026-04-10",
+    "dateUpdated": "2026-06-08",
     "type": "youtube-channel",
     "streamUrl": "@abscbnentertainment"
   },
@@ -36,7 +36,7 @@
     "name": "Kapuso Stream",
     "logoLocal": "ch_kapuso_stream",
     "category": "Entertainment",
-    "dateAdded": "2026-04-10",
+    "dateUpdated": "2026-06-08",
     "type": "youtube-channel",
     "streamUrl": "@gmanetwork"
   },
@@ -2741,7 +2741,7 @@
     "name": "DZMM Teleradyo Live",
     "logoLocal": "ch_dzmm_teleradyo",
     "category": "News",
-    "dateAdded": "2026-05-04",
+    "dateUpdated": "2026-06-08",,
     "type": "youtube-channel",
     "streamUrl": "@dzmmteleradyo_mspc"
   },
