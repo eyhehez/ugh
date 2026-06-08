@@ -273,13 +273,6 @@
     },
 
     {
-      "name": "MYX P-Pop Radio",
-      "logoLocal": "rd_myx_ppop_radio",
-      "category": "Digital",
-      "url": "https://28093.live.streamtheworld.com/MYXPPOPAAC.aac"
-    },
-
-    {
       "name": "AllHitz24",
       "logoLocal": "rd_allhitz24",
       "category": "Digital",
@@ -354,6 +347,13 @@
       "logoLocal": "rd_sdtv_radio",
       "category": "Digital",
       "url": "https://usa2.server2028.com/listen/sdtv_radio/radio.mp3"
+    },
+
+    {
+      "name": ".",
+      "logoLocal": "rd_dzmm",
+      "category": "AM",
+      "url": "http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
     }
   ]
 }
