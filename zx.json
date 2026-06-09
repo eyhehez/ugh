@@ -3450,19 +3450,11 @@
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
     "category": "Sports",
-    "dateAdded": "2026-05-04",
-    "streamUrl": "http://xxip9.top:8080/live/MpZcA6/367825/53704.m3u8",
-    "standbyUrls": [
-      "http://xxip9.top:8080/live/2132135/6953214/53704.m3u8",
-      "http://xxip9.top:8080/live/9fqCde/741589/53704.m3u8",
-      "http://xxip9.top:8080/live/22475922/79874979/53704.m3u8",
-      "http://xxip9.top:8080/live/37488138/97863234/53704.m3u8",
-      "http://xxip9.top:8080/live/2132135/6953214/53704.m3u8",
-      "http://xxip9.top:8080/live/6QMk9P/387737/53704.m3u8",
-      "http://xxip9.top:8080/live/Q5vuYP/511295/53704.m3u8",
-      "http://xxip9.top:8080/live/7NYHqX/589045/53704.m3u8",
-      "http://xxip9.top:8080/live/nq8FBU/296644/53704.m3u8"
-    ]
+    "dateUpdated": "2026-06-09",
+    "streamUrl": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
+    "drm": {
+      "a839dc5a88ce62da1fcc7ba78161abc2": "30a2f0d4408d38aa5968f08a784c37ad"
+    }
   },
 
   {
