@@ -3138,6 +3138,39 @@
   },
 
   {
+    "name": "GMM25",
+    "logoLocal": "ch_gmm25",
+    "category": "International",
+    "dateUpdated": "2026-06-09",
+    "streamUrl": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
+    "drm": {
+      "ae986b6dd3d84b2bb868c8765c604815": "89bf3c85580249d5bac4d3edaec019ec"
+    }
+  },
+
+  {
+    "name": "Mono 29",
+    "logoLocal": "ch_mono_29",
+    "category": "International",
+    "dateUpdated": "2026-06-09",
+    "streamUrl": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+    "drm": {
+      "96a14b36335645b391bbbb48c424fec7": "e6971b27837a4822832d8215156bb516"
+    }
+  },
+
+  {
+    "name": "One31",
+    "logoLocal": "ch_one31",
+    "category": "International",
+    "dateUpdated": "2026-06-09",
+    "streamUrl": "https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
+    "drm": {
+      "6529c8cd99db4489bd237f616f37124b": "b9d299ba9ea94fd2ac4a77e8966dd91e"
+    }
+  },
+
+  {
     "name": "MBC",
     "logoLocal": "ch_mbc",
     "category": "International",
