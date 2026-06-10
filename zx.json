@@ -1056,8 +1056,8 @@
     "name": "WOWOW Prime",
     "logoLocal": "ch_wowow_prime",
     "category": "Entertainment",
-    "dateAdded": "2026-04-20",
-    "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12"
+    "dateUpdated": "2026-06-11",
+    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls"
   },
 
   {
@@ -1681,8 +1681,8 @@
     "name": "WOWOW Cinema",
     "logoLocal": "ch_wowow_cinema",
     "category": "Movies",
-    "dateAdded": "2026-04-20",
-    "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07"
+    "dateUpdated": "2026-06-11",
+    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls"
   },
     
   {
@@ -3112,8 +3112,16 @@
     "name": "WOWOW Live",
     "logoLocal": "ch_wowow_live",
     "category": "International",
-    "dateAdded": "2026-04-20",
-    "streamUrl": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20"
+    "dateUpdated": "2026-06-11",
+    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls"
+  },
+
+   {
+    "name": "TBS",
+    "logoLocal": "ch_tbs",
+    "category": "International",
+    "dateAdded": "2026-06-11",
+    "streamUrl": "http://akariko.netgenx.site/stream/jp/TBS/stream-output.m3u8?mode=hls"
   },
 
   {
