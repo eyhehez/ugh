@@ -224,14 +224,11 @@
     "name": "TFC",
     "logoLocal": "ch_tfc",
     "category": "Entertainment",
-    "streamUrl": "http://xxip9.top:8080/live/7NYHqX/589045/101823.m3u8",
-    "standbyUrls": [
-      "http://xxip9.top:8080/live/2132135/6953214/101823.m3u8",
-      "http://xxip9.top:8080/live/MpZcA6/367825/101823.m3u8",
-      "http://xxip9.top:8080/live/Q5vuYP/511295/101823.m3u8",
-      "http://xxip9.top:8080/live/6QMk9P/387737/101823.m3u8",
-      "http://xxip9.top:8080/live/nq8FBU/296644/101823.m3u8"
-    ]
+    "dateUpdated": "2026-06-19",
+    "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd",
+    "drm": {
+      "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775"
+    }
   },
 
   {
@@ -3075,8 +3072,11 @@
     "name": "KIX",
     "logoLocal": "ch_kix",
     "category": "International",
-    "dateUpdated": "2026-05-03",
-    "streamUrl": "https://liveh34.vtvprime.vn/hls/KIX/04.m3u8"
+    "dateUpdated": "2026-06-19",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd",
+    "drm": {
+      "c9d4b7a18e2f4d6c9a103f5b7e1c2d88": "7f3139092bf87d8aa51ee40e6294d376"
+    }
   },
 
    {
