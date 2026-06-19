@@ -2543,6 +2543,17 @@
   },
 
   {
+    "name": "BBC Lifestyle",
+    "logoLocal": "ch_bbc_lifestyle",
+    "category": "Lifestyle",
+    "dateUpdated": "2026-06-19",
+    "streamUrl": "https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd",
+    "drm": {
+      "58b949986ed13294bc01b0f330abc527": "23e8c5f2fe202906ac2d6554d9527299"
+    }
+  },
+
+  {
     "name": "Outdoor",
     "logoLocal": "ch_outdoor",
     "category": "Lifestyle",
