@@ -208,6 +208,9 @@
     "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd",
     "drm": {
       "9568cc84e1d944f38eac304517eab6fd": "2c8306892361e3fba18cb142f31ec775"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com"
     }
   },
 
