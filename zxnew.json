@@ -171,16 +171,6 @@
   },
 
   {
-    "name": "Sari-Sari",
-    "logoLocal": "ch_sari_sari",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd",
-    "drm": {
-      "0a7ab3612f434335aa6e895016d8cd2d": "b21654621230ae21714a5cab52daeb9d"
-    }
-  },
-
-  {
     "name": "True TV",
     "logoLocal": "ch_true_tv",
     "category": "Entertainment",
@@ -195,16 +185,6 @@
     "logoLocal": "ch_warner_tv",
     "category": "Entertainment",
     "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
-  },
-
-  {
-    "name": "Wil TV",
-    "logoLocal": "ch_wil_tv",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd",
-    "drm": {
-      "b1773d6f982242cdb0f694546a3db26f": "ae9a90dbea78f564eb98fe817909ec9a"
-    }
   },
 
   {
@@ -2129,14 +2109,6 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
-  },
-
-  {
-    "name": "History TV18",
-    "logoLocal": "ch_history",
-    "category": "Documentary",
-    "dateAdded": "2026-05-09",
-    "streamUrl": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
   },
 
   {
