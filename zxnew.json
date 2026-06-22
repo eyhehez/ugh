@@ -3620,15 +3620,15 @@
     "name": "Sky Sports F1",
     "logoLocal": "ch_sky_sports_f1",
     "category": "Sports",
-    "dateUpdated": "2026-06-09",
-    "streamUrl": "https://vod-cua-orbit3-s1.izzigo.tv/out/u/startover/dash/F1-HD/default.mpd",
-    "drm": {
-      "a839dc5a88ce62da1fcc7ba78161abc2": "30a2f0d4408d38aa5968f08a784c37ad"
+    "dateUpdated": "2026-06-23",
+    "streamUrl": "http://192.129.159.196:8020/watch/9ab7e7d5-fcbb-4b43-98c3-ab2ed37ce335/server1.m3u8",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0&Referer=https://beescore.net/&Origin=https://beescore.net"
     }
   },
 
   {
-    "name": "F1 TV • 1",
+    "name": "F1 TV - 1",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd",
@@ -3638,7 +3638,7 @@
   },
 
   {
-    "name": "F1 TV • 2",
+    "name": "F1 TV - 2",
     "logoLocal": "ch_f1_tv",
     "category": "Sports",
     "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
