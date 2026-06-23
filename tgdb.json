@@ -532,9 +532,23 @@
   },
 
   {
+    "name": "Mantis (사마귀)",
+    "country": "South Korea",
+    "status": "Tagalog-Dubbed",
+    "streamUrl": "https://st83.febspot.com/videos/3227000/3227225/3227225_720p.mp4"
+  },
+
+  {
     "name": "Peninsula (반도)",
     "country": "South Korea",
     "status": "Tagalog-Dubbed",
     "streamUrl": "https://st81.febspot.com/videos/3229000/3229174/3229174_720p.mp4"
+  },
+  
+  {
+    "name": "Insidious: The Last Key",
+    "country": "United States",
+    "status": "Tagalog-Dubbed",
+    "streamUrl": "https://st82.febspot.com/videos/3227000/3227306/3227306_720p.mp4"
   }
 ]
