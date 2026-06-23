@@ -4060,10 +4060,29 @@
     "name": "TNT Sports 2",
     "logoLocal": "ch_tnt_sports_2",
     "category": "Sports",
-    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-    "drm": {
-      "f288380ca4cef9ad3f27a92a08e9bb8b": "9f18d26291d9230833501f7f822f6875"
-    }
+    "dateUpdated": "2026-06-23",
+    "streamUrl": "http://kstv.us:8080/live/G3ZxfW9BUz/1838132923/47851.m3u8",
+    "standbyUrls": [ 
+      "http://kstv.us:8080/live/r39TcYT28q/7310509285/47851.m3u8",
+      "http://kstv.us:8080/live/jsdaniels74/1836272615/47851.m3u8",
+      "http://kstv.us:8080/live/MeZyl1987/9735100903/47851.m3u8",
+      "http://kstv.us:8080/live/5eDrAkMfU2/5154760227/47851.m3u8",
+      "http://kstv.us:8080/live/w2D5PuzVEW/0290724379/47851.m3u8",
+      "http://kstv.us:8080/live/EaJA7HJ40g/3854700321/47851.m3u8",
+      "http://kstv.us:8080/live/4yNXhET6j/4992732590/47851.m3u8",
+      "http://kstv.us:8080/live/jG62F4EcHn/3074729531/47851.m3u8",
+      "http://kstv.us:8080/live/Omart955/3690963957/47851.m3u8",
+      "http://kstv.us:8080/live/4abYcSzugD/7732488130/47851.m3u8",
+      "http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/47851.m3u8",
+      "http://kstv.us:8080/live/hwilliamsw1/0938999941/47851.m3u8",
+      "http://kstv.us:8080/live/6rk80svXKE/44886815569/47851.m3u8",
+      "http://kstv.us:8080/live/1SgEXx8QYg/5979366148/47851.m3u8",
+      "http://kstv.us:8080/live/grijalva28/Infiniti08/47851.m3u8",
+      "http://kstv.us:8080/live/CgqzWqMHQ9/5257748697/47851.m3u8",
+      "http://kstv.us:8080/live/HDH5UREEYP/42660591264/47851.m3u8",
+      "http://kstv.us:8080/live/P6YPNCrcgG/7329973937/47851.m3u8",
+      "http://kstv.us:8080/live/GsPDfRs2H/Grade100/47851.m3u8"
+    ]
   },
 
   {
