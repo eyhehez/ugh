@@ -3309,8 +3309,19 @@
     "name": "BBC One",
     "logoLocal": "ch_bbc_one",
     "category": "International",
-    "dateAdded": "2026-04-26",
-    "streamUrl": "http://41.223.30.230/BBCONE/index.m3u8"
+    "dateUpdated": "2026-06-26",
+    "streamUrl": "http://206.212.244.47:8080/live/7NYHqX/589045/53649.m3u8",
+    "standbyUrls": [
+      "http://206.212.244.47:8080/live/22475922/79874979/53649.m3u8",
+      "http://206.212.244.47:8080/live/QdbRf1/350821/53649.m3u8",
+      "http://206.212.244.47:8080/live/9fqCde/741589/53649.m3u8",
+      "http://206.212.244.47:8080/live/MpZcA6/367825/53649.m3u8",
+      "http://206.212.244.47:8080/live/0GEnbq/958885/53649.m3u8",
+      "http://206.212.244.47:8080/live/6QMk9P/387737/53649.m3u8",
+      "http://206.212.244.47:8080/live/nq8FBU/296644/53649.m3u8",
+      "http://206.212.244.47:8080/live/2132135/6953214/53649.m3u8",
+      "http://206.212.244.47:8080/live/37488138/97863234/53649.m3u8"
+    ]
   },
 
   {
@@ -3781,10 +3792,19 @@
     "name": "NFL Network",
     "logoLocal": "ch_nfl_network",
     "category": "Sports",
-    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nfl_hd/default/index.mpd",
-    "drm": {
-      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
-    }
+    "dateUpdated": "2026-06-26",
+    "streamUrl": "http://206.212.244.47:8080/live/22475922/79874979/101823.m3u8",
+    "standbyUrls": [
+      "http://206.212.244.47:8080/live/QdbRf1/350821/101823.m3u8",
+      "http://206.212.244.47:8080/live/2132135/6953214/101823.m3u8",
+      "http://206.212.244.47:8080/live/nq8FBU/296644/101823.m3u8",
+      "http://206.212.244.47:8080/live/7NYHqX/589045/101823.m3u8",
+      "http://206.212.244.47:8080/live/37488138/97863234/101823.m3u8",
+      "http://206.212.244.47:8080/live/MpZcA6/367825/101823.m3u8",
+      "http://206.212.244.47:8080/live/9fqCde/741589/101823.m3u8",
+      "http://206.212.244.47:8080/live/0GEnbq/958885/101823.m3u8",
+      "http://206.212.244.47:8080/live/6QMk9P/387737/101823.m3u8"
+    ]
   },
 
   {
