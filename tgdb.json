@@ -550,5 +550,12 @@
     "country": "United States",
     "status": "Tagalog-Dubbed",
     "streamUrl": "https://st82.febspot.com/videos/3227000/3227306/3227306_720p.mp4"
+  },
+
+  {
+    "name": "Test",
+    "country": "South Korea",
+    "status": "Tagalog-Dubbed",
+    "streamUrl": "https://hls.cdnvideo11.shop/hls07/10652/Ep1.v6382_index.m3u8"
   }
 ]
