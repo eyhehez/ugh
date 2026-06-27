@@ -1572,7 +1572,7 @@
 
   {
     "name": "New KMovies & Series",
-    "logoLocal": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_new_korean_movies_series.webp",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_new_korean_movies_series.webp",
     "category": "Movies",
     "dateAdded": "2026-06-27",
     "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386"
@@ -3537,7 +3537,7 @@
 
   {
     "name": "HBO Boxing",
-    "logoLocal": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_boxing.webp",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hbo_boxing.webp",
     "category": "Sports",
     "dateAdded": "2026-06-27",
     "streamUrl": "https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_channelId=99951469"
