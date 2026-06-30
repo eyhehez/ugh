@@ -1,7 +1,7 @@
 {
-  "version_code": 15,
-  "version_name": "15.0",
-  "apk_url": "https://dl.hayahay.app/Hayahay_v15.apk",
-  "release_notes": "Fixed a bug that caused playback issues on select anime episodes.\nPerformance enhancements and stability fixes.\n\nUpdate failing? Tap 'Visit Website' for the direct APK download.",
+  "version_code": 16,
+  "version_name": "16.0",
+  "apk_url": "https://dl.hayahay.app/Hayahay_v16.apk",
+  "release_notes": "Live TV: Switch channels directly while in full-screen mode.\n\nVOD: Download videos for offline playback.\nCustom playback speed controls.\n\nUpdate failing? Tap 'Visit Website' for the direct APK download.",
   "website_url": "https://hayahay.app"
 }
