@@ -4082,6 +4082,7 @@
     "name": "SPOTV",
     "logoLocal": "ch_spotv",
     "category": "Sports",
+    "dateUpdated": "2026-06-30",
     "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
     "drm": {
       "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
@@ -4092,6 +4093,7 @@
     "name": "SPOTV2",
     "logoLocal": "ch_spotv2",
     "category": "Sports",
+    "dateUpdated": "2026-06-30",
     "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
     "drm": {
       "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
