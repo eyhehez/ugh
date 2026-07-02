@@ -131,16 +131,6 @@
   },
 
   {
-    "name": "BuKO",
-    "logoLocal": "ch_buko",
-    "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd",
-    "drm": {
-      "d273c085f2ab4a248e7bfc375229007d": "7932354c3a84f7fc1b80efa6bcea0615"
-    }
-  },
-
-  {
     "name": "Crime & Investigation",
     "logoLocal": "ch_crime_investigation",
     "category": "Entertainment",
@@ -1101,14 +1091,6 @@
   },
 
   {
-    "name": "WOWOW Prime",
-    "logoLocal": "ch_wowow_prime",
-    "category": "Entertainment",
-    "dateUpdated": "2026-06-11",
-    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls"
-  },
-
-  {
     "name": "Cinema One",
     "logoLocal": "ch_cinema_one",
     "category": "Movies",
@@ -1733,14 +1715,6 @@
     "category": "Movies",
     "dateAdded": "2026-04-26",
     "streamUrl": "https://mytime-tcl.amagi.tv/playlist.m3u8"
-  },
-
-  {
-    "name": "WOWOW Cinema",
-    "logoLocal": "ch_wowow_cinema",
-    "category": "Movies",
-    "dateUpdated": "2026-06-11",
-    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls"
   },
     
   {
@@ -3275,21 +3249,6 @@
     "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
-  },
-
-   {
-    "name": "WOWOW Live",
-    "logoLocal": "ch_wowow_live",
-    "category": "International",
-    "dateUpdated": "2026-06-11",
-    "streamUrl": "http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls"
-  },
-
-   {
-    "name": "TBS",
-    "logoLocal": "ch_tbs",
-    "category": "International",
-    "streamUrl": "http://akariko.netgenx.site/stream/jp/TBS/stream-output.m3u8?mode=hls"
   },
 
   {
