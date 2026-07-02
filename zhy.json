@@ -4061,11 +4061,29 @@
     "name": "TNT Sports 1",
     "logoLocal": "ch_tnt_sports_1",
     "category": "Sports",
-    "dateUpdated": "2026-06-23",
-    "streamUrl": "https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-    "drm": {
-      "d14658a0ede94debcb4013b2056ba6d1": "60838a3176127fed0eaf038a5575de11"
-    }
+    "dateUpdated": "2026-07-02",
+    "streamUrl": "http://206.212.242.21:8080/live/GsPDfRs2H/Grade100/47850.m3u8",
+    "standbyUrls": [ 
+      "http://206.212.242.21:8080/live/jG62F4EcHn/3074729531/47850.m3u8",
+      "http://206.212.242.21:8080/live/EaJA7HJ40g/3854700321/47850.m3u8",
+      "http://206.212.242.21:8080/live/1SgEXx8QYg/5979366148/47850.m3u8",
+      "http://206.212.242.21:8080/live/6rk80svXKE/44886815569/47850.m3u8",
+      "http://206.212.242.21:8080/live/jsdaniels74/1836272615/47850.m3u8",
+      "http://206.212.242.21:8080/live/Omart955/3690963957/47850.m3u8",
+      "http://206.212.242.21:8080/live/5eDrAkMfU2/5154760227/47850.m3u8",
+      "http://206.212.242.21:8080/live/CgqzWqMHQ9/5257748697/47850.m3u8",
+      "http://206.212.242.21:8080/live/s66CwphxKj/Megalodon1031/47850.m3u8",
+      "http://206.212.242.21:8080/live/4yNXhET6j/4992732590/47850.m3u8",
+      "http://206.212.242.21:8080/live/MeZyl1987/9735100903/47850.m3u8",
+      "http://206.212.242.21:8080/live/w2D5PuzVEW/0290724379/47850.m3u8",
+      "http://206.212.242.21:8080/live/HDH5UREEYP/42660591264/47850.m3u8",
+      "http://206.212.242.21:8080/live/grijalva28/Infiniti08/47850.m3u8",
+      "http://206.212.242.21:8080/live/r39TcYT28q/7310509285/47850.m3u8",
+      "http://206.212.242.21:8080/live/P6YPNCrcgG/7329973937/47850.m3u8",
+      "http://206.212.242.21:8080/live/4abYcSzugD/7732488130/47850.m3u8",
+      "http://206.212.242.21:8080/live/hwilliamsw1/0938999941/47850.m3u8",
+      "http://206.212.242.21:8080/live/G3ZxfW9BUz/1838132923/47850.m3u8"
+    ]
   },
 
   {
@@ -4101,22 +4119,58 @@
     "name": "TNT Sports 3",
     "logoLocal": "ch_tnt_sports_3",
     "category": "Sports",
-    "dateUpdated": "2026-06-23",
-    "streamUrl": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-    "drm": {
-      "12413e2c2855cfc59ce0fe6b20cc71ca": "08d55a8f5fc93a9375f9b0cb2e1739ca"
-    }
+    "dateUpdated": "2026-07-02",
+    "streamUrl": "http://206.212.242.21:8080/live/P6YPNCrcgG/7329973937/47852.m3u8",
+    "standbyUrls": [ 
+      "http://206.212.242.21:8080/live/1SgEXx8QYg/5979366148/47852.m3u8",
+      "http://206.212.242.21:8080/live/CgqzWqMHQ9/5257748697/47852.m3u8",
+      "http://206.212.242.21:8080/live/r39TcYT28q/7310509285/47852.m3u8",
+      "http://206.212.242.21:8080/live/Omart955/3690963957/47852.m3u8",
+      "http://206.212.242.21:8080/live/s66CwphxKj/Megalodon1031/47852.m3u8",
+      "http://206.212.242.21:8080/live/4yNXhET6j/4992732590/47852.m3u8",
+      "http://206.212.242.21:8080/live/HDH5UREEYP/42660591264/47852.m3u8",
+      "http://206.212.242.21:8080/live/jG62F4EcHn/3074729531/47852.m3u8",
+      "http://206.212.242.21:8080/live/5eDrAkMfU2/5154760227/47852.m3u8",
+      "http://206.212.242.21:8080/live/jsdaniels74/1836272615/47852.m3u8",
+      "http://206.212.242.21:8080/live/6rk80svXKE/44886815569/47852.m3u8",
+      "http://206.212.242.21:8080/live/G3ZxfW9BUz/1838132923/47852.m3u8",
+      "http://206.212.242.21:8080/live/4abYcSzugD/7732488130/47852.m3u8",
+      "http://206.212.242.21:8080/live/GsPDfRs2H/Grade100/47852.m3u8",
+      "http://206.212.242.21:8080/live/grijalva28/Infiniti08/47852.m3u8",
+      "http://206.212.242.21:8080/live/w2D5PuzVEW/0290724379/47852.m3u8",
+      "http://206.212.242.21:8080/live/MeZyl1987/9735100903/47852.m3u8",
+      "http://206.212.242.21:8080/live/EaJA7HJ40g/3854700321/47852.m3u8",
+      "http://206.212.242.21:8080/live/hwilliamsw1/0938999941/47852.m3u8"
+    ]
   },
 
   {
     "name": "TNT Sports 4",
     "logoLocal": "ch_tnt_sports_4",
     "category": "Sports",
-    "dateUpdated": "2026-06-23",
-    "streamUrl": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-    "drm": {
-      "570c19f1be3410e4e409be4dc7923f2b": "9a4dea8af2a2a703dffa8a477e9edc50"
-    }
+    "dateUpdated": "2026-07-02",
+    "streamUrl": "http://206.212.242.21:8080/live/G3ZxfW9BUz/1838132923/47853.m3u8",
+    "standbyUrls": [ 
+      "http://206.212.242.21:8080/live/6rk80svXKE/44886815569/47853.m3u8",
+      "http://206.212.242.21:8080/live/Omart955/3690963957/47853.m3u8",
+      "http://206.212.242.21:8080/live/4yNXhET6j/4992732590/47853.m3u8",
+      "http://206.212.242.21:8080/live/MeZyl1987/9735100903/47853.m3u8",
+      "http://206.212.242.21:8080/live/EaJA7HJ40g/3854700321/47853.m3u8",
+      "http://206.212.242.21:8080/live/jsdaniels74/1836272615/47853.m3u8",
+      "http://206.212.242.21:8080/live/s66CwphxKj/Megalodon1031/47853.m3u8",
+      "http://206.212.242.21:8080/live/1SgEXx8QYg/5979366148/47853.m3u8",
+      "http://206.212.242.21:8080/live/CgqzWqMHQ9/5257748697/47853.m3u8",
+      "http://206.212.242.21:8080/live/GsPDfRs2H/Grade100/47853.m3u8",
+      "http://206.212.242.21:8080/live/jG62F4EcHn/3074729531/47853.m3u8",
+      "http://206.212.242.21:8080/live/hwilliamsw1/0938999941/47853.m3u8",
+      "http://206.212.242.21:8080/live/w2D5PuzVEW/0290724379/47853.m3u8",
+      "http://206.212.242.21:8080/live/5eDrAkMfU2/5154760227/47853.m3u8",
+      "http://206.212.242.21:8080/live/P6YPNCrcgG/7329973937/47853.m3u8",
+      "http://206.212.242.21:8080/live/grijalva28/Infiniti08/47853.m3u8",
+      "http://206.212.242.21:8080/live/4abYcSzugD/7732488130/47853.m3u8",
+      "http://206.212.242.21:8080/live/r39TcYT28q/7310509285/47853.m3u8",
+      "http://206.212.242.21:8080/live/HDH5UREEYP/42660591264/47853.m3u8"
+    ]
   },
 
   {
