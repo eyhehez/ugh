@@ -3391,6 +3391,17 @@
   },
 
   {
+    "name": "Eala vs. Paolini | 8:30 PM",
+    "logo": "https://raw.githubusercontent.com/eyhehez/ugh/main/images/ch_hammer.webp",
+    "category": "Sports",
+    "dateAdded": "2026-07-06",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
+    "drm": {
+      "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+    }
+  },
+
+  {
     "name": "NBA TV Philippines",
     "logoLocal": "ch_nba_tv_philippines",
     "category": "Sports",
