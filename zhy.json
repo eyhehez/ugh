@@ -4449,6 +4449,19 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
+  },
+
+  {
+    "name": ".",
+    "logoLocal": "ch_",
+    "category": "Sports",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd",
+    "drm": {
+      "1ece3ecb41699e855c6dc9a283908210": "ba08be767e1a5e89777e68a6998a8c19"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
   }
 ]
 }
