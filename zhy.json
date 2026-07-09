@@ -61,7 +61,7 @@
     "category": "Entertainment",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd",
     "drm": {
-      "045d103180f64562b1db7c932741c3ba": "c3380548b9075c767a6ae2006ef4bff8"
+      "8f7a2c913d6b4e5a9f127c8d4e6a1b90": "a73d3d1211fb23084c62572706f45397"
     }
   },
 
@@ -115,6 +115,16 @@
     "logoLocal": "ch_a2z",
     "category": "Entertainment",
     "streamUrl": "http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "BuKO",
+    "logoLocal": "ch_buko",
+    "category": "Entertainment",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd",
+    "drm": {
+      "c8b1d5f42a674e93b8016f2d9c7a5e34": "168bbf02d7eca252a61a402e25cb33f5"
+    }
   },
 
   {
@@ -173,9 +183,9 @@
     "name": "RPTV",
     "logoLocal": "ch_rptv",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd",
     "drm": {
-      "1917f4caf2364e6d9b1507326a85ead6": "a1340a251a5aa63a9b0ea5d9d7f67595"
+      "b5d7a6219c434e188f026a3d7c5e9148": "28e1244057ff6feae879c1e985ded0fb"
     }
   },
 
@@ -183,9 +193,9 @@
     "name": "True TV",
     "logoLocal": "ch_true_tv",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd",
     "drm": {
-      "a4e2b9d61c754f3a8d109b6c2f1e7a55": "1d8d975f0bc2ed90eda138bd31f173f4"
+      "8c4e9a516d724f30b2187a3c5e9d6041": "e25c167573772b510ff8e5282560a349"
     }
   },
 
@@ -300,9 +310,9 @@
     "logoLocal": "ch_rock_entertainment",
     "category": "Entertainment",
     "dateAdded": "2026-03-23",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd",
     "drm": {
-      "e4ee0cf8ca9746f99af402ca6eed8dc7": "be2a096403346bc1d0bb0f812822bb62"
+      "86e5c7921a434f60b9287d3c9e5a6041": "fab817af24eab2a73ae89145797cf556"
     }
   },
 
@@ -1295,7 +1305,7 @@
     "category": "Movies",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd",
     "drm": {
-      "b04ae8017b5b4601a5a0c9060f6d5b7d": "a8795f3bdb8a4778b7e888ee484cc7a1"
+      "3e8c5a917d424f06b2196a5c9e2d8043": "516c47ccef00a12421d9805c8c1c6c1d"
     }
   },
 
@@ -1316,7 +1326,7 @@
     "category": "Movies",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd",
     "drm": {
-      "872910c843294319800d85f9a0940607": "f79fd895b79c590708cf5e8b5c6263be"
+      "c6e4b9218f534a709d165c3a7e2f8048": "87c0e7cf73324aea32dada7b5f33063d"
     }
   },
 
@@ -1326,7 +1336,7 @@
     "category": "Movies",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd",
     "drm": {
-      "a06ca6c275744151895762e0346380f5": "559da1b63eec77b5a942018f14d3f56f"
+      "74d8f5916c234b80a9179e5d3c7a2046": "f8d2753ff54579efc01d3373acf21f96"
     }
   },
 
@@ -1525,9 +1535,9 @@
     "name": "Tap Movies",
     "logoLocal": "ch_tap_movies",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd",
     "drm": {
-      "71cbdf02b595468bb77398222e1ade09": "c3f2aa420b8908ab8761571c01899460"
+      "65d8c4912f734a90b8163e7c5d9a2041": "fd495b984013da4e26f83b1a921c0a15"
     }
   },
 
@@ -1577,9 +1587,9 @@
     "name": "tvN Movies Pinoy",
     "logoLocal": "ch_tvn_movies_pinoy",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd",
     "drm": {
-      "2e53f8d8a5e94bca8f9a1e16ce67df33": "3471b2464b5c7b033a03bb8307d9fa35"
+      "e6c9a4215d734f608b197c3e2a5d9048": "ec695ab203cb2258db220b3863e2a7ee"
     }
   },
 
@@ -1803,7 +1813,7 @@
     "category": "Kids",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd",
     "drm": {
-      "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
+      "53c8e6914d724f30a9168b5e2c7d1043": "1e17afbdfff786533796780f3f04aa67"
     }
   },
 
@@ -1811,9 +1821,9 @@
     "name": "DreamWorks",
     "logoLocal": "ch_dreamworks",
     "category": "Kids",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd",
     "drm": {
-      "7b1e9c4d5a2f4d8c9f106d3a8b2c1e77": "8b2904224c6cee13d2d4e06c0a3b2887"
+      "1f7c9a425d864e30b2198a3c6f7d5041": "b392ee3cd42686a8cff3070eef614745"
     }
   },
 
@@ -1821,9 +1831,9 @@
     "name": "DreamWorks (Tagalized)",
     "logoLocal": "ch_dreamworks",
     "category": "Kids",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd",
     "drm": {
-      "564b3b1c781043c19242c66e348699c5": "d3ad27d7fe1f14fb1a2cd5688549fbab"
+      "6f9c3a218d454b70a2187e5c3d6f9042": "337ca7b74b462dd1ba7441553614538a"
     }
   },
 
@@ -2125,9 +2135,9 @@
     "name": "BBC Earth",
     "logoLocal": "ch_bbc_earth",
     "category": "Documentary",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_bbcearth_hd1/default/index.mpd",
     "drm": {
-      "34ce95b60c424e169619816c5181aded": "0e2a2117d705613542618f58bf26fc8e"
+      "4f9c6e217a354d80b9268e5c3f1a7042": "41b33eebbacf91fe6c86bd28081bf3fd"
     }
   },
 
@@ -2363,9 +2373,9 @@
     "name": "DepEd TV",
     "logoLocal": "ch_deped_tv",
     "category": "Educational",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd",
     "drm": {
-      "0f853706412b11edb8780242ac120002": "2157d6529d80a760f60a8b5350dbc4df"
+      "c1a5e8329d644f70b2187a3c6e5d2041": "55979431f291f7dff35a43b73b3c2a36"
     }
   },
 
@@ -2588,9 +2598,9 @@
     "name": "Fashion TV",
     "logoLocal": "ch_fashion_tv",
     "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/fashiontvhd/default/index.mpd",
     "drm": {
-      "9d7c1f2a6b4e4a8d8f33c1e5b7d2a960": "3a18c535c52db7c79823f59036a9d195"
+      "c8a4e6917f324d05b9186c5e3a2f7049": "92b4ece8c84379145045267b47f183d2"
     }
   },
 
@@ -2606,9 +2616,9 @@
     "name": "Food Network",
     "logoLocal": "ch_food_network",
     "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd",
     "drm": {
-      "4a9d2f7c1e6b4c8d8a55d7b1e3f0c926": "2e62531bdb450480a18197b14f4ebc77"
+      "b1f4a8926c374d509e218a7c3f5d6049": "15cde0b44b44f38ea936513a99606c1b"
     }
   },
 
@@ -2636,9 +2646,9 @@
     "name": "Travel Channel",
     "logoLocal": "ch_travel_channel",
     "category": "Lifestyle",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd",
     "drm": {
-      "f3047fc13d454dacb6db4207ee79d3d3": "bdbd38748f51fc26932e96c9a2020839"
+      "18c6f9235b744d81a0397e2c9f6a5048": "7974c1376447c563f5fdb41be0104ddf"
     }
   },
 
@@ -2921,7 +2931,7 @@
     "category": "News",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd",
     "drm": {
-      "2e6a9d7c1f4b4c8a8d33c7b1f0a5e924": "4c71e178d090332fbfe72e023b59f6d2"
+      "d5c8a2914e734b609f127a3d6c5e8048": "11368a3b001407d65a85b4edb410ecdd"
     }
   },
 
@@ -3181,9 +3191,9 @@
     "name": "tvN",
     "logoLocal": "ch_tvn",
     "category": "International",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd",
     "drm": {
-      "e1bde543e8a140b38d3f84ace746553e": "b712c4ec307300043333a6899a402c10"
+      "3a7f9c615d824e40a9168c5b2d7f3049": "2bc91eced1660ecf88299a42e4c0cd91"
     }
   },
 
@@ -3212,9 +3222,9 @@
     "logoLocal": "ch_kix",
     "category": "International",
     "dateUpdated": "2026-06-19",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd",
     "drm": {
-      "c9d4b7a18e2f4d6c9a103f5b7e1c2d88": "7f3139092bf87d8aa51ee40e6294d376"
+      "7f4a9c312e854d67b0198c6f5a3e7240": "141f058ad1a6230e7c6f9d302ce378ef"
     }
   },
 
@@ -3381,9 +3391,9 @@
     "name": "NBA TV Philippines",
     "logoLocal": "ch_nba_tv_philippines",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd",
     "drm": {
-      "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
+      "2f7c9a615d834e40b2188a6d3c7f9042": "41d2ade5ff1798859420e925d5d2080d"
     }
   },
 
@@ -3430,9 +3440,9 @@
     "name": "PBA RUSH",
     "logoLocal": "ch_pba_rush",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd",
     "drm": {
-      "d7f1a9c36b2e4f8d9a441c5e7b2d8f60": "fb83c86f600ab945e7e9afed8376eb1e"
+      "91a5e6327c844f09b2186d3a5e7c2041": "984beb3aeff3554c1a5acc04d6044e55"
     }
   },
 
@@ -3443,7 +3453,7 @@
     "dateAdded": "2026-04-15",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd",
     "drm": {
-      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
+      "69f5a2318d744c609b125e3a7d8f2046": "182523c0bae912e17e916dd4283280e9"
     }
   },
 
@@ -3454,7 +3464,7 @@
     "dateAdded": "2026-04-15",
     "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd",
     "drm": {
-      "f00bd0122a8a4da1a49ea6c49f7098ad": "a4079f3667ba4c2bcfdeb13e45a6e9c6"
+      "e9c4f7312a854d69b0137f6e8c2a5490": "1105fa92173b06885be336b887bc4d26"
     }
   },
     
@@ -3469,9 +3479,9 @@
     "name": "UAAP Varsity Channel",
     "logoLocal": "ch_varsity_channel",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd",
     "drm": {
-      "95588338ee37423e99358a6d431324b9": "6e0f50a12f36599a55073868f814e81e"
+      "b6c9f4218d734a059e165c3d7a2f8049": "948aa5c0d0c15c70efb9257f5b75c379"
     }
   },
 
@@ -4037,9 +4047,9 @@
     "name": "SPOTV",
     "logoLocal": "ch_spotv",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd",
     "drm": {
-      "ec7ee27d83764e4b845c48cca31c8eef": "9c0e4191203fccb0fde34ee29999129e"
+      "c5e8a3927d414b609f286a3c5e1d7049": "7c5edbd3d090bb6de9a9c3685defa959"
     }
   },
 
@@ -4047,9 +4057,9 @@
     "name": "SPOTV2",
     "logoLocal": "ch_spotv2",
     "category": "Sports",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd",
     "drm": {
-      "7eea72d6075245a99ee3255603d58853": "6848ef60575579bf4d415db1032153ed"
+      "b2d8f6315c494e07a8129f6a3d5c2048": "6b4247def21bbd0d08629a3cb4c62ee9"
     }
   },
 
