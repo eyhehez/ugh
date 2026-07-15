@@ -1,7 +1,7 @@
 {
-  "version_code": 16,
-  "version_name": "16.0",
-  "apk_url": "https://dl.hayahay.app/Hayahay_v16.apk",
-  "release_notes": "Live TV: Switch channels directly while in full-screen mode.\n\nVOD: Download videos for offline playback.\nCustom playback speed controls.\n\nUpdate failing? Tap 'Visit Website' for the direct APK download.",
+  "version_code": 17,
+  "version_name": "17.0",
+  "apk_url": "https://dl.hayahay.app/Hayahay_v17.apk",
+  "release_notes": "Fixed ad display issues for some devices.\n\nVOD: Added screen casting support for Chromecast, Android TV, and Google TV devices.\nFixed missing poster images.\n\nUpdate failing? Tap 'Visit Website' for the direct APK download.",
   "website_url": "https://hayahay.app"
 }
