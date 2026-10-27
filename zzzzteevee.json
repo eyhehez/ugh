@@ -98,7 +98,14 @@
   }
 },
 
-{
+  {
+    "name": "CNA",
+    "logoLocal": "ch_cna",
+    "category": "News",
+    "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+  },
+
+  {
   "name": "Star Movies Select",
   "category": "Movies",
   "streamUrl": "http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8",
@@ -252,19 +259,39 @@
     "category": "Anime",
     "streamUrl": "https://amg02159-amg02159c9-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02159-amg02159c9-amgplt0352/playlist.m3u8"
   },
+  
+  {
+    "name": "Cartoon Network",
+    "logoLocal": "ch_cartoon_network",
+    "category": "Kids",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd",
+    "drm": {
+      "1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+  {
+    "name": "Cartoon Network HD+",
+    "logo": "https://images.hayahay.app/ch_cartoon_network_hd_plus.webp",
+    "category": "Kids",
+    "dateAdded": "2026-10-26",
+    "streamUrl": "https://login.bheem.tv/bpk-tv/22096/output/index.mpd",
+    "drm": {
+      "9452bb588219504397cc7dfc407356b5": "1b3fc29b2616b147ebe119f2c6f9a02a"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
 
   {
     "name": "Game Show Network",
     "logoLocal": "ch_game_show_network",
     "category": "Entertainment",
     "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
-  },
-
-  {
-    "name": "CNA",
-    "logoLocal": "ch_cna",
-    "category": "News",
-    "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
   }
 
 ]
